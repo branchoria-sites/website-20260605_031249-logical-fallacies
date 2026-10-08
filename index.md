@@ -229,7 +229,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-ad-hominem-32e1c3-science-ad-hominem-e-2cf8a9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'science-effects/' | relative_url }}" title="Can attacking a scientist change beliefs? | Logical Fallacies 998914 Ad Hominem" aria-label="Open page: Can attacking a scientist change beliefs? | Logical Fallacies 998914 Ad Hominem">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'science-effects/' | relative_url }}" title="Can attacking a scientist change beliefs? | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Open page: Can attacking a scientist change beliefs? | When Personal Attacks Replace Reasons | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-1.webp' | relative_url }}" alt="Overview image for Can attacking a scientist change beliefs? | Logical Fallacies 998914 Ad Hominem" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -249,7 +249,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-ad-hominem-32e1c3-tu-quoque-hypocrisy-9f6a14" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'tu-quoque-hypocrisy-9-f6-a14/' | relative_url }}" title="Tu Quoque Hypocrisy | Logical Fallacies 998914 Ad Hominem" aria-label="Open page: Tu Quoque Hypocrisy | Logical Fallacies 998914 Ad Hominem">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tu-quoque-hypocrisy-9-f6-a14/' | relative_url }}" title="Tu Quoque Hypocrisy 9 F6 A14 | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Open page: Tu Quoque Hypocrisy 9 F6 A14 | When Personal Attacks Replace Reasons | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-1.webp' | relative_url }}" alt="Overview image for Tu Quoque Hypocrisy | Logical Fallacies 998914 Ad Hominem" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -268,7 +268,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-ad-hominem-32e1c3-guilt-by-association-4ddecd" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'association/' | relative_url }}" title="When association replaces evidence | Logical Fallacies 998914 Ad Hominem" aria-label="Open page: When association replaces evidence | Logical Fallacies 998914 Ad Hominem">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'association/' | relative_url }}" title="When association replaces evidence | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Open page: When association replaces evidence | When Personal Attacks Replace Reasons | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-1.webp' | relative_url }}" alt="Overview image for When association replaces evidence | Logical Fallacies 998914 Ad Hominem" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -288,7 +288,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-ad-hominem-32e1c3-relevant-credibility-936531" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility-840c81/' | relative_url }}" title="When character evidence actually matters | Logical Fallacies 998914 Ad Hominem" aria-label="Open page: When character evidence actually matters | Logical Fallacies 998914 Ad Hominem">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility-840c81/' | relative_url }}" title="When character evidence actually matters | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Open page: When character evidence actually matters | When Personal Attacks Replace Reasons | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_ad_hominem_32e1c3_relevant_credibility_936531-Illustration-1.webp' | relative_url }}" alt="Overview image for When character evidence actually matters | Logical Fallacies 998914 Ad Hominem" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -308,7 +308,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-ad-hominem-32e1c3-online-pileons-perso-260858" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'pile-ons/' | relative_url }}" title="Why online insults spread so fast | Logical Fallacies 998914 Ad Hominem" aria-label="Open page: Why online insults spread so fast | Logical Fallacies 998914 Ad Hominem">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'pile-ons/' | relative_url }}" title="Why online insults spread so fast | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Open page: Why online insults spread so fast | When Personal Attacks Replace Reasons | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-1.webp' | relative_url }}" alt="Overview image for Why online insults spread so fast | Logical Fallacies 998914 Ad Hominem" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -352,7 +352,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-advertising-fallacie-a808f7-online-review-social-7746ec" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'review-ratings/' | relative_url }}" title="Can Star Ratings Become Manufactured Proof? | Logical Fallacies 998914 Advertising Fallacie" aria-label="Open page: Can Star Ratings Become Manufactured Proof? | Logical Fallacies 998914 Advertising Fallacie">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'review-ratings/' | relative_url }}" title="Can Star Ratings Become Manufactured Proof? | How Ads Make Weak Claims Persuasive | Logical Fallacies" aria-label="Open page: Can Star Ratings Become Manufactured Proof? | How Ads Make Weak Claims Persuasive | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_online_review_social_7746ec-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Star Ratings Become Manufactured Proof? | Logical Fallacies 998914 Advertising Fallacie" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -372,7 +372,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-advertising-fallacie-a808f7-clinically-proven-mi-d211f9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'clinical-claims/' | relative_url }}" title="What Does Clinically Proven Actually Prove? | Logical Fallacies 998914 Advertising Fallacie" aria-label="Open page: What Does Clinically Proven Actually Prove? | Logical Fallacies 998914 Advertising Fallacie">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'clinical-claims/' | relative_url }}" title="What Does Clinically Proven Actually Prove? | How Ads Make Weak Claims Persuasive | Logical Fallacies" aria-label="Open page: What Does Clinically Proven Actually Prove? | How Ads Make Weak Claims Persuasive | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_clinically_proven_mi_d211f9-Illustration-1.webp' | relative_url }}" alt="Overview image for What Does Clinically Proven Actually Prove? | Logical Fallacies 998914 Advertising Fallacie" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -392,7 +392,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-advertising-fallacie-a808f7-bandwagon-ads-popula-4e8fd8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'bandwagon-ads/' | relative_url }}" title="When Popular Ads Pretend Popular Means Proven | Logical Fallacies 998914 Advertising Fallacie" aria-label="Open page: When Popular Ads Pretend Popular Means Proven | Logical Fallacies 998914 Advertising Fallacie">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'bandwagon-ads/' | relative_url }}" title="When Popular Ads Pretend Popular Means Proven | How Ads Make Weak Claims Persuasive | Logical Fallacies" aria-label="Open page: When Popular Ads Pretend Popular Means Proven | How Ads Make Weak Claims Persuasive | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_bandwagon_ads_popula_4e8fd8-Illustration-1.webp' | relative_url }}" alt="Overview image for When Popular Ads Pretend Popular Means Proven | Logical Fallacies 998914 Advertising Fallacie" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -412,7 +412,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-advertising-fallacie-a808f7-hidden-influencer-pa-c9b913" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-payments/' | relative_url }}" title="When Sponsored Praise Needs Clear Disclosure | Logical Fallacies 998914 Advertising Fallacie" aria-label="Open page: When Sponsored Praise Needs Clear Disclosure | Logical Fallacies 998914 Advertising Fallacie">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-payments/' | relative_url }}" title="When Sponsored Praise Needs Clear Disclosure | How Ads Make Weak Claims Persuasive | Logical Fallacies" aria-label="Open page: When Sponsored Praise Needs Clear Disclosure | How Ads Make Weak Claims Persuasive | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_hidden_influencer_pa_c9b913-Illustration-1.webp' | relative_url }}" alt="Overview image for When Sponsored Praise Needs Clear Disclosure | Logical Fallacies 998914 Advertising Fallacie" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -432,7 +432,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-advertising-fallacie-a808f7-celebrity-borrowed-a-31c417" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'celebrity-ads/' | relative_url }}" title="Why Fame Is Not Product Evidence | Logical Fallacies 998914 Advertising Fallacie" aria-label="Open page: Why Fame Is Not Product Evidence | Logical Fallacies 998914 Advertising Fallacie">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'celebrity-ads/' | relative_url }}" title="Why Fame Is Not Product Evidence | How Ads Make Weak Claims Persuasive | Logical Fallacies" aria-label="Open page: Why Fame Is Not Product Evidence | How Ads Make Weak Claims Persuasive | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_celebrity_borrowed_a_31c417-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Fame Is Not Product Evidence | Logical Fallacies 998914 Advertising Fallacie" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -476,7 +476,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-anecdotal-evidence-616cb7-medical-anecdote-sig-078c7c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'medical-signals/' | relative_url }}" title="Can a Patient Story Warn US Early? | Logical Fallacies 998914 Anecdotal Evidence" aria-label="Open page: Can a Patient Story Warn US Early? | Logical Fallacies 998914 Anecdotal Evidence">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'medical-signals/' | relative_url }}" title="Can a Patient Story Warn US Early? | When Is a Story Not Enough? | Logical Fallacies" aria-label="Open page: Can a Patient Story Warn US Early? | When Is a Story Not Enough? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_medical_anecdote_sig_078c7c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Patient Story Warn US Early? | Logical Fallacies 998914 Anecdotal Evidence" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -496,7 +496,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-anecdotal-evidence-616cb7-treatment-false-caus-ad72db" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'after-treatment/' | relative_url }}" title="Did the Remedy Cause the Recovery? | Logical Fallacies 998914 Anecdotal Evidence" aria-label="Open page: Did the Remedy Cause the Recovery? | Logical Fallacies 998914 Anecdotal Evidence">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'after-treatment/' | relative_url }}" title="Did the Remedy Cause the Recovery? | When Is a Story Not Enough? | Logical Fallacies" aria-label="Open page: Did the Remedy Cause the Recovery? | When Is a Story Not Enough? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Remedy Cause the Recovery? | Logical Fallacies 998914 Anecdotal Evidence" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -516,7 +516,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-anecdotal-evidence-616cb7-fair-use-anecdotes-a79120" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fair-use/' | relative_url }}" title="How to Use Stories Without Cherry Picking | Logical Fallacies 998914 Anecdotal Evidence" aria-label="Open page: How to Use Stories Without Cherry Picking | Logical Fallacies 998914 Anecdotal Evidence">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fair-use/' | relative_url }}" title="How to Use Stories Without Cherry Picking | When Is a Story Not Enough? | Logical Fallacies" aria-label="Open page: How to Use Stories Without Cherry Picking | When Is a Story Not Enough? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Use Stories Without Cherry Picking | Logical Fallacies 998914 Anecdotal Evidence" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -536,7 +536,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-anecdotal-evidence-616cb7-one-story-false-rule-90590a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-rule/' | relative_url }}" title="When One Story Starts Sounding Like Proof | Logical Fallacies 998914 Anecdotal Evidence" aria-label="Open page: When One Story Starts Sounding Like Proof | Logical Fallacies 998914 Anecdotal Evidence">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-rule/' | relative_url }}" title="When One Story Starts Sounding Like Proof | When Is a Story Not Enough? | Logical Fallacies" aria-label="Open page: When One Story Starts Sounding Like Proof | When Is a Story Not Enough? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_one_story_false_rule_90590a-Illustration-1.webp' | relative_url }}" alt="Overview image for When One Story Starts Sounding Like Proof | Logical Fallacies 998914 Anecdotal Evidence" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -556,7 +556,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-anecdotal-evidence-616cb7-vivid-story-availabi-1d47b8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'vivid-stories/' | relative_url }}" title="Why Vivid Examples Feel So Convincing | Logical Fallacies 998914 Anecdotal Evidence" aria-label="Open page: Why Vivid Examples Feel So Convincing | Logical Fallacies 998914 Anecdotal Evidence">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'vivid-stories/' | relative_url }}" title="Why Vivid Examples Feel So Convincing | When Is a Story Not Enough? | Logical Fallacies" aria-label="Open page: Why Vivid Examples Feel So Convincing | When Is a Story Not Enough? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_vivid_story_availabi_1d47b8-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vivid Examples Feel So Convincing | Logical Fallacies 998914 Anecdotal Evidence" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -600,7 +600,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-argument-mapping-8e4963-linked-premises-supp-c1945c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'linked-premises/' | relative_url }}" title="Are These Reasons Independent or One Linked Argument? | Logical Fallacies 998914 Argument Mapping" aria-label="Open page: Are These Reasons Independent or One Linked Argument? | Logical Fallacies 998914 Argument Mapping">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'linked-premises/' | relative_url }}" title="Are These Reasons Independent or One Linked Argument? | Can You Map the Reasoning? | Logical Fallacies" aria-label="Open page: Are These Reasons Independent or One Linked Argument? | Can You Map the Reasoning? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-1.webp' | relative_url }}" alt="Overview image for Are These Reasons Independent or One Linked Argument? | Logical Fallacies 998914 Argument Mapping" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -620,7 +620,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-argument-mapping-8e4963-city-transport-objec-589a60" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'policy-objections/' | relative_url }}" title="Do the Objections Undermine the Policy or the Reasoning? | Logical Fallacies 998914 Argument Mapping" aria-label="Open page: Do the Objections Undermine the Policy or the Reasoning? | Logical Fallacies 998914 Argument Mapping">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'policy-objections/' | relative_url }}" title="Do the Objections Undermine the Policy or the Reasoning? | Can You Map the Reasoning? | Logical Fallacies" aria-label="Open page: Do the Objections Undermine the Policy or the Reasoning? | Can You Map the Reasoning? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-1.webp' | relative_url }}" alt="Overview image for Do the Objections Undermine the Policy or the Reasoning? | Logical Fallacies 998914 Argument Mapping" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -640,7 +640,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-argument-mapping-8e4963-policy-hidden-assump-0461c5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-assumptions-6f3cc8/' | relative_url }}" title="What Assumptions Make This Policy Argument Work? | Logical Fallacies 998914 Argument Mapping" aria-label="Open page: What Assumptions Make This Policy Argument Work? | Logical Fallacies 998914 Argument Mapping">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-assumptions-6f3cc8/' | relative_url }}" title="What Assumptions Make This Policy Argument Work? | Can You Map the Reasoning? | Logical Fallacies" aria-label="Open page: What Assumptions Make This Policy Argument Work? | Can You Map the Reasoning? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-1.webp' | relative_url }}" alt="Overview image for What Assumptions Make This Policy Argument Work? | Logical Fallacies 998914 Argument Mapping" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -660,7 +660,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-argument-mapping-8e4963-scientific-citation-1293bc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'citation-gaps/' | relative_url }}" title="When a Scientific Source Does Not Prove the Claim | Logical Fallacies 998914 Argument Mapping" aria-label="Open page: When a Scientific Source Does Not Prove the Claim | Logical Fallacies 998914 Argument Mapping">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'citation-gaps/' | relative_url }}" title="When a Scientific Source Does Not Prove the Claim | Can You Map the Reasoning? | Logical Fallacies" aria-label="Open page: When a Scientific Source Does Not Prove the Claim | Can You Map the Reasoning? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_argument_mapping_8e4963_scientific_citation_1293bc-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Scientific Source Does Not Prove the Claim | Logical Fallacies 998914 Argument Mapping" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -680,7 +680,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-argument-mapping-8e4963-weak-link-checks-93e61d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'weak-link-checks/' | relative_url }}" title="Which Part of the Argument Actually Fails? | Logical Fallacies 998914 Argument Mapping" aria-label="Open page: Which Part of the Argument Actually Fails? | Logical Fallacies 998914 Argument Mapping">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'weak-link-checks/' | relative_url }}" title="Which Part of the Argument Actually Fails? | Can You Map the Reasoning? | Logical Fallacies" aria-label="Open page: Which Part of the Argument Actually Fails? | Can You Map the Reasoning? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Part of the Argument Actually Fails? | Logical Fallacies 998914 Argument Mapping" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -724,7 +724,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-authority-908307-expert-vs-consensus-b80622" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'expert-consensus/' | relative_url }}" title="One Expert or the Whole Field? | Logical Fallacies 998914 Appeal To Authority" aria-label="Open page: One Expert or the Whole Field? | Logical Fallacies 998914 Appeal To Authority">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'expert-consensus/' | relative_url }}" title="One Expert or the Whole Field? | When Should You Trust an Expert? | Logical Fallacies" aria-label="Open page: One Expert or the Whole Field? | When Should You Trust an Expert? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-1.webp' | relative_url }}" alt="Overview image for One Expert or the Whole Field? | Logical Fallacies 998914 Appeal To Authority" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -744,7 +744,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-authority-908307-biased-expert-intere-39f7ce" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'biased-experts/' | relative_url }}" title="When Experts Have Something to Gain | Logical Fallacies 998914 Appeal To Authority" aria-label="Open page: When Experts Have Something to Gain | Logical Fallacies 998914 Appeal To Authority">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'biased-experts/' | relative_url }}" title="When Experts Have Something to Gain | When Should You Trust an Expert? | Logical Fallacies" aria-label="Open page: When Experts Have Something to Gain | When Should You Trust an Expert? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_authority_908307_biased_expert_intere_39f7ce-Illustration-1.webp' | relative_url }}" alt="Overview image for When Experts Have Something to Gain | Logical Fallacies 998914 Appeal To Authority" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -764,7 +764,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-authority-908307-celebrity-false-auth-5d76b7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'celebrity-claims/' | relative_url }}" title="When Fame Pretends to Be Expertise | Logical Fallacies 998914 Appeal To Authority" aria-label="Open page: When Fame Pretends to Be Expertise | Logical Fallacies 998914 Appeal To Authority">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'celebrity-claims/' | relative_url }}" title="When Fame Pretends to Be Expertise | When Should You Trust an Expert? | Logical Fallacies" aria-label="Open page: When Fame Pretends to Be Expertise | When Should You Trust an Expert? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebrity_false_auth_5d76b7-Illustration-1.webp' | relative_url }}" alt="Overview image for When Fame Pretends to Be Expertise | Logical Fallacies 998914 Appeal To Authority" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -784,7 +784,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-authority-908307-anonymous-expert-cla-f2942b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'unnamed-experts/' | relative_url }}" title="Who Are These Experts, Exactly? | Logical Fallacies 998914 Appeal To Authority" aria-label="Open page: Who Are These Experts, Exactly? | Logical Fallacies 998914 Appeal To Authority">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'unnamed-experts/' | relative_url }}" title="Who Are These Experts, Exactly? | When Should You Trust an Expert? | Logical Fallacies" aria-label="Open page: Who Are These Experts, Exactly? | When Should You Trust an Expert? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_authority_908307_anonymous_expert_cla_f2942b-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Are These Experts, Exactly? | Logical Fallacies 998914 Appeal To Authority" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -804,7 +804,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-authority-908307-expert-evidence-not-ee5a8a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence-not-proof/' | relative_url }}" title="Why Experts Still Need Evidence | Logical Fallacies 998914 Appeal To Authority" aria-label="Open page: Why Experts Still Need Evidence | Logical Fallacies 998914 Appeal To Authority">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence-not-proof/' | relative_url }}" title="Why Experts Still Need Evidence | When Should You Trust an Expert? | Logical Fallacies" aria-label="Open page: Why Experts Still Need Evidence | When Should You Trust an Expert? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_evidence_not_ee5a8a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Experts Still Need Evidence | Logical Fallacies 998914 Appeal To Authority" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -848,7 +848,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-hasty-generalisation-417b3c-review-sites-respons-94c0a5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'review-bias/' | relative_url }}" title="Do Bad Reviews Show the Whole Picture? | Logical Fallacies 998914 Hasty Generalisation" aria-label="Open page: Do Bad Reviews Show the Whole Picture? | Logical Fallacies 998914 Hasty Generalisation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'review-bias/' | relative_url }}" title="Do Bad Reviews Show the Whole Picture? | How Much Evidence Is Enough? | Logical Fallacies" aria-label="Open page: Do Bad Reviews Show the Whole Picture? | How Much Evidence Is Enough? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_review_sites_respons_94c0a5-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Bad Reviews Show the Whole Picture? | Logical Fallacies 998914 Hasty Generalisation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -868,7 +868,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-hasty-generalisation-417b3c-small-samples-sweepi-87c67c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'small-samples/' | relative_url }}" title="How Many Examples Are Enough? | Logical Fallacies 998914 Hasty Generalisation" aria-label="Open page: How Many Examples Are Enough? | Logical Fallacies 998914 Hasty Generalisation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'small-samples/' | relative_url }}" title="How Many Examples Are Enough? | How Much Evidence Is Enough? | Logical Fallacies" aria-label="Open page: How Many Examples Are Enough? | How Much Evidence Is Enough? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_small_samples_sweepi_87c67c-Illustration-1.webp' | relative_url }}" alt="Overview image for How Many Examples Are Enough? | Logical Fallacies 998914 Hasty Generalisation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -888,7 +888,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-hasty-generalisation-417b3c-literary-digest-bad-ee33cb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'digest-poll/' | relative_url }}" title="The Huge Poll That Got It Wrong | Logical Fallacies 998914 Hasty Generalisation" aria-label="Open page: The Huge Poll That Got It Wrong | Logical Fallacies 998914 Hasty Generalisation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'digest-poll/' | relative_url }}" title="The Huge Poll That Got It Wrong | How Much Evidence Is Enough? | Logical Fallacies" aria-label="Open page: The Huge Poll That Got It Wrong | How Much Evidence Is Enough? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-1.webp' | relative_url }}" alt="Overview image for The Huge Poll That Got It Wrong | Logical Fallacies 998914 Hasty Generalisation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -908,7 +908,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-hasty-generalisation-417b3c-personal-experience-31a985" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'experience/' | relative_url }}" title="What Personal Experience Can Prove | Logical Fallacies 998914 Hasty Generalisation" aria-label="Open page: What Personal Experience Can Prove | Logical Fallacies 998914 Hasty Generalisation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'experience/' | relative_url }}" title="What Personal Experience Can Prove | How Much Evidence Is Enough? | Logical Fallacies" aria-label="Open page: What Personal Experience Can Prove | How Much Evidence Is Enough? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_personal_experience_31a985-Illustration-1.webp' | relative_url }}" alt="Overview image for What Personal Experience Can Prove | Logical Fallacies 998914 Hasty Generalisation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -928,7 +928,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-hasty-generalisation-417b3c-some-to-most-leap-135639" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'some-to-most/' | relative_url }}" title="When Some Becomes Most | Logical Fallacies 998914 Hasty Generalisation" aria-label="Open page: When Some Becomes Most | Logical Fallacies 998914 Hasty Generalisation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'some-to-most/' | relative_url }}" title="When Some Becomes Most | How Much Evidence Is Enough? | Logical Fallacies" aria-label="Open page: When Some Becomes Most | How Much Evidence Is Enough? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_some_to_most_leap_135639-Illustration-1.webp' | relative_url }}" alt="Overview image for When Some Becomes Most | Logical Fallacies 998914 Hasty Generalisation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -972,7 +972,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-bandwagon-pressure-080021-trending-metrics-fee-2fba69" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'trending-loops/' | relative_url }}" title="How Trending Numbers Create More Trending | Logical Fallacies 998914 Bandwagon Pressure" aria-label="Open page: How Trending Numbers Create More Trending | Logical Fallacies 998914 Bandwagon Pressure">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'trending-loops/' | relative_url }}" title="How Trending Numbers Create More Trending | Are You Being Pressured to Join? | Logical Fallacies" aria-label="Open page: How Trending Numbers Create More Trending | Are You Being Pressured to Join? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-1.webp' | relative_url }}" alt="Overview image for How Trending Numbers Create More Trending | Logical Fallacies 998914 Bandwagon Pressure" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -992,7 +992,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-bandwagon-pressure-080021-asch-line-conformity-341326" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'asch-lines/' | relative_url }}" title="What the Asch Experiments Still Show | Logical Fallacies 998914 Bandwagon Pressure" aria-label="Open page: What the Asch Experiments Still Show | Logical Fallacies 998914 Bandwagon Pressure">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'asch-lines/' | relative_url }}" title="What the Asch Experiments Still Show | Are You Being Pressured to Join? | Logical Fallacies" aria-label="Open page: What the Asch Experiments Still Show | Are You Being Pressured to Join? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_bandwagon_pressure_080021_asch_line_conformity_341326-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Asch Experiments Still Show | Logical Fallacies 998914 Bandwagon Pressure" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1012,7 +1012,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-bandwagon-pressure-080021-popularity-reach-not-db9a44" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'reach-vs-truth/' | relative_url }}" title="When Popularity Is Not Proof | Logical Fallacies 998914 Bandwagon Pressure" aria-label="Open page: When Popularity Is Not Proof | Logical Fallacies 998914 Bandwagon Pressure">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'reach-vs-truth/' | relative_url }}" title="When Popularity Is Not Proof | Are You Being Pressured to Join? | Logical Fallacies" aria-label="Open page: When Popularity Is Not Proof | Are You Being Pressured to Join? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_bandwagon_pressure_080021_popularity_reach_not_db9a44-Illustration-1.webp' | relative_url }}" alt="Overview image for When Popularity Is Not Proof | Logical Fallacies 998914 Bandwagon Pressure" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1032,7 +1032,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-bandwagon-pressure-080021-informational-confor-9345de" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'group-knows/' | relative_url }}" title="When Should You Trust the Crowd? | Logical Fallacies 998914 Bandwagon Pressure" aria-label="Open page: When Should You Trust the Crowd? | Logical Fallacies 998914 Bandwagon Pressure">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'group-knows/' | relative_url }}" title="When Should You Trust the Crowd? | Are You Being Pressured to Join? | Logical Fallacies" aria-label="Open page: When Should You Trust the Crowd? | Are You Being Pressured to Join? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-1.webp' | relative_url }}" alt="Overview image for When Should You Trust the Crowd? | Logical Fallacies 998914 Bandwagon Pressure" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1052,7 +1052,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-bandwagon-pressure-080021-normative-conformity-59864c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'standing-alone/' | relative_url }}" title="Why Disagreement Feels Socially Risky | Logical Fallacies 998914 Bandwagon Pressure" aria-label="Open page: Why Disagreement Feels Socially Risky | Logical Fallacies 998914 Bandwagon Pressure">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'standing-alone/' | relative_url }}" title="Why Disagreement Feels Socially Risky | Are You Being Pressured to Join? | Logical Fallacies" aria-label="Open page: Why Disagreement Feels Socially Risky | Are You Being Pressured to Join? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_bandwagon_pressure_080021_normative_conformity_59864c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Disagreement Feels Socially Risky | Logical Fallacies 998914 Bandwagon Pressure" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1096,7 +1096,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-circular-reasoning-3c0e54-news-reliability-loo-16fb9e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'news-trust/' | relative_url }}" title="Can a Source Prove Its Own Reliability? | Logical Fallacies 998914 Circular Reasoning" aria-label="Open page: Can a Source Prove Its Own Reliability? | Logical Fallacies 998914 Circular Reasoning">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'news-trust/' | relative_url }}" title="Can a Source Prove Its Own Reliability? | Is the Argument Proving Itself? | Logical Fallacies" aria-label="Open page: Can a Source Prove Its Own Reliability? | Is the Argument Proving Itself? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Source Prove Its Own Reliability? | Logical Fallacies 998914 Circular Reasoning" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1116,7 +1116,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-circular-reasoning-3c0e54-hidden-abc-loops-f363f9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-loops/' | relative_url }}" title="How Long Argument Chains Hide Circularity | Logical Fallacies 998914 Circular Reasoning" aria-label="Open page: How Long Argument Chains Hide Circularity | Logical Fallacies 998914 Circular Reasoning">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-loops/' | relative_url }}" title="How Long Argument Chains Hide Circularity | Is the Argument Proving Itself? | Logical Fallacies" aria-label="Open page: How Long Argument Chains Hide Circularity | Is the Argument Proving Itself? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-1.webp' | relative_url }}" alt="Overview image for How Long Argument Chains Hide Circularity | Logical Fallacies 998914 Circular Reasoning" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1136,7 +1136,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-circular-reasoning-3c0e54-bible-authority-loop-7c1340" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'bible-loops/' | relative_url }}" title="When Authority Arguments Turn in Circles | Logical Fallacies 998914 Circular Reasoning" aria-label="Open page: When Authority Arguments Turn in Circles | Logical Fallacies 998914 Circular Reasoning">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'bible-loops/' | relative_url }}" title="When Authority Arguments Turn in Circles | Is the Argument Proving Itself? | Logical Fallacies" aria-label="Open page: When Authority Arguments Turn in Circles | Is the Argument Proving Itself? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_bible_authority_loop_7c1340-Illustration-1.webp' | relative_url }}" alt="Overview image for When Authority Arguments Turn in Circles | Logical Fallacies 998914 Circular Reasoning" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1156,7 +1156,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-circular-reasoning-3c0e54-soporific-rewording-c5cfa4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'rewording/' | relative_url }}" title="When Explanations Just Rename the Claim | Logical Fallacies 998914 Circular Reasoning" aria-label="Open page: When Explanations Just Rename the Claim | Logical Fallacies 998914 Circular Reasoning">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'rewording/' | relative_url }}" title="When Explanations Just Rename the Claim | Is the Argument Proving Itself? | Logical Fallacies" aria-label="Open page: When Explanations Just Rename the Claim | Is the Argument Proving Itself? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-1.webp' | relative_url }}" alt="Overview image for When Explanations Just Rename the Claim | Logical Fallacies 998914 Circular Reasoning" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1176,7 +1176,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-circular-reasoning-3c0e54-independent-support-898841" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'support-test/' | relative_url }}" title="Would the Premise Convince a Skeptic? | Logical Fallacies 998914 Circular Reasoning" aria-label="Open page: Would the Premise Convince a Skeptic? | Logical Fallacies 998914 Circular Reasoning">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'support-test/' | relative_url }}" title="Would the Premise Convince a Skeptic? | Is the Argument Proving Itself? | Logical Fallacies" aria-label="Open page: Would the Premise Convince a Skeptic? | Is the Argument Proving Itself? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-1.webp' | relative_url }}" alt="Overview image for Would the Premise Convince a Skeptic? | Logical Fallacies 998914 Circular Reasoning" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1220,7 +1220,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-borderline-context-4b25b4-false-dilemma-option-ec2210" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'two-options/' | relative_url }}" title="Are Those Really the Only Choices? | Logical Fallacies 998914 Borderline Context" aria-label="Open page: Are Those Really the Only Choices? | Logical Fallacies 998914 Borderline Context">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'two-options/' | relative_url }}" title="Are Those Really the Only Choices? | When Is It Really a Fallacy? | Logical Fallacies" aria-label="Open page: Are Those Really the Only Choices? | When Is It Really a Fallacy? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_borderline_context_4b25b4_false_dilemma_option_ec2210-Illustration-1.webp' | relative_url }}" alt="Overview image for Are Those Really the Only Choices? | Logical Fallacies 998914 Borderline Context" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1240,7 +1240,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-borderline-context-4b25b4-ignorance-burden-pro-c56841" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'no-proof/' | relative_url }}" title="When Does No Proof Actually Matter? | Logical Fallacies 998914 Borderline Context" aria-label="Open page: When Does No Proof Actually Matter? | Logical Fallacies 998914 Borderline Context">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'no-proof/' | relative_url }}" title="When Does No Proof Actually Matter? | When Is It Really a Fallacy? | Logical Fallacies" aria-label="Open page: When Does No Proof Actually Matter? | When Is It Really a Fallacy? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does No Proof Actually Matter? | Logical Fallacies 998914 Borderline Context" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1260,7 +1260,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-borderline-context-4b25b4-fear-warnings-39b310" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fear-warnings/' | relative_url }}" title="When Is Fear a Fair Warning? | Logical Fallacies 998914 Borderline Context" aria-label="Open page: When Is Fear a Fair Warning? | Logical Fallacies 998914 Borderline Context">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fear-warnings/' | relative_url }}" title="When Is Fear a Fair Warning? | When Is It Really a Fallacy? | Logical Fallacies" aria-label="Open page: When Is Fear a Fair Warning? | When Is It Really a Fallacy? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_borderline_context_4b25b4_fear_warnings_39b310-Illustration-1.webp' | relative_url }}" alt="Overview image for When Is Fear a Fair Warning? | Logical Fallacies 998914 Borderline Context" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1280,7 +1280,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-borderline-context-4b25b4-credibility-checks-aaf271" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility-3bd4bb/' | relative_url }}" title="When Is Personal Criticism Relevant? | Logical Fallacies 998914 Borderline Context" aria-label="Open page: When Is Personal Criticism Relevant? | Logical Fallacies 998914 Borderline Context">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility-3bd4bb/' | relative_url }}" title="When Is Personal Criticism Relevant? | When Is It Really a Fallacy? | Logical Fallacies" aria-label="Open page: When Is Personal Criticism Relevant? | When Is It Really a Fallacy? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_borderline_context_4b25b4_credibility_checks_aaf271-Illustration-1.webp' | relative_url }}" alt="Overview image for When Is Personal Criticism Relevant? | Logical Fallacies 998914 Borderline Context" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1300,7 +1300,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-borderline-context-4b25b4-expert-shortcuts-438fef" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'expert-shortcuts/' | relative_url }}" title="When Should You Trust an Expert? | Logical Fallacies 998914 Borderline Context" aria-label="Open page: When Should You Trust an Expert? | Logical Fallacies 998914 Borderline Context">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'expert-shortcuts/' | relative_url }}" title="When Should You Trust an Expert? | When Is It Really a Fallacy? | Logical Fallacies" aria-label="Open page: When Should You Trust an Expert? | When Is It Really a Fallacy? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-1.webp' | relative_url }}" alt="Overview image for When Should You Trust an Expert? | Logical Fallacies 998914 Borderline Context" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1344,7 +1344,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-deadline-slippery-sl-ce90e1-self-certified-exten-4335a9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'self-certify/' | relative_url }}" title="Can Self Certified Extensions Stay Fair? | Logical Fallacies 998914 Deadline Slippery" aria-label="Open page: Can Self Certified Extensions Stay Fair? | Logical Fallacies 998914 Deadline Slippery">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'self-certify/' | relative_url }}" title="Can Self Certified Extensions Stay Fair? | Will One Extension Ruin the Rules? | Logical Fallacies" aria-label="Open page: Can Self Certified Extensions Stay Fair? | Will One Extension Ruin the Rules? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_self_certified_exten_4335a9-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Self Certified Extensions Stay Fair? | Logical Fallacies 998914 Deadline Slippery" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1364,7 +1364,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-deadline-slippery-sl-ce90e1-deadline-precedent-a-c06bfa" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'precedent-bb651f/' | relative_url }}" title="Does One Extension Force the Next? | Logical Fallacies 998914 Deadline Slippery" aria-label="Open page: Does One Extension Force the Next? | Logical Fallacies 998914 Deadline Slippery">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'precedent-bb651f/' | relative_url }}" title="Does One Extension Force the Next? | Will One Extension Ruin the Rules? | Logical Fallacies" aria-label="Open page: Does One Extension Force the Next? | Will One Extension Ruin the Rules? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-1.webp' | relative_url }}" alt="Overview image for Does One Extension Force the Next? | Logical Fallacies 998914 Deadline Slippery" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1384,7 +1384,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-deadline-slippery-sl-ce90e1-deadlines-with-excep-f3d9e3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'rule-limits/' | relative_url }}" title="Is a Flexible Deadline Still a Deadline? | Logical Fallacies 998914 Deadline Slippery" aria-label="Open page: Is a Flexible Deadline Still a Deadline? | Logical Fallacies 998914 Deadline Slippery">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'rule-limits/' | relative_url }}" title="Is a Flexible Deadline Still a Deadline? | Will One Extension Ruin the Rules? | Logical Fallacies" aria-label="Open page: Is a Flexible Deadline Still a Deadline? | Will One Extension Ruin the Rules? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadlines_with_excep_f3d9e3-Illustration-1.webp' | relative_url }}" alt="Overview image for Is a Flexible Deadline Still a Deadline? | Logical Fallacies 998914 Deadline Slippery" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1404,7 +1404,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-deadline-slippery-sl-ce90e1-extension-evidence-t-9e9a88" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence-rules/' | relative_url }}" title="What Proof Should an Extension Need? | Logical Fallacies 998914 Deadline Slippery" aria-label="Open page: What Proof Should an Extension Need? | Logical Fallacies 998914 Deadline Slippery">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence-rules/' | relative_url }}" title="What Proof Should an Extension Need? | Will One Extension Ruin the Rules? | Logical Fallacies" aria-label="Open page: What Proof Should an Extension Need? | Will One Extension Ruin the Rules? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-1.webp' | relative_url }}" alt="Overview image for What Proof Should an Extension Need? | Logical Fallacies 998914 Deadline Slippery" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1424,7 +1424,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-deadline-slippery-sl-ce90e1-extension-fairness-r-2d3414" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fairness-risk/' | relative_url }}" title="When Does One Extension Become Unfair? | Logical Fallacies 998914 Deadline Slippery" aria-label="Open page: When Does One Extension Become Unfair? | Logical Fallacies 998914 Deadline Slippery">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fairness-risk/' | relative_url }}" title="When Does One Extension Become Unfair? | Will One Extension Ruin the Rules? | Logical Fallacies" aria-label="Open page: When Does One Extension Become Unfair? | Will One Extension Ruin the Rules? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does One Extension Become Unfair? | Logical Fallacies 998914 Deadline Slippery" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1468,7 +1468,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-debate-fallacies-6ade0b-ad-hominem-evidence-cb9d6d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-hominem-c0341b/' | relative_url }}" title="Do Not Take the Personal Bait | Logical Fallacies 998914 Debate Fallacies" aria-label="Open page: Do Not Take the Personal Bait | Logical Fallacies 998914 Debate Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-hominem-c0341b/' | relative_url }}" title="Do Not Take the Personal Bait | How to Spot Fallacies in Debate | Logical Fallacies" aria-label="Open page: Do Not Take the Personal Bait | How to Spot Fallacies in Debate | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_ad_hominem_evidence_cb9d6d-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Not Take the Personal Bait | Logical Fallacies 998914 Debate Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1488,7 +1488,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-debate-fallacies-6ade0b-live-straw-man-rebut-ae5863" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'straw-men-16d877/' | relative_url }}" title="How to Answer a Straw Man Fast | Logical Fallacies 998914 Debate Fallacies" aria-label="Open page: How to Answer a Straw Man Fast | Logical Fallacies 998914 Debate Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'straw-men-16d877/' | relative_url }}" title="How to Answer a Straw Man Fast | How to Spot Fallacies in Debate | Logical Fallacies" aria-label="Open page: How to Answer a Straw Man Fast | How to Spot Fallacies in Debate | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_live_straw_man_rebut_ae5863-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Answer a Straw Man Fast | Logical Fallacies 998914 Debate Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1508,7 +1508,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-debate-fallacies-6ade0b-fallacy-labels-plain-3611e8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'labels-6f7ad9/' | relative_url }}" title="Should You Name the Fallacy? | Logical Fallacies 998914 Debate Fallacies" aria-label="Open page: Should You Name the Fallacy? | Logical Fallacies 998914 Debate Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'labels-6f7ad9/' | relative_url }}" title="Should You Name the Fallacy? | How to Spot Fallacies in Debate | Logical Fallacies" aria-label="Open page: Should You Name the Fallacy? | How to Spot Fallacies in Debate | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-1.webp' | relative_url }}" alt="Overview image for Should You Name the Fallacy? | Logical Fallacies 998914 Debate Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1528,7 +1528,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-debate-fallacies-6ade0b-principle-of-charity-55fe5f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'charity/' | relative_url }}" title="The Fairer Way to Win Arguments | Logical Fallacies 998914 Debate Fallacies" aria-label="Open page: The Fairer Way to Win Arguments | Logical Fallacies 998914 Debate Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'charity/' | relative_url }}" title="The Fairer Way to Win Arguments | How to Spot Fallacies in Debate | Logical Fallacies" aria-label="Open page: The Fairer Way to Win Arguments | How to Spot Fallacies in Debate | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_principle_of_charity_55fe5f-Illustration-1.webp' | relative_url }}" alt="Overview image for The Fairer Way to Win Arguments | Logical Fallacies 998914 Debate Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1548,7 +1548,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-debate-fallacies-6ade0b-false-dilemmas-debat-1ce3dd" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-choices/' | relative_url }}" title="When Debate Choices Are Too Neat | Logical Fallacies 998914 Debate Fallacies" aria-label="Open page: When Debate Choices Are Too Neat | Logical Fallacies 998914 Debate Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-choices/' | relative_url }}" title="When Debate Choices Are Too Neat | How to Spot Fallacies in Debate | Logical Fallacies" aria-label="Open page: When Debate Choices Are Too Neat | How to Spot Fallacies in Debate | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-1.webp' | relative_url }}" alt="Overview image for When Debate Choices Are Too Neat | Logical Fallacies 998914 Debate Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1592,7 +1592,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-emotion-1ba8d1-fake-urgency-countdo-bc84c5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fake-urgency/' | relative_url }}" title="How Countdown Pressure Shortens Judgment | Logical Fallacies 998914 Appeal To Emotion" aria-label="Open page: How Countdown Pressure Shortens Judgment | Logical Fallacies 998914 Appeal To Emotion">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fake-urgency/' | relative_url }}" title="How Countdown Pressure Shortens Judgment | When Does Emotion Replace Evidence? | Logical Fallacies" aria-label="Open page: How Countdown Pressure Shortens Judgment | When Does Emotion Replace Evidence? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fake_urgency_countdo_bc84c5-Illustration-1.webp' | relative_url }}" alt="Overview image for How Countdown Pressure Shortens Judgment | Logical Fallacies 998914 Appeal To Emotion" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1612,7 +1612,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-emotion-1ba8d1-fear-appeals-warn-no-ae375c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fear-appeals/' | relative_url }}" title="When Fear Warns but Does Not Prove | Logical Fallacies 998914 Appeal To Emotion" aria-label="Open page: When Fear Warns but Does Not Prove | Logical Fallacies 998914 Appeal To Emotion">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fear-appeals/' | relative_url }}" title="When Fear Warns but Does Not Prove | When Does Emotion Replace Evidence? | Logical Fallacies" aria-label="Open page: When Fear Warns but Does Not Prove | When Does Emotion Replace Evidence? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fear_appeals_warn_no_ae375c-Illustration-1.webp' | relative_url }}" alt="Overview image for When Fear Warns but Does Not Prove | Logical Fallacies 998914 Appeal To Emotion" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1632,7 +1632,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-emotion-1ba8d1-appeal-to-pity-as-pr-aeeb9b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'pity-proof/' | relative_url }}" title="When Pity Starts Doing the Proving | Logical Fallacies 998914 Appeal To Emotion" aria-label="Open page: When Pity Starts Doing the Proving | Logical Fallacies 998914 Appeal To Emotion">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'pity-proof/' | relative_url }}" title="When Pity Starts Doing the Proving | When Does Emotion Replace Evidence? | Logical Fallacies" aria-label="Open page: When Pity Starts Doing the Proving | When Does Emotion Replace Evidence? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_appeal_to_pity_as_pr_aeeb9b-Illustration-1.webp' | relative_url }}" alt="Overview image for When Pity Starts Doing the Proving | Logical Fallacies 998914 Appeal To Emotion" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1652,7 +1652,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-emotion-1ba8d1-emotional-framing-fa-b19b39" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fake-news/' | relative_url }}" title="Why Emotional Headlines Feel True | Logical Fallacies 998914 Appeal To Emotion" aria-label="Open page: Why Emotional Headlines Feel True | Logical Fallacies 998914 Appeal To Emotion">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fake-news/' | relative_url }}" title="Why Emotional Headlines Feel True | When Does Emotion Replace Evidence? | Logical Fallacies" aria-label="Open page: Why Emotional Headlines Feel True | When Does Emotion Replace Evidence? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Emotional Headlines Feel True | Logical Fallacies 998914 Appeal To Emotion" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1672,7 +1672,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-emotion-1ba8d1-ad-baculum-threats-b-b0deb2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'threats/' | relative_url }}" title="Why Threats Are Not Evidence | Logical Fallacies 998914 Appeal To Emotion" aria-label="Open page: Why Threats Are Not Evidence | Logical Fallacies 998914 Appeal To Emotion">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'threats/' | relative_url }}" title="Why Threats Are Not Evidence | When Does Emotion Replace Evidence? | Logical Fallacies" aria-label="Open page: Why Threats Are Not Evidence | When Does Emotion Replace Evidence? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Threats Are Not Evidence | Logical Fallacies 998914 Appeal To Emotion" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1716,7 +1716,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-equivocation-cdc9d3-natural-safe-shift-75a6ab" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'natural-claims/' | relative_url }}" title="Does Natural Really Mean Safe or Good? | Logical Fallacies 998914 Equivocation" aria-label="Open page: Does Natural Really Mean Safe or Good? | Logical Fallacies 998914 Equivocation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'natural-claims/' | relative_url }}" title="Does Natural Really Mean Safe or Good? | Did the Key Word Change Meaning? | Logical Fallacies" aria-label="Open page: Does Natural Really Mean Safe or Good? | Did the Key Word Change Meaning? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_equivocation_cdc9d3_natural_safe_shift_75a6ab-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Natural Really Mean Safe or Good? | Logical Fallacies 998914 Equivocation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1736,7 +1736,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-equivocation-cdc9d3-spot-equivocation-bb-fc54df" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'spotting-it/' | relative_url }}" title="How Can You Tell When a Word Has Shifted? | Logical Fallacies 998914 Equivocation" aria-label="Open page: How Can You Tell When a Word Has Shifted? | Logical Fallacies 998914 Equivocation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'spotting-it/' | relative_url }}" title="How Can You Tell When a Word Has Shifted? | Did the Key Word Change Meaning? | Logical Fallacies" aria-label="Open page: How Can You Tell When a Word Has Shifted? | Did the Key Word Change Meaning? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_equivocation_cdc9d3_spot_equivocation_bb_fc54df-Illustration-1.webp' | relative_url }}" alt="Overview image for How Can You Tell When a Word Has Shifted? | Logical Fallacies 998914 Equivocation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1756,7 +1756,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-equivocation-cdc9d3-free-speech-rights-s-fa63b3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'free-speech/' | relative_url }}" title="When Does Free Speech Become a Word Game? | Logical Fallacies 998914 Equivocation" aria-label="Open page: When Does Free Speech Become a Word Game? | Logical Fallacies 998914 Equivocation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'free-speech/' | relative_url }}" title="When Does Free Speech Become a Word Game? | Did the Key Word Change Meaning? | Logical Fallacies" aria-label="Open page: When Does Free Speech Become a Word Game? | Did the Key Word Change Meaning? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does Free Speech Become a Word Game? | Logical Fallacies 998914 Equivocation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1776,7 +1776,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-equivocation-cdc9d3-ambiguity-fallacies-d3f3b9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'compare-fallacies/' | relative_url }}" title="Which Ambiguity Fallacy Is Actually Happening? | Logical Fallacies 998914 Equivocation" aria-label="Open page: Which Ambiguity Fallacy Is Actually Happening? | Logical Fallacies 998914 Equivocation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'compare-fallacies/' | relative_url }}" title="Which Ambiguity Fallacy Is Actually Happening? | Did the Key Word Change Meaning? | Logical Fallacies" aria-label="Open page: Which Ambiguity Fallacy Is Actually Happening? | Did the Key Word Change Meaning? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_equivocation_cdc9d3_ambiguity_fallacies_d3f3b9-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Ambiguity Fallacy Is Actually Happening? | Logical Fallacies 998914 Equivocation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1796,7 +1796,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-equivocation-cdc9d3-only-a-theory-a039d5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'theory-claims/' | relative_url }}" title="Why Only a Theory Misleads About Science | Logical Fallacies 998914 Equivocation" aria-label="Open page: Why Only a Theory Misleads About Science | Logical Fallacies 998914 Equivocation">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'theory-claims/' | relative_url }}" title="Why Only a Theory Misleads About Science | Did the Key Word Change Meaning? | Logical Fallacies" aria-label="Open page: Why Only a Theory Misleads About Science | Did the Key Word Change Meaning? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_equivocation_cdc9d3_only_a_theory_a039d5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Only a Theory Misleads About Science | Logical Fallacies 998914 Equivocation" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1840,7 +1840,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-essay-fallacies-4a857b-straw-man-counterarg-583a14" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'straw-men/' | relative_url }}" title="Are You Answering the Real Objection? | Logical Fallacies 998914 Essay Fallacies" aria-label="Open page: Are You Answering the Real Objection? | Logical Fallacies 998914 Essay Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'straw-men/' | relative_url }}" title="Are You Answering the Real Objection? | How Fallacies Weaken Student Essays | Logical Fallacies" aria-label="Open page: Are You Answering the Real Objection? | How Fallacies Weaken Student Essays | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-1.webp' | relative_url }}" alt="Overview image for Are You Answering the Real Objection? | Logical Fallacies 998914 Essay Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1860,7 +1860,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-essay-fallacies-4a857b-scale-jumps-b2e0c2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'scale-jumps/' | relative_url }}" title="How One Example Becomes Too Much | Logical Fallacies 998914 Essay Fallacies" aria-label="Open page: How One Example Becomes Too Much | Logical Fallacies 998914 Essay Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'scale-jumps/' | relative_url }}" title="How One Example Becomes Too Much | How Fallacies Weaken Student Essays | Logical Fallacies" aria-label="Open page: How One Example Becomes Too Much | How Fallacies Weaken Student Essays | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-1.webp' | relative_url }}" alt="Overview image for How One Example Becomes Too Much | Logical Fallacies 998914 Essay Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1880,7 +1880,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-essay-fallacies-4a857b-cherry-picking-8274a4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cherry-picking/' | relative_url }}" title="The Evidence Your Essay Cannot Ignore | Logical Fallacies 998914 Essay Fallacies" aria-label="Open page: The Evidence Your Essay Cannot Ignore | Logical Fallacies 998914 Essay Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cherry-picking/' | relative_url }}" title="The Evidence Your Essay Cannot Ignore | How Fallacies Weaken Student Essays | Logical Fallacies" aria-label="Open page: The Evidence Your Essay Cannot Ignore | How Fallacies Weaken Student Essays | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-1.webp' | relative_url }}" alt="Overview image for The Evidence Your Essay Cannot Ignore | Logical Fallacies 998914 Essay Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1900,7 +1900,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-essay-fallacies-4a857b-because-gaps-04b89a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'because-gaps/' | relative_url }}" title="When Because Does Not Prove the Point | Logical Fallacies 998914 Essay Fallacies" aria-label="Open page: When Because Does Not Prove the Point | Logical Fallacies 998914 Essay Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'because-gaps/' | relative_url }}" title="When Because Does Not Prove the Point | How Fallacies Weaken Student Essays | Logical Fallacies" aria-label="Open page: When Because Does Not Prove the Point | How Fallacies Weaken Student Essays | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_essay_fallacies_4a857b_because_gaps_04b89a-Illustration-1.webp' | relative_url }}" alt="Overview image for When Because Does Not Prove the Point | Logical Fallacies 998914 Essay Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1920,7 +1920,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-essay-fallacies-4a857b-dropped-quotations-c639c2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'dropped-quotes/' | relative_url }}" title="Why Quotations Cannot Argue Alone | Logical Fallacies 998914 Essay Fallacies" aria-label="Open page: Why Quotations Cannot Argue Alone | Logical Fallacies 998914 Essay Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'dropped-quotes/' | relative_url }}" title="Why Quotations Cannot Argue Alone | How Fallacies Weaken Student Essays | Logical Fallacies" aria-label="Open page: Why Quotations Cannot Argue Alone | How Fallacies Weaken Student Essays | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Quotations Cannot Argue Alone | Logical Fallacies 998914 Essay Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1964,7 +1964,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-evidence-gaps-1106c2-before-after-causati-41963d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-cause-d2310d/' | relative_url }}" title="Did It Work, Or Just Happen After? | Logical Fallacies 998914 Evidence Gaps" aria-label="Open page: Did It Work, Or Just Happen After? | Logical Fallacies 998914 Evidence Gaps">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-cause-d2310d/' | relative_url }}" title="Did It Work, Or Just Happen After? | What Evidence Is the Argument Missing? | Logical Fallacies" aria-label="Open page: Did It Work, Or Just Happen After? | What Evidence Is the Argument Missing? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-1.webp' | relative_url }}" alt="Overview image for Did It Work, Or Just Happen After? | Logical Fallacies 998914 Evidence Gaps" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1984,7 +1984,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-evidence-gaps-1106c2-advertising-claim-su-854ab8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-claims/' | relative_url }}" title="What Should Ads Have to Prove? | Logical Fallacies 998914 Evidence Gaps" aria-label="Open page: What Should Ads Have to Prove? | Logical Fallacies 998914 Evidence Gaps">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-claims/' | relative_url }}" title="What Should Ads Have to Prove? | What Evidence Is the Argument Missing? | Logical Fallacies" aria-label="Open page: What Should Ads Have to Prove? | What Evidence Is the Argument Missing? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_evidence_gaps_1106c2_advertising_claim_su_854ab8-Illustration-1.webp' | relative_url }}" alt="Overview image for What Should Ads Have to Prove? | Logical Fallacies 998914 Evidence Gaps" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2004,7 +2004,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-evidence-gaps-1106c2-convenience-samples-9d748b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'bad-samples-69cbd5/' | relative_url }}" title="When Five Voices Become Everyone | Logical Fallacies 998914 Evidence Gaps" aria-label="Open page: When Five Voices Become Everyone | Logical Fallacies 998914 Evidence Gaps">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'bad-samples-69cbd5/' | relative_url }}" title="When Five Voices Become Everyone | What Evidence Is the Argument Missing? | Logical Fallacies" aria-label="Open page: When Five Voices Become Everyone | What Evidence Is the Argument Missing? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-1.webp' | relative_url }}" alt="Overview image for When Five Voices Become Everyone | Logical Fallacies 998914 Evidence Gaps" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2024,7 +2024,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-evidence-gaps-1106c2-cherry-picked-health-959c2a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cherry-picking-71687b/' | relative_url }}" title="When One Study Hides the Rest | Logical Fallacies 998914 Evidence Gaps" aria-label="Open page: When One Study Hides the Rest | Logical Fallacies 998914 Evidence Gaps">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cherry-picking-71687b/' | relative_url }}" title="When One Study Hides the Rest | What Evidence Is the Argument Missing? | Logical Fallacies" aria-label="Open page: When One Study Hides the Rest | What Evidence Is the Argument Missing? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_evidence_gaps_1106c2_cherry_picked_health_959c2a-Illustration-1.webp' | relative_url }}" alt="Overview image for When One Study Hides the Rest | Logical Fallacies 998914 Evidence Gaps" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2044,7 +2044,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-evidence-gaps-1106c2-anecdotes-frequency-817ed9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'anecdotes-277b8a/' | relative_url }}" title="Why One Story Feels Like a Pattern | Logical Fallacies 998914 Evidence Gaps" aria-label="Open page: Why One Story Feels Like a Pattern | Logical Fallacies 998914 Evidence Gaps">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'anecdotes-277b8a/' | relative_url }}" title="Why One Story Feels Like a Pattern | What Evidence Is the Argument Missing? | Logical Fallacies" aria-label="Open page: Why One Story Feels Like a Pattern | What Evidence Is the Argument Missing? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Story Feels Like a Pattern | Logical Fallacies 998914 Evidence Gaps" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2088,7 +2088,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-post-hoc-reasoning-729d96-policy-before-after-a258b1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'policy-timing/' | relative_url }}" title="Did the Policy Work, or Just Arrive First? | Logical Fallacies 998914 Post Hoc Reasoning" aria-label="Open page: Did the Policy Work, or Just Arrive First? | Logical Fallacies 998914 Post Hoc Reasoning">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'policy-timing/' | relative_url }}" title="Did the Policy Work, or Just Arrive First? | Did One Thing Really Cause Another? | Logical Fallacies" aria-label="Open page: Did the Policy Work, or Just Arrive First? | Did One Thing Really Cause Another? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Policy Work, or Just Arrive First? | Logical Fallacies 998914 Post Hoc Reasoning" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2108,7 +2108,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-post-hoc-reasoning-729d96-counterfactual-false-0e77f0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'counterfactuals/' | relative_url }}" title="The One Question False Causes Avoid | Logical Fallacies 998914 Post Hoc Reasoning" aria-label="Open page: The One Question False Causes Avoid | Logical Fallacies 998914 Post Hoc Reasoning">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'counterfactuals/' | relative_url }}" title="The One Question False Causes Avoid | Did One Thing Really Cause Another? | Logical Fallacies" aria-label="Open page: The One Question False Causes Avoid | Did One Thing Really Cause Another? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-1.webp' | relative_url }}" alt="Overview image for The One Question False Causes Avoid | Logical Fallacies 998914 Post Hoc Reasoning" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2128,7 +2128,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-post-hoc-reasoning-729d96-vaers-post-hoc-f9ac93" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'vaers-reports/' | relative_url }}" title="When After a Vaccine Is Not Proof | Logical Fallacies 998914 Post Hoc Reasoning" aria-label="Open page: When After a Vaccine Is Not Proof | Logical Fallacies 998914 Post Hoc Reasoning">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'vaers-reports/' | relative_url }}" title="When After a Vaccine Is Not Proof | Did One Thing Really Cause Another? | Logical Fallacies" aria-label="Open page: When After a Vaccine Is Not Proof | Did One Thing Really Cause Another? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_vaers_post_hoc_f9ac93-Illustration-1.webp' | relative_url }}" alt="Overview image for When After a Vaccine Is Not Proof | Logical Fallacies 998914 Post Hoc Reasoning" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2148,7 +2148,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-post-hoc-reasoning-729d96-regression-to-mean-p-eca456" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'regression/' | relative_url }}" title="When Improvement Was Already Likely | Logical Fallacies 998914 Post Hoc Reasoning" aria-label="Open page: When Improvement Was Already Likely | Logical Fallacies 998914 Post Hoc Reasoning">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'regression/' | relative_url }}" title="When Improvement Was Already Likely | Did One Thing Really Cause Another? | Logical Fallacies" aria-label="Open page: When Improvement Was Already Likely | Did One Thing Really Cause Another? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-1.webp' | relative_url }}" alt="Overview image for When Improvement Was Already Likely | Logical Fallacies 998914 Post Hoc Reasoning" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2168,7 +2168,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-post-hoc-reasoning-729d96-lucky-shirts-superst-b4e0f7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lucky-rituals/' | relative_url }}" title="Why Lucky Shirts Feel Like Evidence | Logical Fallacies 998914 Post Hoc Reasoning" aria-label="Open page: Why Lucky Shirts Feel Like Evidence | Logical Fallacies 998914 Post Hoc Reasoning">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lucky-rituals/' | relative_url }}" title="Why Lucky Shirts Feel Like Evidence | Did One Thing Really Cause Another? | Logical Fallacies" aria-label="Open page: Why Lucky Shirts Feel Like Evidence | Did One Thing Really Cause Another? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_lucky_shirts_superst_b4e0f7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Lucky Shirts Feel Like Evidence | Logical Fallacies 998914 Post Hoc Reasoning" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2212,7 +2212,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-false-dilemmas-827e99-privacy-security-mis-550be2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'privacy-security/' | relative_url }}" title="Do We Have to Choose Privacy or Safety? | Logical Fallacies 998914 False Dilemmas" aria-label="Open page: Do We Have to Choose Privacy or Safety? | Logical Fallacies 998914 False Dilemmas">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'privacy-security/' | relative_url }}" title="Do We Have to Choose Privacy or Safety? | What Choices Are Being Hidden? | Logical Fallacies" aria-label="Open page: Do We Have to Choose Privacy or Safety? | What Choices Are Being Hidden? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-1.webp' | relative_url }}" alt="Overview image for Do We Have to Choose Privacy or Safety? | Logical Fallacies 998914 False Dilemmas" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2232,7 +2232,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-false-dilemmas-827e99-tuition-budget-false-1407d7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'budget-debates/' | relative_url }}" title="Is It Really Pay More or Collapse? | Logical Fallacies 998914 False Dilemmas" aria-label="Open page: Is It Really Pay More or Collapse? | Logical Fallacies 998914 False Dilemmas">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'budget-debates/' | relative_url }}" title="Is It Really Pay More or Collapse? | What Choices Are Being Hidden? | Logical Fallacies" aria-label="Open page: Is It Really Pay More or Collapse? | What Choices Are Being Hidden? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-1.webp' | relative_url }}" alt="Overview image for Is It Really Pay More or Collapse? | Logical Fallacies 998914 False Dilemmas" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2252,7 +2252,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-false-dilemmas-827e99-with-us-or-terrorist-0d3e2f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'bush-phrase/' | relative_url }}" title="What Did &#x27;With US&#x27; Leave Out? | Logical Fallacies 998914 False Dilemmas" aria-label="Open page: What Did &#x27;With US&#x27; Leave Out? | Logical Fallacies 998914 False Dilemmas">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'bush-phrase/' | relative_url }}" title="What Did 'With US' Leave Out? | What Choices Are Being Hidden? | Logical Fallacies" aria-label="Open page: What Did 'With US' Leave Out? | What Choices Are Being Hidden? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_false_dilemmas_827e99_with_us_or_terrorist_0d3e2f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did &#x27;With US&#x27; Leave Out? | Logical Fallacies 998914 False Dilemmas" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2272,7 +2272,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-false-dilemmas-827e99-spot-missing-middle-0e24fc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'spotting-gaps/' | relative_url }}" title="What Options Did the Argument Leave Out? | Logical Fallacies 998914 False Dilemmas" aria-label="Open page: What Options Did the Argument Leave Out? | Logical Fallacies 998914 False Dilemmas">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'spotting-gaps/' | relative_url }}" title="What Options Did the Argument Leave Out? | What Choices Are Being Hidden? | Logical Fallacies" aria-label="Open page: What Options Did the Argument Leave Out? | What Choices Are Being Hidden? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_false_dilemmas_827e99_spot_missing_middle_0e24fc-Illustration-1.webp' | relative_url }}" alt="Overview image for What Options Did the Argument Leave Out? | Logical Fallacies 998914 False Dilemmas" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2292,7 +2292,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-false-dilemmas-827e99-real-vs-false-dilemm-e3a4ff" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'real-choices/' | relative_url }}" title="When Is a Dilemma Actually Real? | Logical Fallacies 998914 False Dilemmas" aria-label="Open page: When Is a Dilemma Actually Real? | Logical Fallacies 998914 False Dilemmas">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'real-choices/' | relative_url }}" title="When Is a Dilemma Actually Real? | What Choices Are Being Hidden? | Logical Fallacies" aria-label="Open page: When Is a Dilemma Actually Real? | What Choices Are Being Hidden? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_false_dilemmas_827e99_real_vs_false_dilemm_e3a4ff-Illustration-1.webp' | relative_url }}" alt="Overview image for When Is a Dilemma Actually Real? | Logical Fallacies 998914 False Dilemmas" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2336,7 +2336,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-formal-fallacies-6c776a-universal-claims-exi-5b7b8c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'existence-errors/' | relative_url }}" title="Do Universal Claims Prove Anything Exists | Logical Fallacies 998914 Formal Fallacies" aria-label="Open page: Do Universal Claims Prove Anything Exists | Logical Fallacies 998914 Formal Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'existence-errors/' | relative_url }}" title="Do Universal Claims Prove Anything Exists | When the Structure Makes Reasoning Fail | Logical Fallacies" aria-label="Open page: Do Universal Claims Prove Anything Exists | When the Structure Makes Reasoning Fail | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_formal_fallacies_6c776a_universal_claims_exi_5b7b8c-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Universal Claims Prove Anything Exists | Logical Fallacies 998914 Formal Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2356,7 +2356,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-formal-fallacies-6c776a-denying-antecedent-c-9c0a8d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'other-causes/' | relative_url }}" title="The Fallacy That Rules Out Too Much | Logical Fallacies 998914 Formal Fallacies" aria-label="Open page: The Fallacy That Rules Out Too Much | Logical Fallacies 998914 Formal Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'other-causes/' | relative_url }}" title="The Fallacy That Rules Out Too Much | When the Structure Makes Reasoning Fail | Logical Fallacies" aria-label="Open page: The Fallacy That Rules Out Too Much | When the Structure Makes Reasoning Fail | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_formal_fallacies_6c776a_denying_antecedent_c_9c0a8d-Illustration-1.webp' | relative_url }}" alt="Overview image for The Fallacy That Rules Out Too Much | Logical Fallacies 998914 Formal Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2376,7 +2376,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-formal-fallacies-6c776a-affirming-consequent-710ef7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-effects/' | relative_url }}" title="When Evidence Looks Like Proof but Isnt | Logical Fallacies 998914 Formal Fallacies" aria-label="Open page: When Evidence Looks Like Proof but Isnt | Logical Fallacies 998914 Formal Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-effects/' | relative_url }}" title="When Evidence Looks Like Proof but Isnt | When the Structure Makes Reasoning Fail | Logical Fallacies" aria-label="Open page: When Evidence Looks Like Proof but Isnt | When the Structure Makes Reasoning Fail | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-1.webp' | relative_url }}" alt="Overview image for When Evidence Looks Like Proof but Isnt | Logical Fallacies 998914 Formal Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2396,7 +2396,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-formal-fallacies-6c776a-prosecutors-fallacy-a34c6b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'probability-trap/' | relative_url }}" title="When Rare Evidence Misleads a Jury | Logical Fallacies 998914 Formal Fallacies" aria-label="Open page: When Rare Evidence Misleads a Jury | Logical Fallacies 998914 Formal Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'probability-trap/' | relative_url }}" title="When Rare Evidence Misleads a Jury | When the Structure Makes Reasoning Fail | Logical Fallacies" aria-label="Open page: When Rare Evidence Misleads a Jury | When the Structure Makes Reasoning Fail | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-1.webp' | relative_url }}" alt="Overview image for When Rare Evidence Misleads a Jury | Logical Fallacies 998914 Formal Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2416,7 +2416,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-formal-fallacies-6c776a-undistributed-middle-9d492a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'shared-category/' | relative_url }}" title="Why Shared Traits Do Not Prove Identity | Logical Fallacies 998914 Formal Fallacies" aria-label="Open page: Why Shared Traits Do Not Prove Identity | Logical Fallacies 998914 Formal Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'shared-category/' | relative_url }}" title="Why Shared Traits Do Not Prove Identity | When the Structure Makes Reasoning Fail | Logical Fallacies" aria-label="Open page: Why Shared Traits Do Not Prove Identity | When the Structure Makes Reasoning Fail | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_formal_fallacies_6c776a_undistributed_middle_9d492a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Shared Traits Do Not Prove Identity | Logical Fallacies 998914 Formal Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2460,7 +2460,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-ignorance-7e7b18-silence-as-evidence-68ffe5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'silence-test/' | relative_url }}" title="When Does No Evidence Actually Count? | Logical Fallacies 998914 Appeal To Ignorance" aria-label="Open page: When Does No Evidence Actually Count? | Logical Fallacies 998914 Appeal To Ignorance">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'silence-test/' | relative_url }}" title="When Does No Evidence Actually Count? | What Does Missing Evidence Prove? | Logical Fallacies" aria-label="Open page: When Does No Evidence Actually Count? | What Does Missing Evidence Prove? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_silence_as_evidence_68ffe5-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does No Evidence Actually Count? | Logical Fallacies 998914 Appeal To Ignorance" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2480,7 +2480,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-ignorance-7e7b18-null-results-no-effe-67e5cf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'null-results/' | relative_url }}" title="When No Effect Has Not Been Proved | Logical Fallacies 998914 Appeal To Ignorance" aria-label="Open page: When No Effect Has Not Been Proved | Logical Fallacies 998914 Appeal To Ignorance">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'null-results/' | relative_url }}" title="When No Effect Has Not Been Proved | What Does Missing Evidence Prove? | Logical Fallacies" aria-label="Open page: When No Effect Has Not Been Proved | What Does Missing Evidence Prove? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_null_results_no_effe_67e5cf-Illustration-1.webp' | relative_url }}" alt="Overview image for When No Effect Has Not Been Proved | Logical Fallacies 998914 Appeal To Ignorance" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2500,7 +2500,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-ignorance-7e7b18-burden-of-proof-clai-228d3e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-burden/' | relative_url }}" title="Who Has to Prove the Claim? | Logical Fallacies 998914 Appeal To Ignorance" aria-label="Open page: Who Has to Prove the Claim? | Logical Fallacies 998914 Appeal To Ignorance">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-burden/' | relative_url }}" title="Who Has to Prove the Claim? | What Does Missing Evidence Prove? | Logical Fallacies" aria-label="Open page: Who Has to Prove the Claim? | What Does Missing Evidence Prove? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Has to Prove the Claim? | Logical Fallacies 998914 Appeal To Ignorance" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2520,7 +2520,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-ignorance-7e7b18-legal-not-proven-2a8742" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'not-proven/' | relative_url }}" title="Why Not Guilty Is Not the Same as False | Logical Fallacies 998914 Appeal To Ignorance" aria-label="Open page: Why Not Guilty Is Not the Same as False | Logical Fallacies 998914 Appeal To Ignorance">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'not-proven/' | relative_url }}" title="Why Not Guilty Is Not the Same as False | What Does Missing Evidence Prove? | Logical Fallacies" aria-label="Open page: Why Not Guilty Is Not the Same as False | What Does Missing Evidence Prove? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Not Guilty Is Not the Same as False | Logical Fallacies 998914 Appeal To Ignorance" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2540,7 +2540,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-ignorance-7e7b18-rumours-missing-deni-178a1a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'rumour-gaps/' | relative_url }}" title="Why Silence Makes Rumours Feel True | Logical Fallacies 998914 Appeal To Ignorance" aria-label="Open page: Why Silence Makes Rumours Feel True | Logical Fallacies 998914 Appeal To Ignorance">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'rumour-gaps/' | relative_url }}" title="Why Silence Makes Rumours Feel True | What Does Missing Evidence Prove? | Logical Fallacies" aria-label="Open page: Why Silence Makes Rumours Feel True | What Does Missing Evidence Prove? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_rumours_missing_deni_178a1a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Silence Makes Rumours Feel True | Logical Fallacies 998914 Appeal To Ignorance" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2584,7 +2584,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-informal-fallacies-08e748-red-herring-distract-ebed98" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'red-herrings-13d922/' | relative_url }}" title="Is That Point Relevant or a Distraction? | Logical Fallacies 998914 Informal Fallacies" aria-label="Open page: Is That Point Relevant or a Distraction? | Logical Fallacies 998914 Informal Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'red-herrings-13d922/' | relative_url }}" title="Is That Point Relevant or a Distraction? | Why Context Changes the Argument | Logical Fallacies" aria-label="Open page: Is That Point Relevant or a Distraction? | Why Context Changes the Argument | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-1.webp' | relative_url }}" alt="Overview image for Is That Point Relevant or a Distraction? | Logical Fallacies 998914 Informal Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2604,7 +2604,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-informal-fallacies-08e748-appeal-to-authority-b22c59" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'authority-69260f/' | relative_url }}" title="When Expert Opinion Is Not Enough | Logical Fallacies 998914 Informal Fallacies" aria-label="Open page: When Expert Opinion Is Not Enough | Logical Fallacies 998914 Informal Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'authority-69260f/' | relative_url }}" title="When Expert Opinion Is Not Enough | Why Context Changes the Argument | Logical Fallacies" aria-label="Open page: When Expert Opinion Is Not Enough | Why Context Changes the Argument | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-1.webp' | relative_url }}" alt="Overview image for When Expert Opinion Is Not Enough | Logical Fallacies 998914 Informal Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2624,7 +2624,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-informal-fallacies-08e748-hasty-generalisation-4db1f5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'anecdotes-7b13b3/' | relative_url }}" title="When One Story Becomes Too Much Proof | Logical Fallacies 998914 Informal Fallacies" aria-label="Open page: When One Story Becomes Too Much Proof | Logical Fallacies 998914 Informal Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'anecdotes-7b13b3/' | relative_url }}" title="When One Story Becomes Too Much Proof | Why Context Changes the Argument | Logical Fallacies" aria-label="Open page: When One Story Becomes Too Much Proof | Why Context Changes the Argument | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_informal_fallacies_08e748_hasty_generalisation_4db1f5-Illustration-1.webp' | relative_url }}" alt="Overview image for When One Story Becomes Too Much Proof | Logical Fallacies 998914 Informal Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2644,7 +2644,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-informal-fallacies-08e748-equivocation-word-sh-019829" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'equivocation-6842f1/' | relative_url }}" title="When One Word Quietly Changes the Argument | Logical Fallacies 998914 Informal Fallacies" aria-label="Open page: When One Word Quietly Changes the Argument | Logical Fallacies 998914 Informal Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'equivocation-6842f1/' | relative_url }}" title="When One Word Quietly Changes the Argument | Why Context Changes the Argument | Logical Fallacies" aria-label="Open page: When One Word Quietly Changes the Argument | Why Context Changes the Argument | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_informal_fallacies_08e748_equivocation_word_sh_019829-Illustration-1.webp' | relative_url }}" alt="Overview image for When One Word Quietly Changes the Argument | Logical Fallacies 998914 Informal Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2664,7 +2664,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-informal-fallacies-08e748-ad-hominem-relevance-c71a65" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-hominem-7b72f2/' | relative_url }}" title="When Personal Criticism Actually Matters | Logical Fallacies 998914 Informal Fallacies" aria-label="Open page: When Personal Criticism Actually Matters | Logical Fallacies 998914 Informal Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-hominem-7b72f2/' | relative_url }}" title="When Personal Criticism Actually Matters | Why Context Changes the Argument | Logical Fallacies" aria-label="Open page: When Personal Criticism Actually Matters | Why Context Changes the Argument | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_informal_fallacies_08e748_ad_hominem_relevance_c71a65-Illustration-1.webp' | relative_url }}" alt="Overview image for When Personal Criticism Actually Matters | Logical Fallacies 998914 Informal Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2708,7 +2708,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-fallacy-labels-567868-anecdotal-overcorrec-f74a01" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'anecdotes-c0ecbe/' | relative_url }}" title="Does Anecdotal Evidence Make a Claim False? | Logical Fallacies 998914 Fallacy Labels" aria-label="Open page: Does Anecdotal Evidence Make a Claim False? | Logical Fallacies 998914 Fallacy Labels">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'anecdotes-c0ecbe/' | relative_url }}" title="Does Anecdotal Evidence Make a Claim False? | When Fallacy Labels Mislead Too | Logical Fallacies" aria-label="Open page: Does Anecdotal Evidence Make a Claim False? | When Fallacy Labels Mislead Too | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_overcorrec_f74a01-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Anecdotal Evidence Make a Claim False? | Logical Fallacies 998914 Fallacy Labels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2728,7 +2728,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-fallacy-labels-567868-fallacy-labels-argum-75f420" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'repair/' | relative_url }}" title="How Fallacy Labels Can Improve Arguments | Logical Fallacies 998914 Fallacy Labels" aria-label="Open page: How Fallacy Labels Can Improve Arguments | Logical Fallacies 998914 Fallacy Labels">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'repair/' | relative_url }}" title="How Fallacy Labels Can Improve Arguments | When Fallacy Labels Mislead Too | Logical Fallacies" aria-label="Open page: How Fallacy Labels Can Improve Arguments | When Fallacy Labels Mislead Too | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-1.webp' | relative_url }}" alt="Overview image for How Fallacy Labels Can Improve Arguments | Logical Fallacies 998914 Fallacy Labels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2748,7 +2748,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-fallacy-labels-567868-bad-arguments-true-c-bc33a8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'bad-vs-true/' | relative_url }}" title="When Bad Arguments Still Reach True Claims | Logical Fallacies 998914 Fallacy Labels" aria-label="Open page: When Bad Arguments Still Reach True Claims | Logical Fallacies 998914 Fallacy Labels">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'bad-vs-true/' | relative_url }}" title="When Bad Arguments Still Reach True Claims | When Fallacy Labels Mislead Too | Logical Fallacies" aria-label="Open page: When Bad Arguments Still Reach True Claims | When Fallacy Labels Mislead Too | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-1.webp' | relative_url }}" alt="Overview image for When Bad Arguments Still Reach True Claims | Logical Fallacies 998914 Fallacy Labels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2768,7 +2768,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-fallacy-labels-567868-authority-reliabilit-ed1c92" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'authority-494dc1/' | relative_url }}" title="When Expert Authority Is Helpful or Misleading | Logical Fallacies 998914 Fallacy Labels" aria-label="Open page: When Expert Authority Is Helpful or Misleading | Logical Fallacies 998914 Fallacy Labels">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'authority-494dc1/' | relative_url }}" title="When Expert Authority Is Helpful or Misleading | When Fallacy Labels Mislead Too | Logical Fallacies" aria-label="Open page: When Expert Authority Is Helpful or Misleading | When Fallacy Labels Mislead Too | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_fallacy_labels_567868_authority_reliabilit_ed1c92-Illustration-1.webp' | relative_url }}" alt="Overview image for When Expert Authority Is Helpful or Misleading | Logical Fallacies 998914 Fallacy Labels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2788,7 +2788,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-fallacy-labels-567868-online-fallacy-callo-a1cb4c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'callouts/' | relative_url }}" title="Why Online Fallacy Callouts Go Wrong | Logical Fallacies 998914 Fallacy Labels" aria-label="Open page: Why Online Fallacy Callouts Go Wrong | Logical Fallacies 998914 Fallacy Labels">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'callouts/' | relative_url }}" title="Why Online Fallacy Callouts Go Wrong | When Fallacy Labels Mislead Too | Logical Fallacies" aria-label="Open page: Why Online Fallacy Callouts Go Wrong | When Fallacy Labels Mislead Too | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_fallacy_labels_567868_online_fallacy_callo_a1cb4c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Online Fallacy Callouts Go Wrong | Logical Fallacies 998914 Fallacy Labels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2832,7 +2832,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-loaded-language-f9a858-emotionally-charged-78db57" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'charged-labels/' | relative_url }}" title="Are the Labels Doing More Than the Evidence? | Logical Fallacies 998914 Loaded Language" aria-label="Open page: Are the Labels Doing More Than the Evidence? | Logical Fallacies 998914 Loaded Language">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'charged-labels/' | relative_url }}" title="Are the Labels Doing More Than the Evidence? | What Is the Wording Sneaking In? | Logical Fallacies" aria-label="Open page: Are the Labels Doing More Than the Evidence? | What Is the Wording Sneaking In? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_loaded_language_f9a858_emotionally_charged_78db57-Illustration-1.webp' | relative_url }}" alt="Overview image for Are the Labels Doing More Than the Evidence? | Logical Fallacies 998914 Loaded Language" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2852,7 +2852,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-loaded-language-f9a858-eyewitness-memory-fr-27220d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'memory-framing/' | relative_url }}" title="Can One Word Change What People Remember? | Logical Fallacies 998914 Loaded Language" aria-label="Open page: Can One Word Change What People Remember? | Logical Fallacies 998914 Loaded Language">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'memory-framing/' | relative_url }}" title="Can One Word Change What People Remember? | What Is the Wording Sneaking In? | Logical Fallacies" aria-label="Open page: Can One Word Change What People Remember? | What Is the Wording Sneaking In? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_loaded_language_f9a858_eyewitness_memory_fr_27220d-Illustration-1.webp' | relative_url }}" alt="Overview image for Can One Word Change What People Remember? | Logical Fallacies 998914 Loaded Language" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2872,7 +2872,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-loaded-language-f9a858-survey-question-bias-76d030" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'biased-surveys/' | relative_url }}" title="How Question Wording Skews Survey Results | Logical Fallacies 998914 Loaded Language" aria-label="Open page: How Question Wording Skews Survey Results | Logical Fallacies 998914 Loaded Language">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'biased-surveys/' | relative_url }}" title="How Question Wording Skews Survey Results | What Is the Wording Sneaking In? | Logical Fallacies" aria-label="Open page: How Question Wording Skews Survey Results | What Is the Wording Sneaking In? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_loaded_language_f9a858_survey_question_bias_76d030-Illustration-1.webp' | relative_url }}" alt="Overview image for How Question Wording Skews Survey Results | Logical Fallacies 998914 Loaded Language" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2892,7 +2892,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-loaded-language-f9a858-detect-hidden-assump-be2d06" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-assumptions/' | relative_url }}" title="How to Detect the Premises No One Defends | Logical Fallacies 998914 Loaded Language" aria-label="Open page: How to Detect the Premises No One Defends | Logical Fallacies 998914 Loaded Language">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-assumptions/' | relative_url }}" title="How to Detect the Premises No One Defends | What Is the Wording Sneaking In? | Logical Fallacies" aria-label="Open page: How to Detect the Premises No One Defends | What Is the Wording Sneaking In? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Detect the Premises No One Defends | Logical Fallacies 998914 Loaded Language" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2912,7 +2912,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-loaded-language-f9a858-loaded-question-prem-15d3db" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'loaded-questions/' | relative_url }}" title="When Does a Question Smuggle In an Answer? | Logical Fallacies 998914 Loaded Language" aria-label="Open page: When Does a Question Smuggle In an Answer? | Logical Fallacies 998914 Loaded Language">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'loaded-questions/' | relative_url }}" title="When Does a Question Smuggle In an Answer? | What Is the Wording Sneaking In? | Logical Fallacies" aria-label="Open page: When Does a Question Smuggle In an Answer? | What Is the Wording Sneaking In? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_loaded_language_f9a858_loaded_question_prem_15d3db-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does a Question Smuggle In an Answer? | Logical Fallacies 998914 Loaded Language" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2956,7 +2956,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-no-true-scotsman-ecc324-purity-labels-groups-006adc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'purity-labels/' | relative_url }}" title="How Purity Labels Shut Down Evidence | Logical Fallacies 998914 No True Scotsman" aria-label="Open page: How Purity Labels Shut Down Evidence | Logical Fallacies 998914 No True Scotsman">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'purity-labels/' | relative_url }}" title="How Purity Labels Shut Down Evidence | Are Definitions Moving to Escape Evidence? | Logical Fallacies" aria-label="Open page: How Purity Labels Shut Down Evidence | Are Definitions Moving to Escape Evidence? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-1.webp' | relative_url }}" alt="Overview image for How Purity Labels Shut Down Evidence | Logical Fallacies 998914 No True Scotsman" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2976,7 +2976,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-no-true-scotsman-ecc324-persuasive-definitio-824c3b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'persuasive-words/' | relative_url }}" title="When Definitions Carry Hidden Judgment | Logical Fallacies 998914 No True Scotsman" aria-label="Open page: When Definitions Carry Hidden Judgment | Logical Fallacies 998914 No True Scotsman">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'persuasive-words/' | relative_url }}" title="When Definitions Carry Hidden Judgment | Are Definitions Moving to Escape Evidence? | Logical Fallacies" aria-label="Open page: When Definitions Carry Hidden Judgment | Are Definitions Moving to Escape Evidence? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-1.webp' | relative_url }}" alt="Overview image for When Definitions Carry Hidden Judgment | Logical Fallacies 998914 No True Scotsman" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2996,7 +2996,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-no-true-scotsman-ecc324-true-membership-test-b8bd0f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'membership-tests/' | relative_url }}" title="When Does a True Member Really Count? | Logical Fallacies 998914 No True Scotsman" aria-label="Open page: When Does a True Member Really Count? | Logical Fallacies 998914 No True Scotsman">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'membership-tests/' | relative_url }}" title="When Does a True Member Really Count? | Are Definitions Moving to Escape Evidence? | Logical Fallacies" aria-label="Open page: When Does a True Member Really Count? | Are Definitions Moving to Escape Evidence? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_true_membership_test_b8bd0f-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does a True Member Really Count? | Logical Fallacies 998914 No True Scotsman" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3016,7 +3016,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-no-true-scotsman-ecc324-fair-redefinition-3f1d83" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fair-redefinition/' | relative_url }}" title="When Is Redefinition Not a Fallacy? | Logical Fallacies 998914 No True Scotsman" aria-label="Open page: When Is Redefinition Not a Fallacy? | Logical Fallacies 998914 No True Scotsman">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fair-redefinition/' | relative_url }}" title="When Is Redefinition Not a Fallacy? | Are Definitions Moving to Escape Evidence? | Logical Fallacies" aria-label="Open page: When Is Redefinition Not a Fallacy? | Are Definitions Moving to Escape Evidence? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_fair_redefinition_3f1d83-Illustration-1.webp' | relative_url }}" alt="Overview image for When Is Redefinition Not a Fallacy? | Logical Fallacies 998914 No True Scotsman" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3036,7 +3036,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-no-true-scotsman-ecc324-scotsman-porridge-ex-387f7a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'porridge-case/' | relative_url }}" title="Why the Porridge Example Still Works | Logical Fallacies 998914 No True Scotsman" aria-label="Open page: Why the Porridge Example Still Works | Logical Fallacies 998914 No True Scotsman">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'porridge-case/' | relative_url }}" title="Why the Porridge Example Still Works | Are Definitions Moving to Escape Evidence? | Logical Fallacies" aria-label="Open page: Why the Porridge Example Still Works | Are Definitions Moving to Escape Evidence? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Porridge Example Still Works | Logical Fallacies 998914 No True Scotsman" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3080,7 +3080,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-novelty-f53150-tech-hype-novelty-ef-082d33" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'tech-hype/' | relative_url }}" title="Does the New Feature Still Work Later? | Logical Fallacies 998914 Appeal To Novelty" aria-label="Open page: Does the New Feature Still Work Later? | Logical Fallacies 998914 Appeal To Novelty">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tech-hype/' | relative_url }}" title="Does the New Feature Still Work Later? | Is New Always Better? | Logical Fallacies" aria-label="Open page: Does the New Feature Still Work Later? | Is New Always Better? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-1.webp' | relative_url }}" alt="Overview image for Does the New Feature Still Work Later? | Logical Fallacies 998914 Appeal To Novelty" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3100,7 +3100,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-novelty-f53150-compare-old-new-fair-98c55f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fair-comparison/' | relative_url }}" title="How to Compare Old and New Fairly | Logical Fallacies 998914 Appeal To Novelty" aria-label="Open page: How to Compare Old and New Fairly | Logical Fallacies 998914 Appeal To Novelty">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fair-comparison/' | relative_url }}" title="How to Compare Old and New Fairly | Is New Always Better? | Logical Fallacies" aria-label="Open page: How to Compare Old and New Fairly | Is New Always Better? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Compare Old and New Fairly | Logical Fallacies 998914 Appeal To Novelty" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3120,7 +3120,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-novelty-f53150-modern-language-poli-421cf1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'modern-claims/' | relative_url }}" title="When Modern Language Does the Persuading | Logical Fallacies 998914 Appeal To Novelty" aria-label="Open page: When Modern Language Does the Persuading | Logical Fallacies 998914 Appeal To Novelty">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'modern-claims/' | relative_url }}" title="When Modern Language Does the Persuading | Is New Always Better? | Logical Fallacies" aria-label="Open page: When Modern Language Does the Persuading | Is New Always Better? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-1.webp' | relative_url }}" alt="Overview image for When Modern Language Does the Persuading | Logical Fallacies 998914 Appeal To Novelty" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3140,7 +3140,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-novelty-f53150-new-treatments-proof-9e7699" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'medical-proof/' | relative_url }}" title="When New Treatments Outrun the Evidence | Logical Fallacies 998914 Appeal To Novelty" aria-label="Open page: When New Treatments Outrun the Evidence | Logical Fallacies 998914 Appeal To Novelty">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'medical-proof/' | relative_url }}" title="When New Treatments Outrun the Evidence | Is New Always Better? | Logical Fallacies" aria-label="Open page: When New Treatments Outrun the Evidence | Is New Always Better? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_new_treatments_proof_9e7699-Illustration-1.webp' | relative_url }}" alt="Overview image for When New Treatments Outrun the Evidence | Logical Fallacies 998914 Appeal To Novelty" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3160,7 +3160,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-novelty-f53150-new-coke-replacement-78339e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'new-coke/' | relative_url }}" title="Why New Coke Was Not Just a Taste Test | Logical Fallacies 998914 Appeal To Novelty" aria-label="Open page: Why New Coke Was Not Just a Taste Test | Logical Fallacies 998914 Appeal To Novelty">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'new-coke/' | relative_url }}" title="Why New Coke Was Not Just a Taste Test | Is New Always Better? | Logical Fallacies" aria-label="Open page: Why New Coke Was Not Just a Taste Test | Is New Always Better? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_new_coke_replacement_78339e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why New Coke Was Not Just a Taste Test | Logical Fallacies 998914 Appeal To Novelty" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3204,7 +3204,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-school-phone-policy-e59b69-locked-phone-pouches-582087" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'locked-pouches/' | relative_url }}" title="Are Locked Pouches a Simple Fix? | Logical Fallacies 998914 School Phone Policy" aria-label="Open page: Are Locked Pouches a Simple Fix? | Logical Fallacies 998914 School Phone Policy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'locked-pouches/' | relative_url }}" title="Are Locked Pouches a Simple Fix? | Are Phone Rules Really All or Nothing? | Logical Fallacies" aria-label="Open page: Are Locked Pouches a Simple Fix? | Are Phone Rules Really All or Nothing? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_school_phone_policy_e59b69_locked_phone_pouches_582087-Illustration-1.webp' | relative_url }}" alt="Overview image for Are Locked Pouches a Simple Fix? | Logical Fallacies 998914 School Phone Policy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3224,7 +3224,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-school-phone-policy-e59b69-phone-bans-test-scor-e5c914" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'test-scores/' | relative_url }}" title="Do Phone Bans Raise Test Scores? | Logical Fallacies 998914 School Phone Policy" aria-label="Open page: Do Phone Bans Raise Test Scores? | Logical Fallacies 998914 School Phone Policy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'test-scores/' | relative_url }}" title="Do Phone Bans Raise Test Scores? | Are Phone Rules Really All or Nothing? | Logical Fallacies" aria-label="Open page: Do Phone Bans Raise Test Scores? | Are Phone Rules Really All or Nothing? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_bans_test_scor_e5c914-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Phone Bans Raise Test Scores? | Logical Fallacies 998914 School Phone Policy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3244,7 +3244,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-school-phone-policy-e59b69-phone-rules-wellbein-ad781a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'wellbeing/' | relative_url }}" title="Do Phone Rules Improve Wellbeing? | Logical Fallacies 998914 School Phone Policy" aria-label="Open page: Do Phone Rules Improve Wellbeing? | Logical Fallacies 998914 School Phone Policy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'wellbeing/' | relative_url }}" title="Do Phone Rules Improve Wellbeing? | Are Phone Rules Really All or Nothing? | Logical Fallacies" aria-label="Open page: Do Phone Rules Improve Wellbeing? | Are Phone Rules Really All or Nothing? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_rules_wellbein_ad781a-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Phone Rules Improve Wellbeing? | Logical Fallacies 998914 School Phone Policy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3264,7 +3264,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-school-phone-policy-e59b69-phone-ban-models-c521eb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ban-models/' | relative_url }}" title="What Does a Phone Ban Actually Mean? | Logical Fallacies 998914 School Phone Policy" aria-label="Open page: What Does a Phone Ban Actually Mean? | Logical Fallacies 998914 School Phone Policy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ban-models/' | relative_url }}" title="What Does a Phone Ban Actually Mean? | Are Phone Rules Really All or Nothing? | Logical Fallacies" aria-label="Open page: What Does a Phone Ban Actually Mean? | Are Phone Rules Really All or Nothing? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_ban_models_c521eb-Illustration-1.webp' | relative_url }}" alt="Overview image for What Does a Phone Ban Actually Mean? | Logical Fallacies 998914 School Phone Policy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3284,7 +3284,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-school-phone-policy-e59b69-phone-policy-excepti-e0a348" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'exceptions/' | relative_url }}" title="When Should a Phone Rule Bend? | Logical Fallacies 998914 School Phone Policy" aria-label="Open page: When Should a Phone Rule Bend? | Logical Fallacies 998914 School Phone Policy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'exceptions/' | relative_url }}" title="When Should a Phone Rule Bend? | Are Phone Rules Really All or Nothing? | Logical Fallacies" aria-label="Open page: When Should a Phone Rule Bend? | Are Phone Rules Really All or Nothing? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_policy_excepti_e0a348-Illustration-1.webp' | relative_url }}" alt="Overview image for When Should a Phone Rule Bend? | Logical Fallacies 998914 School Phone Policy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3328,7 +3328,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-political-speech-fal-4164bc-polite-fallacies-aud-33ed81" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'polite-fallacies/' | relative_url }}" title="Can a Fallacy Sound Perfectly Reasonable? | Logical Fallacies 998914 Political Speech Fal" aria-label="Open page: Can a Fallacy Sound Perfectly Reasonable? | Logical Fallacies 998914 Political Speech Fal">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'polite-fallacies/' | relative_url }}" title="Can a Fallacy Sound Perfectly Reasonable? | How Public Arguments Go Off Track | Logical Fallacies" aria-label="Open page: Can a Fallacy Sound Perfectly Reasonable? | How Public Arguments Go Off Track | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_political_speech_fal_4164bc_polite_fallacies_aud_33ed81-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Fallacy Sound Perfectly Reasonable? | Logical Fallacies 998914 Political Speech Fal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3348,7 +3348,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-political-speech-fal-4164bc-straw-man-healthcare-d86bb2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'straw-man-3a18b7/' | relative_url }}" title="How Healthcare Claims Become Straw Men | Logical Fallacies 998914 Political Speech Fal" aria-label="Open page: How Healthcare Claims Become Straw Men | Logical Fallacies 998914 Political Speech Fal">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'straw-man-3a18b7/' | relative_url }}" title="How Healthcare Claims Become Straw Men | How Public Arguments Go Off Track | Logical Fallacies" aria-label="Open page: How Healthcare Claims Become Straw Men | How Public Arguments Go Off Track | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_political_speech_fal_4164bc_straw_man_healthcare_d86bb2-Illustration-1.webp' | relative_url }}" alt="Overview image for How Healthcare Claims Become Straw Men | Logical Fallacies 998914 Political Speech Fal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3368,7 +3368,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-political-speech-fal-4164bc-deregulation-false-d-8dd39a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'deregulation/' | relative_url }}" title="The Missing Middle in Deregulation Debates | Logical Fallacies 998914 Political Speech Fal" aria-label="Open page: The Missing Middle in Deregulation Debates | Logical Fallacies 998914 Political Speech Fal">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'deregulation/' | relative_url }}" title="The Missing Middle in Deregulation Debates | How Public Arguments Go Off Track | Logical Fallacies" aria-label="Open page: The Missing Middle in Deregulation Debates | How Public Arguments Go Off Track | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-1.webp' | relative_url }}" alt="Overview image for The Missing Middle in Deregulation Debates | Logical Fallacies 998914 Political Speech Fal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3388,7 +3388,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-political-speech-fal-4164bc-appeal-popularity-pa-844173" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'popularity-f296de/' | relative_url }}" title="When Majority Support Becomes Fake Proof | Logical Fallacies 998914 Political Speech Fal" aria-label="Open page: When Majority Support Becomes Fake Proof | Logical Fallacies 998914 Political Speech Fal">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'popularity-f296de/' | relative_url }}" title="When Majority Support Becomes Fake Proof | How Public Arguments Go Off Track | Logical Fallacies" aria-label="Open page: When Majority Support Becomes Fake Proof | How Public Arguments Go Off Track | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appeal_popularity_pa_844173-Illustration-1.webp' | relative_url }}" alt="Overview image for When Majority Support Becomes Fake Proof | Logical Fallacies 998914 Political Speech Fal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3408,7 +3408,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-political-speech-fal-4164bc-ad-hominem-policy-de-602867" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-hominem-bd3aff/' | relative_url }}" title="When Personal Attacks Hide the Policy Question | Logical Fallacies 998914 Political Speech Fal" aria-label="Open page: When Personal Attacks Hide the Policy Question | Logical Fallacies 998914 Political Speech Fal">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-hominem-bd3aff/' | relative_url }}" title="When Personal Attacks Hide the Policy Question | How Public Arguments Go Off Track | Logical Fallacies" aria-label="Open page: When Personal Attacks Hide the Policy Question | How Public Arguments Go Off Track | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_political_speech_fal_4164bc_ad_hominem_policy_de_602867-Illustration-1.webp' | relative_url }}" alt="Overview image for When Personal Attacks Hide the Policy Question | Logical Fallacies 998914 Political Speech Fal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3452,7 +3452,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-popularity-14cb62-fake-reviews-popular-ec8582" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fake-reviews/' | relative_url }}" title="Can Popular Reviews Be Trusted? | Logical Fallacies 998914 Appeal To Popularity" aria-label="Open page: Can Popular Reviews Be Trusted? | Logical Fallacies 998914 Appeal To Popularity">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fake-reviews/' | relative_url }}" title="Can Popular Reviews Be Trusted? | Does Belief Make a Claim True? | Logical Fallacies" aria-label="Open page: Can Popular Reviews Be Trusted? | Does Belief Make a Claim True? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Popular Reviews Be Trusted? | Logical Fallacies 998914 Appeal To Popularity" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3472,7 +3472,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-popularity-14cb62-information-cascades-f8ecb3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cascades/' | relative_url }}" title="How Bandwagons Grow From Thin Evidence | Logical Fallacies 998914 Appeal To Popularity" aria-label="Open page: How Bandwagons Grow From Thin Evidence | Logical Fallacies 998914 Appeal To Popularity">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cascades/' | relative_url }}" title="How Bandwagons Grow From Thin Evidence | Does Belief Make a Claim True? | Logical Fallacies" aria-label="Open page: How Bandwagons Grow From Thin Evidence | Does Belief Make a Claim True? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-1.webp' | relative_url }}" alt="Overview image for How Bandwagons Grow From Thin Evidence | Logical Fallacies 998914 Appeal To Popularity" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3492,7 +3492,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-popularity-14cb62-social-proof-crowds-d40ed5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'social-proof/' | relative_url }}" title="When Social Proof Stops Being Evidence | Logical Fallacies 998914 Appeal To Popularity" aria-label="Open page: When Social Proof Stops Being Evidence | Logical Fallacies 998914 Appeal To Popularity">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'social-proof/' | relative_url }}" title="When Social Proof Stops Being Evidence | Does Belief Make a Claim True? | Logical Fallacies" aria-label="Open page: When Social Proof Stops Being Evidence | Does Belief Make a Claim True? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_social_proof_crowds_d40ed5-Illustration-1.webp' | relative_url }}" alt="Overview image for When Social Proof Stops Being Evidence | Logical Fallacies 998914 Appeal To Popularity" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3512,7 +3512,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-popularity-14cb62-asch-conformity-86d184" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'the-asch-conformity-experiments/' | relative_url }}" title="Why Obvious Answers Can Bend Under Pressure | Logical Fallacies 998914 Appeal To Popularity" aria-label="Open page: Why Obvious Answers Can Bend Under Pressure | Logical Fallacies 998914 Appeal To Popularity">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'the-asch-conformity-experiments/' | relative_url }}" title="Why Obvious Answers Can Bend Under Pressure | Does Belief Make a Claim True? | Logical Fallacies" aria-label="Open page: Why Obvious Answers Can Bend Under Pressure | Does Belief Make a Claim True? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_asch_conformity_86d184-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Obvious Answers Can Bend Under Pressure | Logical Fallacies 998914 Appeal To Popularity" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3532,7 +3532,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-popularity-14cb62-popularity-bias-reco-97c4e0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'popularity-bias/' | relative_url }}" title="Why Trending Lists Can Distort Judgment | Logical Fallacies 998914 Appeal To Popularity" aria-label="Open page: Why Trending Lists Can Distort Judgment | Logical Fallacies 998914 Appeal To Popularity">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'popularity-bias/' | relative_url }}" title="Why Trending Lists Can Distort Judgment | Does Belief Make a Claim True? | Logical Fallacies" aria-label="Open page: Why Trending Lists Can Distort Judgment | Does Belief Make a Claim True? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Trending Lists Can Distort Judgment | Logical Fallacies 998914 Appeal To Popularity" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3576,7 +3576,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-red-herrings-458e95-context-or-dodge-47908f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'context-test/' | relative_url }}" title="Is It Context or a Dodge? | Logical Fallacies 998914 Red Herrings" aria-label="Open page: Is It Context or a Dodge? | Logical Fallacies 998914 Red Herrings">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'context-test/' | relative_url }}" title="Is It Context or a Dodge? | Is This Point Actually Relevant? | Logical Fallacies" aria-label="Open page: Is It Context or a Dodge? | Is This Point Actually Relevant? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-1.webp' | relative_url }}" alt="Overview image for Is It Context or a Dodge? | Logical Fallacies 998914 Red Herrings" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3596,7 +3596,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-red-herrings-458e95-straw-man-vs-red-her-99c39f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'straw-man-585401/' | relative_url }}" title="Straw Man or Red Herring? | Logical Fallacies 998914 Red Herrings" aria-label="Open page: Straw Man or Red Herring? | Logical Fallacies 998914 Red Herrings">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'straw-man-585401/' | relative_url }}" title="Straw Man or Red Herring? | Is This Point Actually Relevant? | Logical Fallacies" aria-label="Open page: Straw Man or Red Herring? | Is This Point Actually Relevant? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-1.webp' | relative_url }}" alt="Overview image for Straw Man or Red Herring? | Logical Fallacies 998914 Red Herrings" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3616,7 +3616,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-red-herrings-458e95-detail-flood-smokesc-406497" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'detail-flood/' | relative_url }}" title="When Details Become a Smokescreen | Logical Fallacies 998914 Red Herrings" aria-label="Open page: When Details Become a Smokescreen | Logical Fallacies 998914 Red Herrings">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'detail-flood/' | relative_url }}" title="When Details Become a Smokescreen | Is This Point Actually Relevant? | Logical Fallacies" aria-label="Open page: When Details Become a Smokescreen | Is This Point Actually Relevant? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_red_herrings_458e95_detail_flood_smokesc_406497-Illustration-1.webp' | relative_url }}" alt="Overview image for When Details Become a Smokescreen | Logical Fallacies 998914 Red Herrings" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3636,7 +3636,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-red-herrings-458e95-whataboutism-test-ceac84" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'whataboutism/' | relative_url }}" title="When Whataboutism Becomes a Dodge | Logical Fallacies 998914 Red Herrings" aria-label="Open page: When Whataboutism Becomes a Dodge | Logical Fallacies 998914 Red Herrings">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'whataboutism/' | relative_url }}" title="When Whataboutism Becomes a Dodge | Is This Point Actually Relevant? | Logical Fallacies" aria-label="Open page: When Whataboutism Becomes a Dodge | Is This Point Actually Relevant? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-1.webp' | relative_url }}" alt="Overview image for When Whataboutism Becomes a Dodge | Logical Fallacies 998914 Red Herrings" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3656,7 +3656,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-red-herrings-458e95-dead-cat-distraction-57dc27" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'dead-cat/' | relative_url }}" title="Why Shocking Distractions Work | Logical Fallacies 998914 Red Herrings" aria-label="Open page: Why Shocking Distractions Work | Logical Fallacies 998914 Red Herrings">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'dead-cat/' | relative_url }}" title="Why Shocking Distractions Work | Is This Point Actually Relevant? | Logical Fallacies" aria-label="Open page: Why Shocking Distractions Work | Is This Point Actually Relevant? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Shocking Distractions Work | Logical Fallacies 998914 Red Herrings" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3700,7 +3700,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-relevance-tests-0373ab-popularity-truth-tes-4ffcfd" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'popularity-1baf18/' | relative_url }}" title="Does Popular Belief Make a Claim True? | Logical Fallacies 998914 Relevance Tests" aria-label="Open page: Does Popular Belief Make a Claim True? | Logical Fallacies 998914 Relevance Tests">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'popularity-1baf18/' | relative_url }}" title="Does Popular Belief Make a Claim True? | Does This Reason Actually Matter? | Logical Fallacies" aria-label="Open page: Does Popular Belief Make a Claim True? | Does This Reason Actually Matter? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Popular Belief Make a Claim True? | Logical Fallacies 998914 Relevance Tests" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3720,7 +3720,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-relevance-tests-0373ab-warrant-evidence-cla-1bfb7d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'warrants/' | relative_url }}" title="The Missing Bridge Between Evidence and Claim | Logical Fallacies 998914 Relevance Tests" aria-label="Open page: The Missing Bridge Between Evidence and Claim | Logical Fallacies 998914 Relevance Tests">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'warrants/' | relative_url }}" title="The Missing Bridge Between Evidence and Claim | Does This Reason Actually Matter? | Logical Fallacies" aria-label="Open page: The Missing Bridge Between Evidence and Claim | Does This Reason Actually Matter? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-1.webp' | relative_url }}" alt="Overview image for The Missing Bridge Between Evidence and Claim | Logical Fallacies 998914 Relevance Tests" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3740,7 +3740,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-relevance-tests-0373ab-ad-hominem-credibili-641c4d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-hominem-e77826/' | relative_url }}" title="When Character Attacks Are Actually Relevant | Logical Fallacies 998914 Relevance Tests" aria-label="Open page: When Character Attacks Are Actually Relevant | Logical Fallacies 998914 Relevance Tests">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-hominem-e77826/' | relative_url }}" title="When Character Attacks Are Actually Relevant | Does This Reason Actually Matter? | Logical Fallacies" aria-label="Open page: When Character Attacks Are Actually Relevant | Does This Reason Actually Matter? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_relevance_tests_0373ab_ad_hominem_credibili_641c4d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Character Attacks Are Actually Relevant | Logical Fallacies 998914 Relevance Tests" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3760,7 +3760,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-relevance-tests-0373ab-pity-appeals-grading-843f13" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'pity-appeals/' | relative_url }}" title="When Sympathy Does Not Prove the Claim | Logical Fallacies 998914 Relevance Tests" aria-label="Open page: When Sympathy Does Not Prove the Claim | Logical Fallacies 998914 Relevance Tests">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'pity-appeals/' | relative_url }}" title="When Sympathy Does Not Prove the Claim | Does This Reason Actually Matter? | Logical Fallacies" aria-label="Open page: When Sympathy Does Not Prove the Claim | Does This Reason Actually Matter? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_relevance_tests_0373ab_pity_appeals_grading_843f13-Illustration-1.webp' | relative_url }}" alt="Overview image for When Sympathy Does Not Prove the Claim | Logical Fallacies 998914 Relevance Tests" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3780,7 +3780,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-relevance-tests-0373ab-red-herring-safety-d-cc5e62" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'red-herrings/' | relative_url }}" title="When True Concerns Pull Arguments Off Track | Logical Fallacies 998914 Relevance Tests" aria-label="Open page: When True Concerns Pull Arguments Off Track | Logical Fallacies 998914 Relevance Tests">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'red-herrings/' | relative_url }}" title="When True Concerns Pull Arguments Off Track | Does This Reason Actually Matter? | Logical Fallacies" aria-label="Open page: When True Concerns Pull Arguments Off Track | Does This Reason Actually Matter? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-1.webp' | relative_url }}" alt="Overview image for When True Concerns Pull Arguments Off Track | Logical Fallacies 998914 Relevance Tests" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3824,7 +3824,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-health-claim-fallaci-b1d78e-miracle-cure-ad-red-0ae349" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-red-flags/' | relative_url }}" title="How miracle cure ads sell belief | Logical Fallacies 998914 Health Claim Fallaci" aria-label="Open page: How miracle cure ads sell belief | Logical Fallacies 998914 Health Claim Fallaci">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-red-flags/' | relative_url }}" title="How miracle cure ads sell belief | Do Popular Remedies Prove Themselves? | Logical Fallacies" aria-label="Open page: How miracle cure ads sell belief | Do Popular Remedies Prove Themselves? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_miracle_cure_ad_red_0ae349-Illustration-1.webp' | relative_url }}" alt="Overview image for How miracle cure ads sell belief | Logical Fallacies 998914 Health Claim Fallaci" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3844,7 +3844,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-health-claim-fallaci-b1d78e-natural-remedy-inter-bf3bc2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'interactions/' | relative_url }}" title="Natural does not always mean safe | Logical Fallacies 998914 Health Claim Fallaci" aria-label="Open page: Natural does not always mean safe | Logical Fallacies 998914 Health Claim Fallaci">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'interactions/' | relative_url }}" title="Natural does not always mean safe | Do Popular Remedies Prove Themselves? | Logical Fallacies" aria-label="Open page: Natural does not always mean safe | Do Popular Remedies Prove Themselves? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_natural_remedy_inter_bf3bc2-Illustration-1.webp' | relative_url }}" alt="Overview image for Natural does not always mean safe | Logical Fallacies 998914 Health Claim Fallaci" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3864,7 +3864,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-health-claim-fallaci-b1d78e-fda-health-fraud-dat-7f4f5d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fda-warnings/' | relative_url }}" title="What warning databases reveal about remedies | Logical Fallacies 998914 Health Claim Fallaci" aria-label="Open page: What warning databases reveal about remedies | Logical Fallacies 998914 Health Claim Fallaci">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fda-warnings/' | relative_url }}" title="What warning databases reveal about remedies | Do Popular Remedies Prove Themselves? | Logical Fallacies" aria-label="Open page: What warning databases reveal about remedies | Do Popular Remedies Prove Themselves? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_fda_health_fraud_dat_7f4f5d-Illustration-1.webp' | relative_url }}" alt="Overview image for What warning databases reveal about remedies | Logical Fallacies 998914 Health Claim Fallaci" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3884,7 +3884,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-health-claim-fallaci-b1d78e-testimonial-anecdote-ce4869" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'testimonials/' | relative_url }}" title="When recovery stories are not evidence | Logical Fallacies 998914 Health Claim Fallaci" aria-label="Open page: When recovery stories are not evidence | Logical Fallacies 998914 Health Claim Fallaci">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'testimonials/' | relative_url }}" title="When recovery stories are not evidence | Do Popular Remedies Prove Themselves? | Logical Fallacies" aria-label="Open page: When recovery stories are not evidence | Do Popular Remedies Prove Themselves? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-1.webp' | relative_url }}" alt="Overview image for When recovery stories are not evidence | Logical Fallacies 998914 Health Claim Fallaci" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3904,7 +3904,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-health-claim-fallaci-b1d78e-supplement-popularit-99541a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'popularity-e421fe/' | relative_url }}" title="Why bestsellers can still mislead | Logical Fallacies 998914 Health Claim Fallaci" aria-label="Open page: Why bestsellers can still mislead | Logical Fallacies 998914 Health Claim Fallaci">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'popularity-e421fe/' | relative_url }}" title="Why bestsellers can still mislead | Do Popular Remedies Prove Themselves? | Logical Fallacies" aria-label="Open page: Why bestsellers can still mislead | Do Popular Remedies Prove Themselves? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why bestsellers can still mislead | Logical Fallacies 998914 Health Claim Fallaci" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3948,7 +3948,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-rumour-fallacies-49ef49-false-cause-rumours-ee33c8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-cause-11cf12/' | relative_url }}" title="Did that really cause this? | Logical Fallacies 998914 Rumour Fallacies" aria-label="Open page: Did that really cause this? | Logical Fallacies 998914 Rumour Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-cause-11cf12/' | relative_url }}" title="Did that really cause this? | Why Rumours Feel Like Evidence | Logical Fallacies" aria-label="Open page: Did that really cause this? | Why Rumours Feel Like Evidence | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_false_cause_rumours_ee33c8-Illustration-1.webp' | relative_url }}" alt="Overview image for Did that really cause this? | Logical Fallacies 998914 Rumour Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3968,7 +3968,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-rumour-fallacies-49ef49-health-rumour-harm-86e3d5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'health-harm/' | relative_url }}" title="When health rumours become dangerous | Logical Fallacies 998914 Rumour Fallacies" aria-label="Open page: When health rumours become dangerous | Logical Fallacies 998914 Rumour Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'health-harm/' | relative_url }}" title="When health rumours become dangerous | Why Rumours Feel Like Evidence | Logical Fallacies" aria-label="Open page: When health rumours become dangerous | Why Rumours Feel Like Evidence | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_health_rumour_harm_86e3d5-Illustration-1.webp' | relative_url }}" alt="Overview image for When health rumours become dangerous | Logical Fallacies 998914 Rumour Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3988,7 +3988,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-rumour-fallacies-49ef49-viral-sharing-confir-d1d0a8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'viral-proof/' | relative_url }}" title="When sharing looks like evidence | Logical Fallacies 998914 Rumour Fallacies" aria-label="Open page: When sharing looks like evidence | Logical Fallacies 998914 Rumour Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'viral-proof/' | relative_url }}" title="When sharing looks like evidence | Why Rumours Feel Like Evidence | Logical Fallacies" aria-label="Open page: When sharing looks like evidence | Why Rumours Feel Like Evidence | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-1.webp' | relative_url }}" alt="Overview image for When sharing looks like evidence | Logical Fallacies 998914 Rumour Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4008,7 +4008,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-rumour-fallacies-49ef49-friend-of-friend-aut-4d334b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'foaf-claims/' | relative_url }}" title="Who actually said the warning? | Logical Fallacies 998914 Rumour Fallacies" aria-label="Open page: Who actually said the warning? | Logical Fallacies 998914 Rumour Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'foaf-claims/' | relative_url }}" title="Who actually said the warning? | Why Rumours Feel Like Evidence | Logical Fallacies" aria-label="Open page: Who actually said the warning? | Why Rumours Feel Like Evidence | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-1.webp' | relative_url }}" alt="Overview image for Who actually said the warning? | Logical Fallacies 998914 Rumour Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4028,7 +4028,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-rumour-fallacies-49ef49-no-disproof-trap-e8966b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'no-disproof/' | relative_url }}" title="Why no disproof is not proof | Logical Fallacies 998914 Rumour Fallacies" aria-label="Open page: Why no disproof is not proof | Logical Fallacies 998914 Rumour Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'no-disproof/' | relative_url }}" title="Why no disproof is not proof | Why Rumours Feel Like Evidence | Logical Fallacies" aria-label="Open page: Why no disproof is not proof | Why Rumours Feel Like Evidence | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why no disproof is not proof | Logical Fallacies 998914 Rumour Fallacies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4072,7 +4072,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-product-safety-red-h-5014e0-scale-claims-low-fre-9b54b0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'scale-claims/' | relative_url }}" title="Can Big Numbers Hide a Serious Hazard? | Logical Fallacies 998914 Product Safety Red" aria-label="Open page: Can Big Numbers Hide a Serious Hazard? | Logical Fallacies 998914 Product Safety Red">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'scale-claims/' | relative_url }}" title="Can Big Numbers Hide a Serious Hazard? | Did the Answer Address Safety? | Logical Fallacies" aria-label="Open page: Can Big Numbers Hide a Serious Hazard? | Did the Answer Address Safety? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Big Numbers Hide a Serious Hazard? | Logical Fallacies 998914 Product Safety Red" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4092,7 +4092,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-product-safety-red-h-5014e0-peloton-tread-forese-fc3b78" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'tread-case/' | relative_url }}" title="Did Warnings Answer the Tread+ Risk? | Logical Fallacies 998914 Product Safety Red" aria-label="Open page: Did Warnings Answer the Tread+ Risk? | Logical Fallacies 998914 Product Safety Red">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tread-case/' | relative_url }}" title="Did Warnings Answer the Tread+ Risk? | Did the Answer Address Safety? | Logical Fallacies" aria-label="Open page: Did Warnings Answer the Tread+ Risk? | Did the Answer Address Safety? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_peloton_tread_forese_fc3b78-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Warnings Answer the Tread+ Risk? | Logical Fallacies 998914 Product Safety Red" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4112,7 +4112,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-product-safety-red-h-5014e0-safety-pledges-defec-141424" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'safety-pledges/' | relative_url }}" title="When &#x27;We Care About Safety&#x27; Is Not an Answer | Logical Fallacies 998914 Product Safety Red" aria-label="Open page: When &#x27;We Care About Safety&#x27; Is Not an Answer | Logical Fallacies 998914 Product Safety Red">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'safety-pledges/' | relative_url }}" title="When 'We Care About Safety' Is Not an Answer | Did the Answer Address Safety? | Logical Fallacies" aria-label="Open page: When 'We Care About Safety' Is Not an Answer | Did the Answer Address Safety? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-1.webp' | relative_url }}" alt="Overview image for When &#x27;We Care About Safety&#x27; Is Not an Answer | Logical Fallacies 998914 Product Safety Red" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4132,7 +4132,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-product-safety-red-h-5014e0-tesla-crash-statisti-422836" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'crash-stats/' | relative_url }}" title="When Safety Statistics Compare the Wrong Things | Logical Fallacies 998914 Product Safety Red" aria-label="Open page: When Safety Statistics Compare the Wrong Things | Logical Fallacies 998914 Product Safety Red">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'crash-stats/' | relative_url }}" title="When Safety Statistics Compare the Wrong Things | Did the Answer Address Safety? | Logical Fallacies" aria-label="Open page: When Safety Statistics Compare the Wrong Things | Did the Answer Address Safety? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_tesla_crash_statisti_422836-Illustration-1.webp' | relative_url }}" alt="Overview image for When Safety Statistics Compare the Wrong Things | Logical Fallacies 998914 Product Safety Red" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4152,7 +4152,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-product-safety-red-h-5014e0-cpsc-reporting-pr-de-55e6a1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cpsc-reporting/' | relative_url }}" title="Why Regulators Want Hazard Facts Fast | Logical Fallacies 998914 Product Safety Red" aria-label="Open page: Why Regulators Want Hazard Facts Fast | Logical Fallacies 998914 Product Safety Red">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cpsc-reporting/' | relative_url }}" title="Why Regulators Want Hazard Facts Fast | Did the Answer Address Safety? | Logical Fallacies" aria-label="Open page: Why Regulators Want Hazard Facts Fast | Did the Answer Address Safety? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_cpsc_reporting_pr_de_55e6a1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Regulators Want Hazard Facts Fast | Logical Fallacies 998914 Product Safety Red" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4196,7 +4196,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-slippery-slope-201aa8-safeguards-stop-slop-5ee499" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'safeguards/' | relative_url }}" title="Can the Slide Be Stopped in Time? | Logical Fallacies 998914 Slippery Slope" aria-label="Open page: Can the Slide Be Stopped in Time? | Logical Fallacies 998914 Slippery Slope">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'safeguards/' | relative_url }}" title="Can the Slide Be Stopped in Time? | Will One Step Really Lead There? | Logical Fallacies" aria-label="Open page: Can the Slide Be Stopped in Time? | Will One Step Really Lead There? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_slippery_slope_201aa8_safeguards_stop_slop_5ee499-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the Slide Be Stopped in Time? | Logical Fallacies 998914 Slippery Slope" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4216,7 +4216,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-slippery-slope-201aa8-boundary-blur-slope-cd87a0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'boundaries/' | relative_url }}" title="Does a Blurry Line Mean No Line? | Logical Fallacies 998914 Slippery Slope" aria-label="Open page: Does a Blurry Line Mean No Line? | Logical Fallacies 998914 Slippery Slope">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'boundaries/' | relative_url }}" title="Does a Blurry Line Mean No Line? | Will One Step Really Lead There? | Logical Fallacies" aria-label="Open page: Does a Blurry Line Mean No Line? | Will One Step Really Lead There? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_slippery_slope_201aa8_boundary_blur_slope_cd87a0-Illustration-1.webp' | relative_url }}" alt="Overview image for Does a Blurry Line Mean No Line? | Logical Fallacies 998914 Slippery Slope" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4236,7 +4236,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-slippery-slope-201aa8-precedent-overreach-56c4d9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'precedent/' | relative_url }}" title="Does One Exception Really Rewrite the Rule? | Logical Fallacies 998914 Slippery Slope" aria-label="Open page: Does One Exception Really Rewrite the Rule? | Logical Fallacies 998914 Slippery Slope">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'precedent/' | relative_url }}" title="Does One Exception Really Rewrite the Rule? | Will One Step Really Lead There? | Logical Fallacies" aria-label="Open page: Does One Exception Really Rewrite the Rule? | Will One Step Really Lead There? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_slippery_slope_201aa8_precedent_overreach_56c4d9-Illustration-1.webp' | relative_url }}" alt="Overview image for Does One Exception Really Rewrite the Rule? | Logical Fallacies 998914 Slippery Slope" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4256,7 +4256,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-slippery-slope-201aa8-volokh-slope-mechani-89414c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mechanisms/' | relative_url }}" title="What Actually Makes the Slope Slippery? | Logical Fallacies 998914 Slippery Slope" aria-label="Open page: What Actually Makes the Slope Slippery? | Logical Fallacies 998914 Slippery Slope">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mechanisms/' | relative_url }}" title="What Actually Makes the Slope Slippery? | Will One Step Really Lead There? | Logical Fallacies" aria-label="Open page: What Actually Makes the Slope Slippery? | Will One Step Really Lead There? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-1.webp' | relative_url }}" alt="Overview image for What Actually Makes the Slope Slippery? | Logical Fallacies 998914 Slippery Slope" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4276,7 +4276,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-slippery-slope-201aa8-missing-middle-slope-ee5adb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-middle/' | relative_url }}" title="Where Did the Middle of the Slope Go? | Logical Fallacies 998914 Slippery Slope" aria-label="Open page: Where Did the Middle of the Slope Go? | Logical Fallacies 998914 Slippery Slope">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-middle/' | relative_url }}" title="Where Did the Middle of the Slope Go? | Will One Step Really Lead There? | Logical Fallacies" aria-label="Open page: Where Did the Middle of the Slope Go? | Will One Step Really Lead There? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_slippery_slope_201aa8_missing_middle_slope_ee5adb-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Did the Middle of the Slope Go? | Logical Fallacies 998914 Slippery Slope" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4320,7 +4320,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-social-media-fallaci-99cf1a-outrage-misinformati-409f4c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'outrage/' | relative_url }}" title="Does Outrage Make Bad Arguments Spread? | Logical Fallacies 998914 Social Media Fallaci" aria-label="Open page: Does Outrage Make Bad Arguments Spread? | Logical Fallacies 998914 Social Media Fallaci">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'outrage/' | relative_url }}" title="Does Outrage Make Bad Arguments Spread? | Why Bad Arguments Spread Fast Online | Logical Fallacies" aria-label="Open page: Does Outrage Make Bad Arguments Spread? | Why Bad Arguments Spread Fast Online | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Outrage Make Bad Arguments Spread? | Logical Fallacies 998914 Social Media Fallaci" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4340,7 +4340,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-social-media-fallaci-99cf1a-ad-hominem-pile-ons-43a73d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'pile-ons-220fa0/' | relative_url }}" title="When Personal Attacks Pretend To Prove A Point | Logical Fallacies 998914 Social Media Fallaci" aria-label="Open page: When Personal Attacks Pretend To Prove A Point | Logical Fallacies 998914 Social Media Fallaci">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'pile-ons-220fa0/' | relative_url }}" title="When Personal Attacks Pretend To Prove A Point | Why Bad Arguments Spread Fast Online | Logical Fallacies" aria-label="Open page: When Personal Attacks Pretend To Prove A Point | Why Bad Arguments Spread Fast Online | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_ad_hominem_pile_ons_43a73d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Personal Attacks Pretend To Prove A Point | Logical Fallacies 998914 Social Media Fallaci" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4360,7 +4360,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-social-media-fallaci-99cf1a-viral-false-choices-f3ae69" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-choices-ce4c3c/' | relative_url }}" title="When Viral Posts Force False Choices | Logical Fallacies 998914 Social Media Fallaci" aria-label="Open page: When Viral Posts Force False Choices | Logical Fallacies 998914 Social Media Fallaci">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-choices-ce4c3c/' | relative_url }}" title="When Viral Posts Force False Choices | Why Bad Arguments Spread Fast Online | Logical Fallacies" aria-label="Open page: When Viral Posts Force False Choices | Why Bad Arguments Spread Fast Online | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_viral_false_choices_f3ae69-Illustration-1.webp' | relative_url }}" alt="Overview image for When Viral Posts Force False Choices | Logical Fallacies 998914 Social Media Fallaci" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4380,7 +4380,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-social-media-fallaci-99cf1a-false-news-spread-273dc0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-news/' | relative_url }}" title="Why False Claims Outrun Careful Corrections | Logical Fallacies 998914 Social Media Fallaci" aria-label="Open page: Why False Claims Outrun Careful Corrections | Logical Fallacies 998914 Social Media Fallaci">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-news/' | relative_url }}" title="Why False Claims Outrun Careful Corrections | Why Bad Arguments Spread Fast Online | Logical Fallacies" aria-label="Open page: Why False Claims Outrun Careful Corrections | Why Bad Arguments Spread Fast Online | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why False Claims Outrun Careful Corrections | Logical Fallacies 998914 Social Media Fallaci" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4400,7 +4400,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-social-media-fallaci-99cf1a-screenshots-anecdote-4bce62" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'screenshots/' | relative_url }}" title="Why Screenshots Are Not Always Evidence | Logical Fallacies 998914 Social Media Fallaci" aria-label="Open page: Why Screenshots Are Not Always Evidence | Logical Fallacies 998914 Social Media Fallaci">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'screenshots/' | relative_url }}" title="Why Screenshots Are Not Always Evidence | Why Bad Arguments Spread Fast Online | Logical Fallacies" aria-label="Open page: Why Screenshots Are Not Always Evidence | Why Bad Arguments Spread Fast Online | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Screenshots Are Not Always Evidence | Logical Fallacies 998914 Social Media Fallaci" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4444,7 +4444,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-sports-false-cause-f4fada-post-hoc-logo-streak-ea4cc7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'post-hoc/' | relative_url }}" title="Did the Logo Really Cause the Losing Streak? | Logical Fallacies 998914 Sports False Cause" aria-label="Open page: Did the Logo Really Cause the Losing Streak? | Logical Fallacies 998914 Sports False Cause">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'post-hoc/' | relative_url }}" title="Did the Logo Really Cause the Losing Streak? | Did the Logo Cause the Losing Streak? | Logical Fallacies" aria-label="Open page: Did the Logo Really Cause the Losing Streak? | Did the Logo Cause the Losing Streak? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Logo Really Cause the Losing Streak? | Logical Fallacies 998914 Sports False Cause" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4464,7 +4464,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-sports-false-cause-f4fada-logo-curse-evidence-59214a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence-checks/' | relative_url }}" title="How to Test a Sports Logo Curse | Logical Fallacies 998914 Sports False Cause" aria-label="Open page: How to Test a Sports Logo Curse | Logical Fallacies 998914 Sports False Cause">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence-checks/' | relative_url }}" title="How to Test a Sports Logo Curse | Did the Logo Cause the Losing Streak? | Logical Fallacies" aria-label="Open page: How to Test a Sports Logo Curse | Did the Logo Cause the Losing Streak? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Test a Sports Logo Curse | Logical Fallacies 998914 Sports False Cause" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4484,7 +4484,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-sports-false-cause-f4fada-locker-room-logo-rul-521d22" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'logo-rules/' | relative_url }}" title="Respect Ritual or Real Sports Curse? | Logical Fallacies 998914 Sports False Cause" aria-label="Open page: Respect Ritual or Real Sports Curse? | Logical Fallacies 998914 Sports False Cause">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'logo-rules/' | relative_url }}" title="Respect Ritual or Real Sports Curse? | Did the Logo Cause the Losing Streak? | Logical Fallacies" aria-label="Open page: Respect Ritual or Real Sports Curse? | Did the Logo Cause the Losing Streak? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-1.webp' | relative_url }}" alt="Overview image for Respect Ritual or Real Sports Curse? | Logical Fallacies 998914 Sports False Cause" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4504,7 +4504,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-sports-false-cause-f4fada-intermittent-logo-su-46812b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lucky-hits/' | relative_url }}" title="Why Logo Superstitions Survive Bad Evidence | Logical Fallacies 998914 Sports False Cause" aria-label="Open page: Why Logo Superstitions Survive Bad Evidence | Logical Fallacies 998914 Sports False Cause">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lucky-hits/' | relative_url }}" title="Why Logo Superstitions Survive Bad Evidence | Did the Logo Cause the Losing Streak? | Logical Fallacies" aria-label="Open page: Why Logo Superstitions Survive Bad Evidence | Did the Logo Cause the Losing Streak? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Logo Superstitions Survive Bad Evidence | Logical Fallacies 998914 Sports False Cause" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4524,7 +4524,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-sports-false-cause-f4fada-fan-backlash-logo-re-914c7c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-backlash/' | relative_url }}" title="Why New Sports Logos Make Fans Angry | Logical Fallacies 998914 Sports False Cause" aria-label="Open page: Why New Sports Logos Make Fans Angry | Logical Fallacies 998914 Sports False Cause">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-backlash/' | relative_url }}" title="Why New Sports Logos Make Fans Angry | Did the Logo Cause the Losing Streak? | Logical Fallacies" aria-label="Open page: Why New Sports Logos Make Fans Angry | Did the Logo Cause the Losing Streak? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why New Sports Logos Make Fans Angry | Logical Fallacies 998914 Sports False Cause" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4568,7 +4568,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-straw-man-arguments-c08438-quote-mining-context-160e3e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'quote-mining/' | relative_url }}" title="How Quotes Lose Their Meaning | Logical Fallacies 998914 Straw Man Arguments" aria-label="Open page: How Quotes Lose Their Meaning | Logical Fallacies 998914 Straw Man Arguments">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'quote-mining/' | relative_url }}" title="How Quotes Lose Their Meaning | Are You Answering the Real Argument? | Logical Fallacies" aria-label="Open page: How Quotes Lose Their Meaning | Are You Answering the Real Argument? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_straw_man_arguments_c08438_quote_mining_context_160e3e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Quotes Lose Their Meaning | Logical Fallacies 998914 Straw Man Arguments" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4588,7 +4588,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-straw-man-arguments-c08438-correcting-straw-men-e6e027" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'corrections/' | relative_url }}" title="How to Answer a Straw Man | Logical Fallacies 998914 Straw Man Arguments" aria-label="Open page: How to Answer a Straw Man | Logical Fallacies 998914 Straw Man Arguments">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'corrections/' | relative_url }}" title="How to Answer a Straw Man | Are You Answering the Real Argument? | Logical Fallacies" aria-label="Open page: How to Answer a Straw Man | Are You Answering the Real Argument? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_straw_man_arguments_c08438_correcting_straw_men_e6e027-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Answer a Straw Man | Logical Fallacies 998914 Straw Man Arguments" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4608,7 +4608,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-straw-man-arguments-c08438-exaggerated-straw-me-85022b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'exaggeration/' | relative_url }}" title="When Moderate Claims Become Easy Targets | Logical Fallacies 998914 Straw Man Arguments" aria-label="Open page: When Moderate Claims Become Easy Targets | Logical Fallacies 998914 Straw Man Arguments">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'exaggeration/' | relative_url }}" title="When Moderate Claims Become Easy Targets | Are You Answering the Real Argument? | Logical Fallacies" aria-label="Open page: When Moderate Claims Become Easy Targets | Are You Answering the Real Argument? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_straw_man_arguments_c08438_exaggerated_straw_me_85022b-Illustration-1.webp' | relative_url }}" alt="Overview image for When Moderate Claims Become Easy Targets | Logical Fallacies 998914 Straw Man Arguments" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4628,7 +4628,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-straw-man-arguments-c08438-weak-manning-fringe-c8f69b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'weak-manning/' | relative_url }}" title="When the Weakest Example Stands In | Logical Fallacies 998914 Straw Man Arguments" aria-label="Open page: When the Weakest Example Stands In | Logical Fallacies 998914 Straw Man Arguments">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'weak-manning/' | relative_url }}" title="When the Weakest Example Stands In | Are You Answering the Real Argument? | Logical Fallacies" aria-label="Open page: When the Weakest Example Stands In | Are You Answering the Real Argument? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_straw_man_arguments_c08438_weak_manning_fringe_c8f69b-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Weakest Example Stands In | Logical Fallacies 998914 Straw Man Arguments" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4648,7 +4648,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-straw-man-arguments-c08438-hollow-man-vague-opp-4ae304" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hollow-men/' | relative_url }}" title="Who Actually Holds That View? | Logical Fallacies 998914 Straw Man Arguments" aria-label="Open page: Who Actually Holds That View? | Logical Fallacies 998914 Straw Man Arguments">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hollow-men/' | relative_url }}" title="Who Actually Holds That View? | Are You Answering the Real Argument? | Logical Fallacies" aria-label="Open page: Who Actually Holds That View? | Are You Answering the Real Argument? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Actually Holds That View? | Logical Fallacies 998914 Straw Man Arguments" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4692,7 +4692,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-tone-vs-logic-601e34-anger-vs-evidence-fc0e2c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'anger/' | relative_url }}" title="Can an angry argument still be logical? | Logical Fallacies 998914 Tone Vs Logic" aria-label="Open page: Can an angry argument still be logical? | Logical Fallacies 998914 Tone Vs Logic">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'anger/' | relative_url }}" title="Can an angry argument still be logical? | Is Tone the Same as Logic? | Logical Fallacies" aria-label="Open page: Can an angry argument still be logical? | Is Tone the Same as Logic? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_tone_vs_logic_601e34_anger_vs_evidence_fc0e2c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can an angry argument still be logical? | Logical Fallacies 998914 Tone Vs Logic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4712,7 +4712,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-tone-vs-logic-601e34-four-argument-tests-af2d47" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'four-tests/' | relative_url }}" title="The four tests every argument faces | Logical Fallacies 998914 Tone Vs Logic" aria-label="Open page: The four tests every argument faces | Logical Fallacies 998914 Tone Vs Logic">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'four-tests/' | relative_url }}" title="The four tests every argument faces | Is Tone the Same as Logic? | Logical Fallacies" aria-label="Open page: The four tests every argument faces | Is Tone the Same as Logic? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_tone_vs_logic_601e34_four_argument_tests_af2d47-Illustration-1.webp' | relative_url }}" alt="Overview image for The four tests every argument faces | Logical Fallacies 998914 Tone Vs Logic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4732,7 +4732,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-tone-vs-logic-601e34-tone-policing-substa-09ace1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'tone-policing/' | relative_url }}" title="When does tone policing become a fallacy? | Logical Fallacies 998914 Tone Vs Logic" aria-label="Open page: When does tone policing become a fallacy? | Logical Fallacies 998914 Tone Vs Logic">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tone-policing/' | relative_url }}" title="When does tone policing become a fallacy? | Is Tone the Same as Logic? | Logical Fallacies" aria-label="Open page: When does tone policing become a fallacy? | Is Tone the Same as Logic? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_tone_vs_logic_601e34_tone_policing_substa_09ace1-Illustration-1.webp' | relative_url }}" alt="Overview image for When does tone policing become a fallacy? | Logical Fallacies 998914 Tone Vs Logic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4752,7 +4752,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-tone-vs-logic-601e34-relevant-personal-cr-3d2f53" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility-a8ea40/' | relative_url }}" title="When is a personal criticism relevant? | Logical Fallacies 998914 Tone Vs Logic" aria-label="Open page: When is a personal criticism relevant? | Logical Fallacies 998914 Tone Vs Logic">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility-a8ea40/' | relative_url }}" title="When is a personal criticism relevant? | Is Tone the Same as Logic? | Logical Fallacies" aria-label="Open page: When is a personal criticism relevant? | Is Tone the Same as Logic? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_tone_vs_logic_601e34_relevant_personal_cr_3d2f53-Illustration-1.webp' | relative_url }}" alt="Overview image for When is a personal criticism relevant? | Logical Fallacies 998914 Tone Vs Logic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4772,7 +4772,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-tone-vs-logic-601e34-polite-weak-argument-ed6bee" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'polite-weakness/' | relative_url }}" title="Why polite arguments can still be bad | Logical Fallacies 998914 Tone Vs Logic" aria-label="Open page: Why polite arguments can still be bad | Logical Fallacies 998914 Tone Vs Logic">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'polite-weakness/' | relative_url }}" title="Why polite arguments can still be bad | Is Tone the Same as Logic? | Logical Fallacies" aria-label="Open page: Why polite arguments can still be bad | Is Tone the Same as Logic? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_tone_vs_logic_601e34_polite_weak_argument_ed6bee-Illustration-1.webp' | relative_url }}" alt="Overview image for Why polite arguments can still be bad | Logical Fallacies 998914 Tone Vs Logic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4816,7 +4816,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-tradition-3c0a72-traditional-roles-mo-c024f6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'traditional-roles/' | relative_url }}" title="Does Tradition Make Roles Fair? | Logical Fallacies 998914 Appeal To Tradition" aria-label="Open page: Does Tradition Make Roles Fair? | Logical Fallacies 998914 Appeal To Tradition">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'traditional-roles/' | relative_url }}" title="Does Tradition Make Roles Fair? | Is Old the Same as Right? | Logical Fallacies" aria-label="Open page: Does Tradition Make Roles Fair? | Is Old the Same as Right? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_traditional_roles_mo_c024f6-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Tradition Make Roles Fair? | Logical Fallacies 998914 Appeal To Tradition" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4836,7 +4836,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-tradition-3c0a72-time-tested-claims-1c816f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'time-tested/' | relative_url }}" title="What Has Time Really Tested? | Logical Fallacies 998914 Appeal To Tradition" aria-label="Open page: What Has Time Really Tested? | Logical Fallacies 998914 Appeal To Tradition">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'time-tested/' | relative_url }}" title="What Has Time Really Tested? | Is Old the Same as Right? | Logical Fallacies" aria-label="Open page: What Has Time Really Tested? | Is Old the Same as Right? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_time_tested_claims_1c816f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Has Time Really Tested? | Logical Fallacies 998914 Appeal To Tradition" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4856,7 +4856,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-tradition-3c0a72-semmelweis-handwashi-ebb902" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'semmelweis/' | relative_url }}" title="When Medical Tradition Cost Lives | Logical Fallacies 998914 Appeal To Tradition" aria-label="Open page: When Medical Tradition Cost Lives | Logical Fallacies 998914 Appeal To Tradition">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'semmelweis/' | relative_url }}" title="When Medical Tradition Cost Lives | Is Old the Same as Right? | Logical Fallacies" aria-label="Open page: When Medical Tradition Cost Lives | Is Old the Same as Right? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_semmelweis_handwashi_ebb902-Illustration-1.webp' | relative_url }}" alt="Overview image for When Medical Tradition Cost Lives | Logical Fallacies 998914 Appeal To Tradition" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4876,7 +4876,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-tradition-3c0a72-chestertons-fence-ol-f9dc8c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'old-rules/' | relative_url }}" title="When Should Old Rules Stay? | Logical Fallacies 998914 Appeal To Tradition" aria-label="Open page: When Should Old Rules Stay? | Logical Fallacies 998914 Appeal To Tradition">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'old-rules/' | relative_url }}" title="When Should Old Rules Stay? | Is Old the Same as Right? | Logical Fallacies" aria-label="Open page: When Should Old Rules Stay? | Is Old the Same as Right? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_chestertons_fence_ol_f9dc8c-Illustration-1.webp' | relative_url }}" alt="Overview image for When Should Old Rules Stay? | Logical Fallacies 998914 Appeal To Tradition" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4896,7 +4896,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-appeal-to-tradition-3c0a72-status-quo-bias-fami-91854c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'status-quo/' | relative_url }}" title="Why Familiar Choices Feel Safer | Logical Fallacies 998914 Appeal To Tradition" aria-label="Open page: Why Familiar Choices Feel Safer | Logical Fallacies 998914 Appeal To Tradition">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'status-quo/' | relative_url }}" title="Why Familiar Choices Feel Safer | Is Old the Same as Right? | Logical Fallacies" aria-label="Open page: Why Familiar Choices Feel Safer | Is Old the Same as Right? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Familiar Choices Feel Safer | Logical Fallacies 998914 Appeal To Tradition" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4940,7 +4940,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-tu-quoque-690e39-smoking-doctor-advic-e7b3ae" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'smoking-doctor/' | relative_url }}" title="Can a Hypocrite Still Give Good Advice? | Logical Fallacies 998914 Tu Quoque" aria-label="Open page: Can a Hypocrite Still Give Good Advice? | Logical Fallacies 998914 Tu Quoque">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'smoking-doctor/' | relative_url }}" title="Can a Hypocrite Still Give Good Advice? | Does Hypocrisy Refute the Claim? | Logical Fallacies" aria-label="Open page: Can a Hypocrite Still Give Good Advice? | Does Hypocrisy Refute the Claim? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Hypocrite Still Give Good Advice? | Logical Fallacies 998914 Tu Quoque" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4960,7 +4960,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-tu-quoque-690e39-hypocrisy-feasibilit-40f055" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'feasibility/' | relative_url }}" title="Does Hypocrisy Reveal Hidden Costs? | Logical Fallacies 998914 Tu Quoque" aria-label="Open page: Does Hypocrisy Reveal Hidden Costs? | Logical Fallacies 998914 Tu Quoque">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'feasibility/' | relative_url }}" title="Does Hypocrisy Reveal Hidden Costs? | Does Hypocrisy Refute the Claim? | Logical Fallacies" aria-label="Open page: Does Hypocrisy Reveal Hidden Costs? | Does Hypocrisy Refute the Claim? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_tu_quoque_690e39_hypocrisy_feasibilit_40f055-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Hypocrisy Reveal Hidden Costs? | Logical Fallacies 998914 Tu Quoque" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4980,7 +4980,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-tu-quoque-690e39-double-standards-rul-f06f72" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'double-standards/' | relative_url }}" title="When Double Standards Are the Point | Logical Fallacies 998914 Tu Quoque" aria-label="Open page: When Double Standards Are the Point | Logical Fallacies 998914 Tu Quoque">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'double-standards/' | relative_url }}" title="When Double Standards Are the Point | Does Hypocrisy Refute the Claim? | Logical Fallacies" aria-label="Open page: When Double Standards Are the Point | Does Hypocrisy Refute the Claim? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_tu_quoque_690e39_double_standards_rul_f06f72-Illustration-1.webp' | relative_url }}" alt="Overview image for When Double Standards Are the Point | Logical Fallacies 998914 Tu Quoque" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5000,7 +5000,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-tu-quoque-690e39-hypocrisy-credibilit-251a26" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility/' | relative_url }}" title="When Hypocrisy Really Hurts Credibility | Logical Fallacies 998914 Tu Quoque" aria-label="Open page: When Hypocrisy Really Hurts Credibility | Logical Fallacies 998914 Tu Quoque">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility/' | relative_url }}" title="When Hypocrisy Really Hurts Credibility | Does Hypocrisy Refute the Claim? | Logical Fallacies" aria-label="Open page: When Hypocrisy Really Hurts Credibility | Does Hypocrisy Refute the Claim? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_tu_quoque_690e39_hypocrisy_credibilit_251a26-Illustration-1.webp' | relative_url }}" alt="Overview image for When Hypocrisy Really Hurts Credibility | Logical Fallacies 998914 Tu Quoque" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5020,7 +5020,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-tu-quoque-690e39-whataboutism-deflect-361b8d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'whataboutism-82b621/' | relative_url }}" title="When Whataboutism Dodges the Real Issue | Logical Fallacies 998914 Tu Quoque" aria-label="Open page: When Whataboutism Dodges the Real Issue | Logical Fallacies 998914 Tu Quoque">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'whataboutism-82b621/' | relative_url }}" title="When Whataboutism Dodges the Real Issue | Does Hypocrisy Refute the Claim? | Logical Fallacies" aria-label="Open page: When Whataboutism Dodges the Real Issue | Does Hypocrisy Refute the Claim? | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_tu_quoque_690e39_whataboutism_deflect_361b8d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Whataboutism Dodges the Real Issue | Logical Fallacies 998914 Tu Quoque" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5064,7 +5064,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-affirming-consequent-413c6c-skilled-driver-hidde-fa4917" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'driver-example/' | relative_url }}" title="Does No Accident Prove Good Driving? | Logical Fallacies 998914 Affirming Consequent" aria-label="Open page: Does No Accident Prove Good Driving? | Logical Fallacies 998914 Affirming Consequent">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'driver-example/' | relative_url }}" title="Does No Accident Prove Good Driving? | Why One Explanation Is Not Enough | Logical Fallacies" aria-label="Open page: Does No Accident Prove Good Driving? | Why One Explanation Is Not Enough | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-1.webp' | relative_url }}" alt="Overview image for Does No Accident Prove Good Driving? | Logical Fallacies 998914 Affirming Consequent" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5084,7 +5084,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-affirming-consequent-413c6c-wet-pavement-truth-t-9ca1e3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'truth-table/' | relative_url }}" title="The Truth Table That Breaks the Rain Claim | Logical Fallacies 998914 Affirming Consequent" aria-label="Open page: The Truth Table That Breaks the Rain Claim | Logical Fallacies 998914 Affirming Consequent">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'truth-table/' | relative_url }}" title="The Truth Table That Breaks the Rain Claim | Why One Explanation Is Not Enough | Logical Fallacies" aria-label="Open page: The Truth Table That Breaks the Rain Claim | Why One Explanation Is Not Enough | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_truth_t_9ca1e3-Illustration-1.webp' | relative_url }}" alt="Overview image for The Truth Table That Breaks the Rain Claim | Logical Fallacies 998914 Affirming Consequent" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5104,7 +5104,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-affirming-consequent-413c6c-wet-pavement-other-c-470b15" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'other-causes-a0566c/' | relative_url }}" title="What Else Could Make Pavement Wet? | Logical Fallacies 998914 Affirming Consequent" aria-label="Open page: What Else Could Make Pavement Wet? | Logical Fallacies 998914 Affirming Consequent">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'other-causes-a0566c/' | relative_url }}" title="What Else Could Make Pavement Wet? | Why One Explanation Is Not Enough | Logical Fallacies" aria-label="Open page: What Else Could Make Pavement Wet? | Why One Explanation Is Not Enough | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_other_c_470b15-Illustration-1.webp' | relative_url }}" alt="Overview image for What Else Could Make Pavement Wet? | Logical Fallacies 998914 Affirming Consequent" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5124,7 +5124,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-affirming-consequent-413c6c-smoke-fire-reasonabl-885f61" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'smoke-and-fire/' | relative_url }}" title="When Bad Logic Still Feels Sensible | Logical Fallacies 998914 Affirming Consequent" aria-label="Open page: When Bad Logic Still Feels Sensible | Logical Fallacies 998914 Affirming Consequent">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'smoke-and-fire/' | relative_url }}" title="When Bad Logic Still Feels Sensible | Why One Explanation Is Not Enough | Logical Fallacies" aria-label="Open page: When Bad Logic Still Feels Sensible | Why One Explanation Is Not Enough | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-1.webp' | relative_url }}" alt="Overview image for When Bad Logic Still Feels Sensible | Logical Fallacies 998914 Affirming Consequent" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5144,7 +5144,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-affirming-consequent-413c6c-if-p-then-q-reverse-23c82e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'one-way-logic/' | relative_url }}" title="Why If P Then Q Does Not Reverse | Logical Fallacies 998914 Affirming Consequent" aria-label="Open page: Why If P Then Q Does Not Reverse | Logical Fallacies 998914 Affirming Consequent">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'one-way-logic/' | relative_url }}" title="Why If P Then Q Does Not Reverse | Why One Explanation Is Not Enough | Logical Fallacies" aria-label="Open page: Why If P Then Q Does Not Reverse | Why One Explanation Is Not Enough | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why If P Then Q Does Not Reverse | Logical Fallacies 998914 Affirming Consequent" loading="lazy" decoding="async" fetchpriority="low">
 </div>

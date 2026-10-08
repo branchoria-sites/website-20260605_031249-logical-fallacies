@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:23:30'
+last_modified_at: '2026-06-03 10:23:30'
 parent_title: When the Structure Makes Reasoning Fail
 parent_permalink: /formal-logic/
 parent_nav_short_title: Formal Logic

@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:05:31'
+last_modified_at: '2026-06-04 15:05:31'
 parent_title: How to Spot Fallacies in Debate
 parent_permalink: /debate/
 parent_nav_short_title: Debate

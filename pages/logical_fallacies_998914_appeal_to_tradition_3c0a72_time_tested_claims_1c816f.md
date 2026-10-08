@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:26:18'
+last_modified_at: '2026-06-05 02:26:18'
 parent_title: Is Old the Same as Right?
 parent_permalink: /tradition/
 parent_nav_short_title: Tradition

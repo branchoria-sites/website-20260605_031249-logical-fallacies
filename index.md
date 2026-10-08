@@ -240,7 +240,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'science-effects/' | relative_url }}" title="Can attacking a scientist change beliefs? | Logical Fallacies 998914 Ad Hominem" aria-label="Read more about Can attacking a scientist change beliefs? | Logical Fallacies 998914 Ad Hominem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'science-effects/' | relative_url }}" title="Can attacking a scientist change beliefs? | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Read more about Can attacking a scientist change beliefs? | When Personal Attacks Replace Reasons | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -259,7 +259,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tu-quoque-hypocrisy-9-f6-a14/' | relative_url }}" title="Tu Quoque Hypocrisy | Logical Fallacies 998914 Ad Hominem" aria-label="Read more about Tu Quoque Hypocrisy | Logical Fallacies 998914 Ad Hominem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tu-quoque-hypocrisy-9-f6-a14/' | relative_url }}" title="Tu Quoque Hypocrisy 9 F6 A14 | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Read more about Tu Quoque Hypocrisy 9 F6 A14 | When Personal Attacks Replace Reasons | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -279,7 +279,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'association/' | relative_url }}" title="When association replaces evidence | Logical Fallacies 998914 Ad Hominem" aria-label="Read more about When association replaces evidence | Logical Fallacies 998914 Ad Hominem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'association/' | relative_url }}" title="When association replaces evidence | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Read more about When association replaces evidence | When Personal Attacks Replace Reasons | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -299,7 +299,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-840c81/' | relative_url }}" title="When character evidence actually matters | Logical Fallacies 998914 Ad Hominem" aria-label="Read more about When character evidence actually matters | Logical Fallacies 998914 Ad Hominem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-840c81/' | relative_url }}" title="When character evidence actually matters | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Read more about When character evidence actually matters | When Personal Attacks Replace Reasons | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -319,7 +319,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pile-ons/' | relative_url }}" title="Why online insults spread so fast | Logical Fallacies 998914 Ad Hominem" aria-label="Read more about Why online insults spread so fast | Logical Fallacies 998914 Ad Hominem">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pile-ons/' | relative_url }}" title="Why online insults spread so fast | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Read more about Why online insults spread so fast | When Personal Attacks Replace Reasons | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -363,7 +363,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'review-ratings/' | relative_url }}" title="Can Star Ratings Become Manufactured Proof? | Logical Fallacies 998914 Advertising Fallacie" aria-label="Read more about Can Star Ratings Become Manufactured Proof? | Logical Fallacies 998914 Advertising Fallacie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'review-ratings/' | relative_url }}" title="Can Star Ratings Become Manufactured Proof? | How Ads Make Weak Claims Persuasive | Logical Fallacies" aria-label="Read more about Can Star Ratings Become Manufactured Proof? | How Ads Make Weak Claims Persuasive | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -383,7 +383,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'clinical-claims/' | relative_url }}" title="What Does Clinically Proven Actually Prove? | Logical Fallacies 998914 Advertising Fallacie" aria-label="Read more about What Does Clinically Proven Actually Prove? | Logical Fallacies 998914 Advertising Fallacie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'clinical-claims/' | relative_url }}" title="What Does Clinically Proven Actually Prove? | How Ads Make Weak Claims Persuasive | Logical Fallacies" aria-label="Read more about What Does Clinically Proven Actually Prove? | How Ads Make Weak Claims Persuasive | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -403,7 +403,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bandwagon-ads/' | relative_url }}" title="When Popular Ads Pretend Popular Means Proven | Logical Fallacies 998914 Advertising Fallacie" aria-label="Read more about When Popular Ads Pretend Popular Means Proven | Logical Fallacies 998914 Advertising Fallacie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bandwagon-ads/' | relative_url }}" title="When Popular Ads Pretend Popular Means Proven | How Ads Make Weak Claims Persuasive | Logical Fallacies" aria-label="Read more about When Popular Ads Pretend Popular Means Proven | How Ads Make Weak Claims Persuasive | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -423,7 +423,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-payments/' | relative_url }}" title="When Sponsored Praise Needs Clear Disclosure | Logical Fallacies 998914 Advertising Fallacie" aria-label="Read more about When Sponsored Praise Needs Clear Disclosure | Logical Fallacies 998914 Advertising Fallacie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-payments/' | relative_url }}" title="When Sponsored Praise Needs Clear Disclosure | How Ads Make Weak Claims Persuasive | Logical Fallacies" aria-label="Read more about When Sponsored Praise Needs Clear Disclosure | How Ads Make Weak Claims Persuasive | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -443,7 +443,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'celebrity-ads/' | relative_url }}" title="Why Fame Is Not Product Evidence | Logical Fallacies 998914 Advertising Fallacie" aria-label="Read more about Why Fame Is Not Product Evidence | Logical Fallacies 998914 Advertising Fallacie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'celebrity-ads/' | relative_url }}" title="Why Fame Is Not Product Evidence | How Ads Make Weak Claims Persuasive | Logical Fallacies" aria-label="Read more about Why Fame Is Not Product Evidence | How Ads Make Weak Claims Persuasive | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -487,7 +487,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'medical-signals/' | relative_url }}" title="Can a Patient Story Warn US Early? | Logical Fallacies 998914 Anecdotal Evidence" aria-label="Read more about Can a Patient Story Warn US Early? | Logical Fallacies 998914 Anecdotal Evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'medical-signals/' | relative_url }}" title="Can a Patient Story Warn US Early? | When Is a Story Not Enough? | Logical Fallacies" aria-label="Read more about Can a Patient Story Warn US Early? | When Is a Story Not Enough? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -507,7 +507,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'after-treatment/' | relative_url }}" title="Did the Remedy Cause the Recovery? | Logical Fallacies 998914 Anecdotal Evidence" aria-label="Read more about Did the Remedy Cause the Recovery? | Logical Fallacies 998914 Anecdotal Evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'after-treatment/' | relative_url }}" title="Did the Remedy Cause the Recovery? | When Is a Story Not Enough? | Logical Fallacies" aria-label="Read more about Did the Remedy Cause the Recovery? | When Is a Story Not Enough? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -527,7 +527,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fair-use/' | relative_url }}" title="How to Use Stories Without Cherry Picking | Logical Fallacies 998914 Anecdotal Evidence" aria-label="Read more about How to Use Stories Without Cherry Picking | Logical Fallacies 998914 Anecdotal Evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fair-use/' | relative_url }}" title="How to Use Stories Without Cherry Picking | When Is a Story Not Enough? | Logical Fallacies" aria-label="Read more about How to Use Stories Without Cherry Picking | When Is a Story Not Enough? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -547,7 +547,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-rule/' | relative_url }}" title="When One Story Starts Sounding Like Proof | Logical Fallacies 998914 Anecdotal Evidence" aria-label="Read more about When One Story Starts Sounding Like Proof | Logical Fallacies 998914 Anecdotal Evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-rule/' | relative_url }}" title="When One Story Starts Sounding Like Proof | When Is a Story Not Enough? | Logical Fallacies" aria-label="Read more about When One Story Starts Sounding Like Proof | When Is a Story Not Enough? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -567,7 +567,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vivid-stories/' | relative_url }}" title="Why Vivid Examples Feel So Convincing | Logical Fallacies 998914 Anecdotal Evidence" aria-label="Read more about Why Vivid Examples Feel So Convincing | Logical Fallacies 998914 Anecdotal Evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vivid-stories/' | relative_url }}" title="Why Vivid Examples Feel So Convincing | When Is a Story Not Enough? | Logical Fallacies" aria-label="Read more about Why Vivid Examples Feel So Convincing | When Is a Story Not Enough? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -611,7 +611,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'linked-premises/' | relative_url }}" title="Are These Reasons Independent or One Linked Argument? | Logical Fallacies 998914 Argument Mapping" aria-label="Read more about Are These Reasons Independent or One Linked Argument? | Logical Fallacies 998914 Argument Mapping">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'linked-premises/' | relative_url }}" title="Are These Reasons Independent or One Linked Argument? | Can You Map the Reasoning? | Logical Fallacies" aria-label="Read more about Are These Reasons Independent or One Linked Argument? | Can You Map the Reasoning? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -631,7 +631,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'policy-objections/' | relative_url }}" title="Do the Objections Undermine the Policy or the Reasoning? | Logical Fallacies 998914 Argument Mapping" aria-label="Read more about Do the Objections Undermine the Policy or the Reasoning? | Logical Fallacies 998914 Argument Mapping">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'policy-objections/' | relative_url }}" title="Do the Objections Undermine the Policy or the Reasoning? | Can You Map the Reasoning? | Logical Fallacies" aria-label="Read more about Do the Objections Undermine the Policy or the Reasoning? | Can You Map the Reasoning? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -651,7 +651,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-assumptions-6f3cc8/' | relative_url }}" title="What Assumptions Make This Policy Argument Work? | Logical Fallacies 998914 Argument Mapping" aria-label="Read more about What Assumptions Make This Policy Argument Work? | Logical Fallacies 998914 Argument Mapping">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-assumptions-6f3cc8/' | relative_url }}" title="What Assumptions Make This Policy Argument Work? | Can You Map the Reasoning? | Logical Fallacies" aria-label="Read more about What Assumptions Make This Policy Argument Work? | Can You Map the Reasoning? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -671,7 +671,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'citation-gaps/' | relative_url }}" title="When a Scientific Source Does Not Prove the Claim | Logical Fallacies 998914 Argument Mapping" aria-label="Read more about When a Scientific Source Does Not Prove the Claim | Logical Fallacies 998914 Argument Mapping">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'citation-gaps/' | relative_url }}" title="When a Scientific Source Does Not Prove the Claim | Can You Map the Reasoning? | Logical Fallacies" aria-label="Read more about When a Scientific Source Does Not Prove the Claim | Can You Map the Reasoning? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -691,7 +691,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'weak-link-checks/' | relative_url }}" title="Which Part of the Argument Actually Fails? | Logical Fallacies 998914 Argument Mapping" aria-label="Read more about Which Part of the Argument Actually Fails? | Logical Fallacies 998914 Argument Mapping">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'weak-link-checks/' | relative_url }}" title="Which Part of the Argument Actually Fails? | Can You Map the Reasoning? | Logical Fallacies" aria-label="Read more about Which Part of the Argument Actually Fails? | Can You Map the Reasoning? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -735,7 +735,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'expert-consensus/' | relative_url }}" title="One Expert or the Whole Field? | Logical Fallacies 998914 Appeal To Authority" aria-label="Read more about One Expert or the Whole Field? | Logical Fallacies 998914 Appeal To Authority">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'expert-consensus/' | relative_url }}" title="One Expert or the Whole Field? | When Should You Trust an Expert? | Logical Fallacies" aria-label="Read more about One Expert or the Whole Field? | When Should You Trust an Expert? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -755,7 +755,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'biased-experts/' | relative_url }}" title="When Experts Have Something to Gain | Logical Fallacies 998914 Appeal To Authority" aria-label="Read more about When Experts Have Something to Gain | Logical Fallacies 998914 Appeal To Authority">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'biased-experts/' | relative_url }}" title="When Experts Have Something to Gain | When Should You Trust an Expert? | Logical Fallacies" aria-label="Read more about When Experts Have Something to Gain | When Should You Trust an Expert? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -775,7 +775,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'celebrity-claims/' | relative_url }}" title="When Fame Pretends to Be Expertise | Logical Fallacies 998914 Appeal To Authority" aria-label="Read more about When Fame Pretends to Be Expertise | Logical Fallacies 998914 Appeal To Authority">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'celebrity-claims/' | relative_url }}" title="When Fame Pretends to Be Expertise | When Should You Trust an Expert? | Logical Fallacies" aria-label="Read more about When Fame Pretends to Be Expertise | When Should You Trust an Expert? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -795,7 +795,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'unnamed-experts/' | relative_url }}" title="Who Are These Experts, Exactly? | Logical Fallacies 998914 Appeal To Authority" aria-label="Read more about Who Are These Experts, Exactly? | Logical Fallacies 998914 Appeal To Authority">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'unnamed-experts/' | relative_url }}" title="Who Are These Experts, Exactly? | When Should You Trust an Expert? | Logical Fallacies" aria-label="Read more about Who Are These Experts, Exactly? | When Should You Trust an Expert? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -815,7 +815,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-not-proof/' | relative_url }}" title="Why Experts Still Need Evidence | Logical Fallacies 998914 Appeal To Authority" aria-label="Read more about Why Experts Still Need Evidence | Logical Fallacies 998914 Appeal To Authority">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-not-proof/' | relative_url }}" title="Why Experts Still Need Evidence | When Should You Trust an Expert? | Logical Fallacies" aria-label="Read more about Why Experts Still Need Evidence | When Should You Trust an Expert? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -859,7 +859,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'review-bias/' | relative_url }}" title="Do Bad Reviews Show the Whole Picture? | Logical Fallacies 998914 Hasty Generalisation" aria-label="Read more about Do Bad Reviews Show the Whole Picture? | Logical Fallacies 998914 Hasty Generalisation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'review-bias/' | relative_url }}" title="Do Bad Reviews Show the Whole Picture? | How Much Evidence Is Enough? | Logical Fallacies" aria-label="Read more about Do Bad Reviews Show the Whole Picture? | How Much Evidence Is Enough? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -879,7 +879,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'small-samples/' | relative_url }}" title="How Many Examples Are Enough? | Logical Fallacies 998914 Hasty Generalisation" aria-label="Read more about How Many Examples Are Enough? | Logical Fallacies 998914 Hasty Generalisation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'small-samples/' | relative_url }}" title="How Many Examples Are Enough? | How Much Evidence Is Enough? | Logical Fallacies" aria-label="Read more about How Many Examples Are Enough? | How Much Evidence Is Enough? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -899,7 +899,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'digest-poll/' | relative_url }}" title="The Huge Poll That Got It Wrong | Logical Fallacies 998914 Hasty Generalisation" aria-label="Read more about The Huge Poll That Got It Wrong | Logical Fallacies 998914 Hasty Generalisation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'digest-poll/' | relative_url }}" title="The Huge Poll That Got It Wrong | How Much Evidence Is Enough? | Logical Fallacies" aria-label="Read more about The Huge Poll That Got It Wrong | How Much Evidence Is Enough? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -919,7 +919,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'experience/' | relative_url }}" title="What Personal Experience Can Prove | Logical Fallacies 998914 Hasty Generalisation" aria-label="Read more about What Personal Experience Can Prove | Logical Fallacies 998914 Hasty Generalisation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'experience/' | relative_url }}" title="What Personal Experience Can Prove | How Much Evidence Is Enough? | Logical Fallacies" aria-label="Read more about What Personal Experience Can Prove | How Much Evidence Is Enough? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -939,7 +939,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'some-to-most/' | relative_url }}" title="When Some Becomes Most | Logical Fallacies 998914 Hasty Generalisation" aria-label="Read more about When Some Becomes Most | Logical Fallacies 998914 Hasty Generalisation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'some-to-most/' | relative_url }}" title="When Some Becomes Most | How Much Evidence Is Enough? | Logical Fallacies" aria-label="Read more about When Some Becomes Most | How Much Evidence Is Enough? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -983,7 +983,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trending-loops/' | relative_url }}" title="How Trending Numbers Create More Trending | Logical Fallacies 998914 Bandwagon Pressure" aria-label="Read more about How Trending Numbers Create More Trending | Logical Fallacies 998914 Bandwagon Pressure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trending-loops/' | relative_url }}" title="How Trending Numbers Create More Trending | Are You Being Pressured to Join? | Logical Fallacies" aria-label="Read more about How Trending Numbers Create More Trending | Are You Being Pressured to Join? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1003,7 +1003,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'asch-lines/' | relative_url }}" title="What the Asch Experiments Still Show | Logical Fallacies 998914 Bandwagon Pressure" aria-label="Read more about What the Asch Experiments Still Show | Logical Fallacies 998914 Bandwagon Pressure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'asch-lines/' | relative_url }}" title="What the Asch Experiments Still Show | Are You Being Pressured to Join? | Logical Fallacies" aria-label="Read more about What the Asch Experiments Still Show | Are You Being Pressured to Join? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1023,7 +1023,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'reach-vs-truth/' | relative_url }}" title="When Popularity Is Not Proof | Logical Fallacies 998914 Bandwagon Pressure" aria-label="Read more about When Popularity Is Not Proof | Logical Fallacies 998914 Bandwagon Pressure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'reach-vs-truth/' | relative_url }}" title="When Popularity Is Not Proof | Are You Being Pressured to Join? | Logical Fallacies" aria-label="Read more about When Popularity Is Not Proof | Are You Being Pressured to Join? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1043,7 +1043,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'group-knows/' | relative_url }}" title="When Should You Trust the Crowd? | Logical Fallacies 998914 Bandwagon Pressure" aria-label="Read more about When Should You Trust the Crowd? | Logical Fallacies 998914 Bandwagon Pressure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'group-knows/' | relative_url }}" title="When Should You Trust the Crowd? | Are You Being Pressured to Join? | Logical Fallacies" aria-label="Read more about When Should You Trust the Crowd? | Are You Being Pressured to Join? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1063,7 +1063,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'standing-alone/' | relative_url }}" title="Why Disagreement Feels Socially Risky | Logical Fallacies 998914 Bandwagon Pressure" aria-label="Read more about Why Disagreement Feels Socially Risky | Logical Fallacies 998914 Bandwagon Pressure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'standing-alone/' | relative_url }}" title="Why Disagreement Feels Socially Risky | Are You Being Pressured to Join? | Logical Fallacies" aria-label="Read more about Why Disagreement Feels Socially Risky | Are You Being Pressured to Join? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1107,7 +1107,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'news-trust/' | relative_url }}" title="Can a Source Prove Its Own Reliability? | Logical Fallacies 998914 Circular Reasoning" aria-label="Read more about Can a Source Prove Its Own Reliability? | Logical Fallacies 998914 Circular Reasoning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'news-trust/' | relative_url }}" title="Can a Source Prove Its Own Reliability? | Is the Argument Proving Itself? | Logical Fallacies" aria-label="Read more about Can a Source Prove Its Own Reliability? | Is the Argument Proving Itself? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1127,7 +1127,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-loops/' | relative_url }}" title="How Long Argument Chains Hide Circularity | Logical Fallacies 998914 Circular Reasoning" aria-label="Read more about How Long Argument Chains Hide Circularity | Logical Fallacies 998914 Circular Reasoning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-loops/' | relative_url }}" title="How Long Argument Chains Hide Circularity | Is the Argument Proving Itself? | Logical Fallacies" aria-label="Read more about How Long Argument Chains Hide Circularity | Is the Argument Proving Itself? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1147,7 +1147,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bible-loops/' | relative_url }}" title="When Authority Arguments Turn in Circles | Logical Fallacies 998914 Circular Reasoning" aria-label="Read more about When Authority Arguments Turn in Circles | Logical Fallacies 998914 Circular Reasoning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bible-loops/' | relative_url }}" title="When Authority Arguments Turn in Circles | Is the Argument Proving Itself? | Logical Fallacies" aria-label="Read more about When Authority Arguments Turn in Circles | Is the Argument Proving Itself? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1167,7 +1167,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rewording/' | relative_url }}" title="When Explanations Just Rename the Claim | Logical Fallacies 998914 Circular Reasoning" aria-label="Read more about When Explanations Just Rename the Claim | Logical Fallacies 998914 Circular Reasoning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rewording/' | relative_url }}" title="When Explanations Just Rename the Claim | Is the Argument Proving Itself? | Logical Fallacies" aria-label="Read more about When Explanations Just Rename the Claim | Is the Argument Proving Itself? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1187,7 +1187,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'support-test/' | relative_url }}" title="Would the Premise Convince a Skeptic? | Logical Fallacies 998914 Circular Reasoning" aria-label="Read more about Would the Premise Convince a Skeptic? | Logical Fallacies 998914 Circular Reasoning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'support-test/' | relative_url }}" title="Would the Premise Convince a Skeptic? | Is the Argument Proving Itself? | Logical Fallacies" aria-label="Read more about Would the Premise Convince a Skeptic? | Is the Argument Proving Itself? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1231,7 +1231,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'two-options/' | relative_url }}" title="Are Those Really the Only Choices? | Logical Fallacies 998914 Borderline Context" aria-label="Read more about Are Those Really the Only Choices? | Logical Fallacies 998914 Borderline Context">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'two-options/' | relative_url }}" title="Are Those Really the Only Choices? | When Is It Really a Fallacy? | Logical Fallacies" aria-label="Read more about Are Those Really the Only Choices? | When Is It Really a Fallacy? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1251,7 +1251,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'no-proof/' | relative_url }}" title="When Does No Proof Actually Matter? | Logical Fallacies 998914 Borderline Context" aria-label="Read more about When Does No Proof Actually Matter? | Logical Fallacies 998914 Borderline Context">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'no-proof/' | relative_url }}" title="When Does No Proof Actually Matter? | When Is It Really a Fallacy? | Logical Fallacies" aria-label="Read more about When Does No Proof Actually Matter? | When Is It Really a Fallacy? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1271,7 +1271,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fear-warnings/' | relative_url }}" title="When Is Fear a Fair Warning? | Logical Fallacies 998914 Borderline Context" aria-label="Read more about When Is Fear a Fair Warning? | Logical Fallacies 998914 Borderline Context">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fear-warnings/' | relative_url }}" title="When Is Fear a Fair Warning? | When Is It Really a Fallacy? | Logical Fallacies" aria-label="Read more about When Is Fear a Fair Warning? | When Is It Really a Fallacy? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1291,7 +1291,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-3bd4bb/' | relative_url }}" title="When Is Personal Criticism Relevant? | Logical Fallacies 998914 Borderline Context" aria-label="Read more about When Is Personal Criticism Relevant? | Logical Fallacies 998914 Borderline Context">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-3bd4bb/' | relative_url }}" title="When Is Personal Criticism Relevant? | When Is It Really a Fallacy? | Logical Fallacies" aria-label="Read more about When Is Personal Criticism Relevant? | When Is It Really a Fallacy? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1311,7 +1311,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'expert-shortcuts/' | relative_url }}" title="When Should You Trust an Expert? | Logical Fallacies 998914 Borderline Context" aria-label="Read more about When Should You Trust an Expert? | Logical Fallacies 998914 Borderline Context">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'expert-shortcuts/' | relative_url }}" title="When Should You Trust an Expert? | When Is It Really a Fallacy? | Logical Fallacies" aria-label="Read more about When Should You Trust an Expert? | When Is It Really a Fallacy? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1355,7 +1355,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'self-certify/' | relative_url }}" title="Can Self Certified Extensions Stay Fair? | Logical Fallacies 998914 Deadline Slippery" aria-label="Read more about Can Self Certified Extensions Stay Fair? | Logical Fallacies 998914 Deadline Slippery">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'self-certify/' | relative_url }}" title="Can Self Certified Extensions Stay Fair? | Will One Extension Ruin the Rules? | Logical Fallacies" aria-label="Read more about Can Self Certified Extensions Stay Fair? | Will One Extension Ruin the Rules? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1375,7 +1375,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'precedent-bb651f/' | relative_url }}" title="Does One Extension Force the Next? | Logical Fallacies 998914 Deadline Slippery" aria-label="Read more about Does One Extension Force the Next? | Logical Fallacies 998914 Deadline Slippery">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'precedent-bb651f/' | relative_url }}" title="Does One Extension Force the Next? | Will One Extension Ruin the Rules? | Logical Fallacies" aria-label="Read more about Does One Extension Force the Next? | Will One Extension Ruin the Rules? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1395,7 +1395,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rule-limits/' | relative_url }}" title="Is a Flexible Deadline Still a Deadline? | Logical Fallacies 998914 Deadline Slippery" aria-label="Read more about Is a Flexible Deadline Still a Deadline? | Logical Fallacies 998914 Deadline Slippery">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rule-limits/' | relative_url }}" title="Is a Flexible Deadline Still a Deadline? | Will One Extension Ruin the Rules? | Logical Fallacies" aria-label="Read more about Is a Flexible Deadline Still a Deadline? | Will One Extension Ruin the Rules? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1415,7 +1415,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-rules/' | relative_url }}" title="What Proof Should an Extension Need? | Logical Fallacies 998914 Deadline Slippery" aria-label="Read more about What Proof Should an Extension Need? | Logical Fallacies 998914 Deadline Slippery">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-rules/' | relative_url }}" title="What Proof Should an Extension Need? | Will One Extension Ruin the Rules? | Logical Fallacies" aria-label="Read more about What Proof Should an Extension Need? | Will One Extension Ruin the Rules? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1435,7 +1435,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fairness-risk/' | relative_url }}" title="When Does One Extension Become Unfair? | Logical Fallacies 998914 Deadline Slippery" aria-label="Read more about When Does One Extension Become Unfair? | Logical Fallacies 998914 Deadline Slippery">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fairness-risk/' | relative_url }}" title="When Does One Extension Become Unfair? | Will One Extension Ruin the Rules? | Logical Fallacies" aria-label="Read more about When Does One Extension Become Unfair? | Will One Extension Ruin the Rules? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1479,7 +1479,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-hominem-c0341b/' | relative_url }}" title="Do Not Take the Personal Bait | Logical Fallacies 998914 Debate Fallacies" aria-label="Read more about Do Not Take the Personal Bait | Logical Fallacies 998914 Debate Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-hominem-c0341b/' | relative_url }}" title="Do Not Take the Personal Bait | How to Spot Fallacies in Debate | Logical Fallacies" aria-label="Read more about Do Not Take the Personal Bait | How to Spot Fallacies in Debate | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1499,7 +1499,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'straw-men-16d877/' | relative_url }}" title="How to Answer a Straw Man Fast | Logical Fallacies 998914 Debate Fallacies" aria-label="Read more about How to Answer a Straw Man Fast | Logical Fallacies 998914 Debate Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'straw-men-16d877/' | relative_url }}" title="How to Answer a Straw Man Fast | How to Spot Fallacies in Debate | Logical Fallacies" aria-label="Read more about How to Answer a Straw Man Fast | How to Spot Fallacies in Debate | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1519,7 +1519,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'labels-6f7ad9/' | relative_url }}" title="Should You Name the Fallacy? | Logical Fallacies 998914 Debate Fallacies" aria-label="Read more about Should You Name the Fallacy? | Logical Fallacies 998914 Debate Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'labels-6f7ad9/' | relative_url }}" title="Should You Name the Fallacy? | How to Spot Fallacies in Debate | Logical Fallacies" aria-label="Read more about Should You Name the Fallacy? | How to Spot Fallacies in Debate | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1539,7 +1539,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'charity/' | relative_url }}" title="The Fairer Way to Win Arguments | Logical Fallacies 998914 Debate Fallacies" aria-label="Read more about The Fairer Way to Win Arguments | Logical Fallacies 998914 Debate Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'charity/' | relative_url }}" title="The Fairer Way to Win Arguments | How to Spot Fallacies in Debate | Logical Fallacies" aria-label="Read more about The Fairer Way to Win Arguments | How to Spot Fallacies in Debate | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1559,7 +1559,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-choices/' | relative_url }}" title="When Debate Choices Are Too Neat | Logical Fallacies 998914 Debate Fallacies" aria-label="Read more about When Debate Choices Are Too Neat | Logical Fallacies 998914 Debate Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-choices/' | relative_url }}" title="When Debate Choices Are Too Neat | How to Spot Fallacies in Debate | Logical Fallacies" aria-label="Read more about When Debate Choices Are Too Neat | How to Spot Fallacies in Debate | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1603,7 +1603,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-urgency/' | relative_url }}" title="How Countdown Pressure Shortens Judgment | Logical Fallacies 998914 Appeal To Emotion" aria-label="Read more about How Countdown Pressure Shortens Judgment | Logical Fallacies 998914 Appeal To Emotion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-urgency/' | relative_url }}" title="How Countdown Pressure Shortens Judgment | When Does Emotion Replace Evidence? | Logical Fallacies" aria-label="Read more about How Countdown Pressure Shortens Judgment | When Does Emotion Replace Evidence? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1623,7 +1623,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fear-appeals/' | relative_url }}" title="When Fear Warns but Does Not Prove | Logical Fallacies 998914 Appeal To Emotion" aria-label="Read more about When Fear Warns but Does Not Prove | Logical Fallacies 998914 Appeal To Emotion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fear-appeals/' | relative_url }}" title="When Fear Warns but Does Not Prove | When Does Emotion Replace Evidence? | Logical Fallacies" aria-label="Read more about When Fear Warns but Does Not Prove | When Does Emotion Replace Evidence? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1643,7 +1643,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pity-proof/' | relative_url }}" title="When Pity Starts Doing the Proving | Logical Fallacies 998914 Appeal To Emotion" aria-label="Read more about When Pity Starts Doing the Proving | Logical Fallacies 998914 Appeal To Emotion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pity-proof/' | relative_url }}" title="When Pity Starts Doing the Proving | When Does Emotion Replace Evidence? | Logical Fallacies" aria-label="Read more about When Pity Starts Doing the Proving | When Does Emotion Replace Evidence? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1663,7 +1663,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-news/' | relative_url }}" title="Why Emotional Headlines Feel True | Logical Fallacies 998914 Appeal To Emotion" aria-label="Read more about Why Emotional Headlines Feel True | Logical Fallacies 998914 Appeal To Emotion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-news/' | relative_url }}" title="Why Emotional Headlines Feel True | When Does Emotion Replace Evidence? | Logical Fallacies" aria-label="Read more about Why Emotional Headlines Feel True | When Does Emotion Replace Evidence? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1683,7 +1683,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'threats/' | relative_url }}" title="Why Threats Are Not Evidence | Logical Fallacies 998914 Appeal To Emotion" aria-label="Read more about Why Threats Are Not Evidence | Logical Fallacies 998914 Appeal To Emotion">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'threats/' | relative_url }}" title="Why Threats Are Not Evidence | When Does Emotion Replace Evidence? | Logical Fallacies" aria-label="Read more about Why Threats Are Not Evidence | When Does Emotion Replace Evidence? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1727,7 +1727,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'natural-claims/' | relative_url }}" title="Does Natural Really Mean Safe or Good? | Logical Fallacies 998914 Equivocation" aria-label="Read more about Does Natural Really Mean Safe or Good? | Logical Fallacies 998914 Equivocation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'natural-claims/' | relative_url }}" title="Does Natural Really Mean Safe or Good? | Did the Key Word Change Meaning? | Logical Fallacies" aria-label="Read more about Does Natural Really Mean Safe or Good? | Did the Key Word Change Meaning? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1747,7 +1747,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'spotting-it/' | relative_url }}" title="How Can You Tell When a Word Has Shifted? | Logical Fallacies 998914 Equivocation" aria-label="Read more about How Can You Tell When a Word Has Shifted? | Logical Fallacies 998914 Equivocation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'spotting-it/' | relative_url }}" title="How Can You Tell When a Word Has Shifted? | Did the Key Word Change Meaning? | Logical Fallacies" aria-label="Read more about How Can You Tell When a Word Has Shifted? | Did the Key Word Change Meaning? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1767,7 +1767,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'free-speech/' | relative_url }}" title="When Does Free Speech Become a Word Game? | Logical Fallacies 998914 Equivocation" aria-label="Read more about When Does Free Speech Become a Word Game? | Logical Fallacies 998914 Equivocation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'free-speech/' | relative_url }}" title="When Does Free Speech Become a Word Game? | Did the Key Word Change Meaning? | Logical Fallacies" aria-label="Read more about When Does Free Speech Become a Word Game? | Did the Key Word Change Meaning? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1787,7 +1787,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'compare-fallacies/' | relative_url }}" title="Which Ambiguity Fallacy Is Actually Happening? | Logical Fallacies 998914 Equivocation" aria-label="Read more about Which Ambiguity Fallacy Is Actually Happening? | Logical Fallacies 998914 Equivocation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'compare-fallacies/' | relative_url }}" title="Which Ambiguity Fallacy Is Actually Happening? | Did the Key Word Change Meaning? | Logical Fallacies" aria-label="Read more about Which Ambiguity Fallacy Is Actually Happening? | Did the Key Word Change Meaning? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1807,7 +1807,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'theory-claims/' | relative_url }}" title="Why Only a Theory Misleads About Science | Logical Fallacies 998914 Equivocation" aria-label="Read more about Why Only a Theory Misleads About Science | Logical Fallacies 998914 Equivocation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'theory-claims/' | relative_url }}" title="Why Only a Theory Misleads About Science | Did the Key Word Change Meaning? | Logical Fallacies" aria-label="Read more about Why Only a Theory Misleads About Science | Did the Key Word Change Meaning? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1851,7 +1851,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'straw-men/' | relative_url }}" title="Are You Answering the Real Objection? | Logical Fallacies 998914 Essay Fallacies" aria-label="Read more about Are You Answering the Real Objection? | Logical Fallacies 998914 Essay Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'straw-men/' | relative_url }}" title="Are You Answering the Real Objection? | How Fallacies Weaken Student Essays | Logical Fallacies" aria-label="Read more about Are You Answering the Real Objection? | How Fallacies Weaken Student Essays | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1871,7 +1871,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'scale-jumps/' | relative_url }}" title="How One Example Becomes Too Much | Logical Fallacies 998914 Essay Fallacies" aria-label="Read more about How One Example Becomes Too Much | Logical Fallacies 998914 Essay Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'scale-jumps/' | relative_url }}" title="How One Example Becomes Too Much | How Fallacies Weaken Student Essays | Logical Fallacies" aria-label="Read more about How One Example Becomes Too Much | How Fallacies Weaken Student Essays | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1891,7 +1891,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cherry-picking/' | relative_url }}" title="The Evidence Your Essay Cannot Ignore | Logical Fallacies 998914 Essay Fallacies" aria-label="Read more about The Evidence Your Essay Cannot Ignore | Logical Fallacies 998914 Essay Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cherry-picking/' | relative_url }}" title="The Evidence Your Essay Cannot Ignore | How Fallacies Weaken Student Essays | Logical Fallacies" aria-label="Read more about The Evidence Your Essay Cannot Ignore | How Fallacies Weaken Student Essays | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1911,7 +1911,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'because-gaps/' | relative_url }}" title="When Because Does Not Prove the Point | Logical Fallacies 998914 Essay Fallacies" aria-label="Read more about When Because Does Not Prove the Point | Logical Fallacies 998914 Essay Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'because-gaps/' | relative_url }}" title="When Because Does Not Prove the Point | How Fallacies Weaken Student Essays | Logical Fallacies" aria-label="Read more about When Because Does Not Prove the Point | How Fallacies Weaken Student Essays | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1931,7 +1931,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dropped-quotes/' | relative_url }}" title="Why Quotations Cannot Argue Alone | Logical Fallacies 998914 Essay Fallacies" aria-label="Read more about Why Quotations Cannot Argue Alone | Logical Fallacies 998914 Essay Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dropped-quotes/' | relative_url }}" title="Why Quotations Cannot Argue Alone | How Fallacies Weaken Student Essays | Logical Fallacies" aria-label="Read more about Why Quotations Cannot Argue Alone | How Fallacies Weaken Student Essays | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1975,7 +1975,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-cause-d2310d/' | relative_url }}" title="Did It Work, Or Just Happen After? | Logical Fallacies 998914 Evidence Gaps" aria-label="Read more about Did It Work, Or Just Happen After? | Logical Fallacies 998914 Evidence Gaps">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-cause-d2310d/' | relative_url }}" title="Did It Work, Or Just Happen After? | What Evidence Is the Argument Missing? | Logical Fallacies" aria-label="Read more about Did It Work, Or Just Happen After? | What Evidence Is the Argument Missing? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -1995,7 +1995,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-claims/' | relative_url }}" title="What Should Ads Have to Prove? | Logical Fallacies 998914 Evidence Gaps" aria-label="Read more about What Should Ads Have to Prove? | Logical Fallacies 998914 Evidence Gaps">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-claims/' | relative_url }}" title="What Should Ads Have to Prove? | What Evidence Is the Argument Missing? | Logical Fallacies" aria-label="Read more about What Should Ads Have to Prove? | What Evidence Is the Argument Missing? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2015,7 +2015,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-samples-69cbd5/' | relative_url }}" title="When Five Voices Become Everyone | Logical Fallacies 998914 Evidence Gaps" aria-label="Read more about When Five Voices Become Everyone | Logical Fallacies 998914 Evidence Gaps">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-samples-69cbd5/' | relative_url }}" title="When Five Voices Become Everyone | What Evidence Is the Argument Missing? | Logical Fallacies" aria-label="Read more about When Five Voices Become Everyone | What Evidence Is the Argument Missing? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2035,7 +2035,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cherry-picking-71687b/' | relative_url }}" title="When One Study Hides the Rest | Logical Fallacies 998914 Evidence Gaps" aria-label="Read more about When One Study Hides the Rest | Logical Fallacies 998914 Evidence Gaps">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cherry-picking-71687b/' | relative_url }}" title="When One Study Hides the Rest | What Evidence Is the Argument Missing? | Logical Fallacies" aria-label="Read more about When One Study Hides the Rest | What Evidence Is the Argument Missing? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2055,7 +2055,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'anecdotes-277b8a/' | relative_url }}" title="Why One Story Feels Like a Pattern | Logical Fallacies 998914 Evidence Gaps" aria-label="Read more about Why One Story Feels Like a Pattern | Logical Fallacies 998914 Evidence Gaps">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'anecdotes-277b8a/' | relative_url }}" title="Why One Story Feels Like a Pattern | What Evidence Is the Argument Missing? | Logical Fallacies" aria-label="Read more about Why One Story Feels Like a Pattern | What Evidence Is the Argument Missing? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2099,7 +2099,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'policy-timing/' | relative_url }}" title="Did the Policy Work, or Just Arrive First? | Logical Fallacies 998914 Post Hoc Reasoning" aria-label="Read more about Did the Policy Work, or Just Arrive First? | Logical Fallacies 998914 Post Hoc Reasoning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'policy-timing/' | relative_url }}" title="Did the Policy Work, or Just Arrive First? | Did One Thing Really Cause Another? | Logical Fallacies" aria-label="Read more about Did the Policy Work, or Just Arrive First? | Did One Thing Really Cause Another? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2119,7 +2119,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'counterfactuals/' | relative_url }}" title="The One Question False Causes Avoid | Logical Fallacies 998914 Post Hoc Reasoning" aria-label="Read more about The One Question False Causes Avoid | Logical Fallacies 998914 Post Hoc Reasoning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'counterfactuals/' | relative_url }}" title="The One Question False Causes Avoid | Did One Thing Really Cause Another? | Logical Fallacies" aria-label="Read more about The One Question False Causes Avoid | Did One Thing Really Cause Another? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2139,7 +2139,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vaers-reports/' | relative_url }}" title="When After a Vaccine Is Not Proof | Logical Fallacies 998914 Post Hoc Reasoning" aria-label="Read more about When After a Vaccine Is Not Proof | Logical Fallacies 998914 Post Hoc Reasoning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vaers-reports/' | relative_url }}" title="When After a Vaccine Is Not Proof | Did One Thing Really Cause Another? | Logical Fallacies" aria-label="Read more about When After a Vaccine Is Not Proof | Did One Thing Really Cause Another? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2159,7 +2159,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'regression/' | relative_url }}" title="When Improvement Was Already Likely | Logical Fallacies 998914 Post Hoc Reasoning" aria-label="Read more about When Improvement Was Already Likely | Logical Fallacies 998914 Post Hoc Reasoning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'regression/' | relative_url }}" title="When Improvement Was Already Likely | Did One Thing Really Cause Another? | Logical Fallacies" aria-label="Read more about When Improvement Was Already Likely | Did One Thing Really Cause Another? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2179,7 +2179,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lucky-rituals/' | relative_url }}" title="Why Lucky Shirts Feel Like Evidence | Logical Fallacies 998914 Post Hoc Reasoning" aria-label="Read more about Why Lucky Shirts Feel Like Evidence | Logical Fallacies 998914 Post Hoc Reasoning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lucky-rituals/' | relative_url }}" title="Why Lucky Shirts Feel Like Evidence | Did One Thing Really Cause Another? | Logical Fallacies" aria-label="Read more about Why Lucky Shirts Feel Like Evidence | Did One Thing Really Cause Another? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2223,7 +2223,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'privacy-security/' | relative_url }}" title="Do We Have to Choose Privacy or Safety? | Logical Fallacies 998914 False Dilemmas" aria-label="Read more about Do We Have to Choose Privacy or Safety? | Logical Fallacies 998914 False Dilemmas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'privacy-security/' | relative_url }}" title="Do We Have to Choose Privacy or Safety? | What Choices Are Being Hidden? | Logical Fallacies" aria-label="Read more about Do We Have to Choose Privacy or Safety? | What Choices Are Being Hidden? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2243,7 +2243,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'budget-debates/' | relative_url }}" title="Is It Really Pay More or Collapse? | Logical Fallacies 998914 False Dilemmas" aria-label="Read more about Is It Really Pay More or Collapse? | Logical Fallacies 998914 False Dilemmas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'budget-debates/' | relative_url }}" title="Is It Really Pay More or Collapse? | What Choices Are Being Hidden? | Logical Fallacies" aria-label="Read more about Is It Really Pay More or Collapse? | What Choices Are Being Hidden? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2263,7 +2263,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bush-phrase/' | relative_url }}" title="What Did &#x27;With US&#x27; Leave Out? | Logical Fallacies 998914 False Dilemmas" aria-label="Read more about What Did &#x27;With US&#x27; Leave Out? | Logical Fallacies 998914 False Dilemmas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bush-phrase/' | relative_url }}" title="What Did 'With US' Leave Out? | What Choices Are Being Hidden? | Logical Fallacies" aria-label="Read more about What Did 'With US' Leave Out? | What Choices Are Being Hidden? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2283,7 +2283,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'spotting-gaps/' | relative_url }}" title="What Options Did the Argument Leave Out? | Logical Fallacies 998914 False Dilemmas" aria-label="Read more about What Options Did the Argument Leave Out? | Logical Fallacies 998914 False Dilemmas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'spotting-gaps/' | relative_url }}" title="What Options Did the Argument Leave Out? | What Choices Are Being Hidden? | Logical Fallacies" aria-label="Read more about What Options Did the Argument Leave Out? | What Choices Are Being Hidden? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2303,7 +2303,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'real-choices/' | relative_url }}" title="When Is a Dilemma Actually Real? | Logical Fallacies 998914 False Dilemmas" aria-label="Read more about When Is a Dilemma Actually Real? | Logical Fallacies 998914 False Dilemmas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'real-choices/' | relative_url }}" title="When Is a Dilemma Actually Real? | What Choices Are Being Hidden? | Logical Fallacies" aria-label="Read more about When Is a Dilemma Actually Real? | What Choices Are Being Hidden? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2347,7 +2347,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'existence-errors/' | relative_url }}" title="Do Universal Claims Prove Anything Exists | Logical Fallacies 998914 Formal Fallacies" aria-label="Read more about Do Universal Claims Prove Anything Exists | Logical Fallacies 998914 Formal Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'existence-errors/' | relative_url }}" title="Do Universal Claims Prove Anything Exists | When the Structure Makes Reasoning Fail | Logical Fallacies" aria-label="Read more about Do Universal Claims Prove Anything Exists | When the Structure Makes Reasoning Fail | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2367,7 +2367,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'other-causes/' | relative_url }}" title="The Fallacy That Rules Out Too Much | Logical Fallacies 998914 Formal Fallacies" aria-label="Read more about The Fallacy That Rules Out Too Much | Logical Fallacies 998914 Formal Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'other-causes/' | relative_url }}" title="The Fallacy That Rules Out Too Much | When the Structure Makes Reasoning Fail | Logical Fallacies" aria-label="Read more about The Fallacy That Rules Out Too Much | When the Structure Makes Reasoning Fail | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2387,7 +2387,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-effects/' | relative_url }}" title="When Evidence Looks Like Proof but Isnt | Logical Fallacies 998914 Formal Fallacies" aria-label="Read more about When Evidence Looks Like Proof but Isnt | Logical Fallacies 998914 Formal Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-effects/' | relative_url }}" title="When Evidence Looks Like Proof but Isnt | When the Structure Makes Reasoning Fail | Logical Fallacies" aria-label="Read more about When Evidence Looks Like Proof but Isnt | When the Structure Makes Reasoning Fail | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2407,7 +2407,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'probability-trap/' | relative_url }}" title="When Rare Evidence Misleads a Jury | Logical Fallacies 998914 Formal Fallacies" aria-label="Read more about When Rare Evidence Misleads a Jury | Logical Fallacies 998914 Formal Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'probability-trap/' | relative_url }}" title="When Rare Evidence Misleads a Jury | When the Structure Makes Reasoning Fail | Logical Fallacies" aria-label="Read more about When Rare Evidence Misleads a Jury | When the Structure Makes Reasoning Fail | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2427,7 +2427,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'shared-category/' | relative_url }}" title="Why Shared Traits Do Not Prove Identity | Logical Fallacies 998914 Formal Fallacies" aria-label="Read more about Why Shared Traits Do Not Prove Identity | Logical Fallacies 998914 Formal Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shared-category/' | relative_url }}" title="Why Shared Traits Do Not Prove Identity | When the Structure Makes Reasoning Fail | Logical Fallacies" aria-label="Read more about Why Shared Traits Do Not Prove Identity | When the Structure Makes Reasoning Fail | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2471,7 +2471,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'silence-test/' | relative_url }}" title="When Does No Evidence Actually Count? | Logical Fallacies 998914 Appeal To Ignorance" aria-label="Read more about When Does No Evidence Actually Count? | Logical Fallacies 998914 Appeal To Ignorance">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'silence-test/' | relative_url }}" title="When Does No Evidence Actually Count? | What Does Missing Evidence Prove? | Logical Fallacies" aria-label="Read more about When Does No Evidence Actually Count? | What Does Missing Evidence Prove? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2491,7 +2491,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'null-results/' | relative_url }}" title="When No Effect Has Not Been Proved | Logical Fallacies 998914 Appeal To Ignorance" aria-label="Read more about When No Effect Has Not Been Proved | Logical Fallacies 998914 Appeal To Ignorance">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'null-results/' | relative_url }}" title="When No Effect Has Not Been Proved | What Does Missing Evidence Prove? | Logical Fallacies" aria-label="Read more about When No Effect Has Not Been Proved | What Does Missing Evidence Prove? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2511,7 +2511,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-burden/' | relative_url }}" title="Who Has to Prove the Claim? | Logical Fallacies 998914 Appeal To Ignorance" aria-label="Read more about Who Has to Prove the Claim? | Logical Fallacies 998914 Appeal To Ignorance">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-burden/' | relative_url }}" title="Who Has to Prove the Claim? | What Does Missing Evidence Prove? | Logical Fallacies" aria-label="Read more about Who Has to Prove the Claim? | What Does Missing Evidence Prove? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2531,7 +2531,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'not-proven/' | relative_url }}" title="Why Not Guilty Is Not the Same as False | Logical Fallacies 998914 Appeal To Ignorance" aria-label="Read more about Why Not Guilty Is Not the Same as False | Logical Fallacies 998914 Appeal To Ignorance">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'not-proven/' | relative_url }}" title="Why Not Guilty Is Not the Same as False | What Does Missing Evidence Prove? | Logical Fallacies" aria-label="Read more about Why Not Guilty Is Not the Same as False | What Does Missing Evidence Prove? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2551,7 +2551,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rumour-gaps/' | relative_url }}" title="Why Silence Makes Rumours Feel True | Logical Fallacies 998914 Appeal To Ignorance" aria-label="Read more about Why Silence Makes Rumours Feel True | Logical Fallacies 998914 Appeal To Ignorance">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rumour-gaps/' | relative_url }}" title="Why Silence Makes Rumours Feel True | What Does Missing Evidence Prove? | Logical Fallacies" aria-label="Read more about Why Silence Makes Rumours Feel True | What Does Missing Evidence Prove? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2595,7 +2595,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'red-herrings-13d922/' | relative_url }}" title="Is That Point Relevant or a Distraction? | Logical Fallacies 998914 Informal Fallacies" aria-label="Read more about Is That Point Relevant or a Distraction? | Logical Fallacies 998914 Informal Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'red-herrings-13d922/' | relative_url }}" title="Is That Point Relevant or a Distraction? | Why Context Changes the Argument | Logical Fallacies" aria-label="Read more about Is That Point Relevant or a Distraction? | Why Context Changes the Argument | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2615,7 +2615,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'authority-69260f/' | relative_url }}" title="When Expert Opinion Is Not Enough | Logical Fallacies 998914 Informal Fallacies" aria-label="Read more about When Expert Opinion Is Not Enough | Logical Fallacies 998914 Informal Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'authority-69260f/' | relative_url }}" title="When Expert Opinion Is Not Enough | Why Context Changes the Argument | Logical Fallacies" aria-label="Read more about When Expert Opinion Is Not Enough | Why Context Changes the Argument | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2635,7 +2635,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'anecdotes-7b13b3/' | relative_url }}" title="When One Story Becomes Too Much Proof | Logical Fallacies 998914 Informal Fallacies" aria-label="Read more about When One Story Becomes Too Much Proof | Logical Fallacies 998914 Informal Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'anecdotes-7b13b3/' | relative_url }}" title="When One Story Becomes Too Much Proof | Why Context Changes the Argument | Logical Fallacies" aria-label="Read more about When One Story Becomes Too Much Proof | Why Context Changes the Argument | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2655,7 +2655,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'equivocation-6842f1/' | relative_url }}" title="When One Word Quietly Changes the Argument | Logical Fallacies 998914 Informal Fallacies" aria-label="Read more about When One Word Quietly Changes the Argument | Logical Fallacies 998914 Informal Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'equivocation-6842f1/' | relative_url }}" title="When One Word Quietly Changes the Argument | Why Context Changes the Argument | Logical Fallacies" aria-label="Read more about When One Word Quietly Changes the Argument | Why Context Changes the Argument | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2675,7 +2675,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-hominem-7b72f2/' | relative_url }}" title="When Personal Criticism Actually Matters | Logical Fallacies 998914 Informal Fallacies" aria-label="Read more about When Personal Criticism Actually Matters | Logical Fallacies 998914 Informal Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-hominem-7b72f2/' | relative_url }}" title="When Personal Criticism Actually Matters | Why Context Changes the Argument | Logical Fallacies" aria-label="Read more about When Personal Criticism Actually Matters | Why Context Changes the Argument | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2719,7 +2719,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'anecdotes-c0ecbe/' | relative_url }}" title="Does Anecdotal Evidence Make a Claim False? | Logical Fallacies 998914 Fallacy Labels" aria-label="Read more about Does Anecdotal Evidence Make a Claim False? | Logical Fallacies 998914 Fallacy Labels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'anecdotes-c0ecbe/' | relative_url }}" title="Does Anecdotal Evidence Make a Claim False? | When Fallacy Labels Mislead Too | Logical Fallacies" aria-label="Read more about Does Anecdotal Evidence Make a Claim False? | When Fallacy Labels Mislead Too | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2739,7 +2739,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'repair/' | relative_url }}" title="How Fallacy Labels Can Improve Arguments | Logical Fallacies 998914 Fallacy Labels" aria-label="Read more about How Fallacy Labels Can Improve Arguments | Logical Fallacies 998914 Fallacy Labels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'repair/' | relative_url }}" title="How Fallacy Labels Can Improve Arguments | When Fallacy Labels Mislead Too | Logical Fallacies" aria-label="Read more about How Fallacy Labels Can Improve Arguments | When Fallacy Labels Mislead Too | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2759,7 +2759,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-vs-true/' | relative_url }}" title="When Bad Arguments Still Reach True Claims | Logical Fallacies 998914 Fallacy Labels" aria-label="Read more about When Bad Arguments Still Reach True Claims | Logical Fallacies 998914 Fallacy Labels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-vs-true/' | relative_url }}" title="When Bad Arguments Still Reach True Claims | When Fallacy Labels Mislead Too | Logical Fallacies" aria-label="Read more about When Bad Arguments Still Reach True Claims | When Fallacy Labels Mislead Too | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2779,7 +2779,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'authority-494dc1/' | relative_url }}" title="When Expert Authority Is Helpful or Misleading | Logical Fallacies 998914 Fallacy Labels" aria-label="Read more about When Expert Authority Is Helpful or Misleading | Logical Fallacies 998914 Fallacy Labels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'authority-494dc1/' | relative_url }}" title="When Expert Authority Is Helpful or Misleading | When Fallacy Labels Mislead Too | Logical Fallacies" aria-label="Read more about When Expert Authority Is Helpful or Misleading | When Fallacy Labels Mislead Too | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2799,7 +2799,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'callouts/' | relative_url }}" title="Why Online Fallacy Callouts Go Wrong | Logical Fallacies 998914 Fallacy Labels" aria-label="Read more about Why Online Fallacy Callouts Go Wrong | Logical Fallacies 998914 Fallacy Labels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'callouts/' | relative_url }}" title="Why Online Fallacy Callouts Go Wrong | When Fallacy Labels Mislead Too | Logical Fallacies" aria-label="Read more about Why Online Fallacy Callouts Go Wrong | When Fallacy Labels Mislead Too | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2843,7 +2843,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'charged-labels/' | relative_url }}" title="Are the Labels Doing More Than the Evidence? | Logical Fallacies 998914 Loaded Language" aria-label="Read more about Are the Labels Doing More Than the Evidence? | Logical Fallacies 998914 Loaded Language">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'charged-labels/' | relative_url }}" title="Are the Labels Doing More Than the Evidence? | What Is the Wording Sneaking In? | Logical Fallacies" aria-label="Read more about Are the Labels Doing More Than the Evidence? | What Is the Wording Sneaking In? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2863,7 +2863,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-framing/' | relative_url }}" title="Can One Word Change What People Remember? | Logical Fallacies 998914 Loaded Language" aria-label="Read more about Can One Word Change What People Remember? | Logical Fallacies 998914 Loaded Language">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-framing/' | relative_url }}" title="Can One Word Change What People Remember? | What Is the Wording Sneaking In? | Logical Fallacies" aria-label="Read more about Can One Word Change What People Remember? | What Is the Wording Sneaking In? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2883,7 +2883,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'biased-surveys/' | relative_url }}" title="How Question Wording Skews Survey Results | Logical Fallacies 998914 Loaded Language" aria-label="Read more about How Question Wording Skews Survey Results | Logical Fallacies 998914 Loaded Language">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'biased-surveys/' | relative_url }}" title="How Question Wording Skews Survey Results | What Is the Wording Sneaking In? | Logical Fallacies" aria-label="Read more about How Question Wording Skews Survey Results | What Is the Wording Sneaking In? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2903,7 +2903,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-assumptions/' | relative_url }}" title="How to Detect the Premises No One Defends | Logical Fallacies 998914 Loaded Language" aria-label="Read more about How to Detect the Premises No One Defends | Logical Fallacies 998914 Loaded Language">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-assumptions/' | relative_url }}" title="How to Detect the Premises No One Defends | What Is the Wording Sneaking In? | Logical Fallacies" aria-label="Read more about How to Detect the Premises No One Defends | What Is the Wording Sneaking In? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2923,7 +2923,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'loaded-questions/' | relative_url }}" title="When Does a Question Smuggle In an Answer? | Logical Fallacies 998914 Loaded Language" aria-label="Read more about When Does a Question Smuggle In an Answer? | Logical Fallacies 998914 Loaded Language">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'loaded-questions/' | relative_url }}" title="When Does a Question Smuggle In an Answer? | What Is the Wording Sneaking In? | Logical Fallacies" aria-label="Read more about When Does a Question Smuggle In an Answer? | What Is the Wording Sneaking In? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2967,7 +2967,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'purity-labels/' | relative_url }}" title="How Purity Labels Shut Down Evidence | Logical Fallacies 998914 No True Scotsman" aria-label="Read more about How Purity Labels Shut Down Evidence | Logical Fallacies 998914 No True Scotsman">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'purity-labels/' | relative_url }}" title="How Purity Labels Shut Down Evidence | Are Definitions Moving to Escape Evidence? | Logical Fallacies" aria-label="Read more about How Purity Labels Shut Down Evidence | Are Definitions Moving to Escape Evidence? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -2987,7 +2987,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'persuasive-words/' | relative_url }}" title="When Definitions Carry Hidden Judgment | Logical Fallacies 998914 No True Scotsman" aria-label="Read more about When Definitions Carry Hidden Judgment | Logical Fallacies 998914 No True Scotsman">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'persuasive-words/' | relative_url }}" title="When Definitions Carry Hidden Judgment | Are Definitions Moving to Escape Evidence? | Logical Fallacies" aria-label="Read more about When Definitions Carry Hidden Judgment | Are Definitions Moving to Escape Evidence? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3007,7 +3007,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'membership-tests/' | relative_url }}" title="When Does a True Member Really Count? | Logical Fallacies 998914 No True Scotsman" aria-label="Read more about When Does a True Member Really Count? | Logical Fallacies 998914 No True Scotsman">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'membership-tests/' | relative_url }}" title="When Does a True Member Really Count? | Are Definitions Moving to Escape Evidence? | Logical Fallacies" aria-label="Read more about When Does a True Member Really Count? | Are Definitions Moving to Escape Evidence? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3027,7 +3027,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fair-redefinition/' | relative_url }}" title="When Is Redefinition Not a Fallacy? | Logical Fallacies 998914 No True Scotsman" aria-label="Read more about When Is Redefinition Not a Fallacy? | Logical Fallacies 998914 No True Scotsman">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fair-redefinition/' | relative_url }}" title="When Is Redefinition Not a Fallacy? | Are Definitions Moving to Escape Evidence? | Logical Fallacies" aria-label="Read more about When Is Redefinition Not a Fallacy? | Are Definitions Moving to Escape Evidence? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3047,7 +3047,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'porridge-case/' | relative_url }}" title="Why the Porridge Example Still Works | Logical Fallacies 998914 No True Scotsman" aria-label="Read more about Why the Porridge Example Still Works | Logical Fallacies 998914 No True Scotsman">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'porridge-case/' | relative_url }}" title="Why the Porridge Example Still Works | Are Definitions Moving to Escape Evidence? | Logical Fallacies" aria-label="Read more about Why the Porridge Example Still Works | Are Definitions Moving to Escape Evidence? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3091,7 +3091,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tech-hype/' | relative_url }}" title="Does the New Feature Still Work Later? | Logical Fallacies 998914 Appeal To Novelty" aria-label="Read more about Does the New Feature Still Work Later? | Logical Fallacies 998914 Appeal To Novelty">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tech-hype/' | relative_url }}" title="Does the New Feature Still Work Later? | Is New Always Better? | Logical Fallacies" aria-label="Read more about Does the New Feature Still Work Later? | Is New Always Better? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3111,7 +3111,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fair-comparison/' | relative_url }}" title="How to Compare Old and New Fairly | Logical Fallacies 998914 Appeal To Novelty" aria-label="Read more about How to Compare Old and New Fairly | Logical Fallacies 998914 Appeal To Novelty">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fair-comparison/' | relative_url }}" title="How to Compare Old and New Fairly | Is New Always Better? | Logical Fallacies" aria-label="Read more about How to Compare Old and New Fairly | Is New Always Better? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3131,7 +3131,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'modern-claims/' | relative_url }}" title="When Modern Language Does the Persuading | Logical Fallacies 998914 Appeal To Novelty" aria-label="Read more about When Modern Language Does the Persuading | Logical Fallacies 998914 Appeal To Novelty">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'modern-claims/' | relative_url }}" title="When Modern Language Does the Persuading | Is New Always Better? | Logical Fallacies" aria-label="Read more about When Modern Language Does the Persuading | Is New Always Better? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3151,7 +3151,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'medical-proof/' | relative_url }}" title="When New Treatments Outrun the Evidence | Logical Fallacies 998914 Appeal To Novelty" aria-label="Read more about When New Treatments Outrun the Evidence | Logical Fallacies 998914 Appeal To Novelty">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'medical-proof/' | relative_url }}" title="When New Treatments Outrun the Evidence | Is New Always Better? | Logical Fallacies" aria-label="Read more about When New Treatments Outrun the Evidence | Is New Always Better? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3171,7 +3171,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'new-coke/' | relative_url }}" title="Why New Coke Was Not Just a Taste Test | Logical Fallacies 998914 Appeal To Novelty" aria-label="Read more about Why New Coke Was Not Just a Taste Test | Logical Fallacies 998914 Appeal To Novelty">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'new-coke/' | relative_url }}" title="Why New Coke Was Not Just a Taste Test | Is New Always Better? | Logical Fallacies" aria-label="Read more about Why New Coke Was Not Just a Taste Test | Is New Always Better? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3215,7 +3215,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'locked-pouches/' | relative_url }}" title="Are Locked Pouches a Simple Fix? | Logical Fallacies 998914 School Phone Policy" aria-label="Read more about Are Locked Pouches a Simple Fix? | Logical Fallacies 998914 School Phone Policy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'locked-pouches/' | relative_url }}" title="Are Locked Pouches a Simple Fix? | Are Phone Rules Really All or Nothing? | Logical Fallacies" aria-label="Read more about Are Locked Pouches a Simple Fix? | Are Phone Rules Really All or Nothing? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3235,7 +3235,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'test-scores/' | relative_url }}" title="Do Phone Bans Raise Test Scores? | Logical Fallacies 998914 School Phone Policy" aria-label="Read more about Do Phone Bans Raise Test Scores? | Logical Fallacies 998914 School Phone Policy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'test-scores/' | relative_url }}" title="Do Phone Bans Raise Test Scores? | Are Phone Rules Really All or Nothing? | Logical Fallacies" aria-label="Read more about Do Phone Bans Raise Test Scores? | Are Phone Rules Really All or Nothing? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3255,7 +3255,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wellbeing/' | relative_url }}" title="Do Phone Rules Improve Wellbeing? | Logical Fallacies 998914 School Phone Policy" aria-label="Read more about Do Phone Rules Improve Wellbeing? | Logical Fallacies 998914 School Phone Policy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wellbeing/' | relative_url }}" title="Do Phone Rules Improve Wellbeing? | Are Phone Rules Really All or Nothing? | Logical Fallacies" aria-label="Read more about Do Phone Rules Improve Wellbeing? | Are Phone Rules Really All or Nothing? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3275,7 +3275,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ban-models/' | relative_url }}" title="What Does a Phone Ban Actually Mean? | Logical Fallacies 998914 School Phone Policy" aria-label="Read more about What Does a Phone Ban Actually Mean? | Logical Fallacies 998914 School Phone Policy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ban-models/' | relative_url }}" title="What Does a Phone Ban Actually Mean? | Are Phone Rules Really All or Nothing? | Logical Fallacies" aria-label="Read more about What Does a Phone Ban Actually Mean? | Are Phone Rules Really All or Nothing? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3295,7 +3295,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'exceptions/' | relative_url }}" title="When Should a Phone Rule Bend? | Logical Fallacies 998914 School Phone Policy" aria-label="Read more about When Should a Phone Rule Bend? | Logical Fallacies 998914 School Phone Policy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'exceptions/' | relative_url }}" title="When Should a Phone Rule Bend? | Are Phone Rules Really All or Nothing? | Logical Fallacies" aria-label="Read more about When Should a Phone Rule Bend? | Are Phone Rules Really All or Nothing? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3339,7 +3339,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'polite-fallacies/' | relative_url }}" title="Can a Fallacy Sound Perfectly Reasonable? | Logical Fallacies 998914 Political Speech Fal" aria-label="Read more about Can a Fallacy Sound Perfectly Reasonable? | Logical Fallacies 998914 Political Speech Fal">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'polite-fallacies/' | relative_url }}" title="Can a Fallacy Sound Perfectly Reasonable? | How Public Arguments Go Off Track | Logical Fallacies" aria-label="Read more about Can a Fallacy Sound Perfectly Reasonable? | How Public Arguments Go Off Track | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3359,7 +3359,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'straw-man-3a18b7/' | relative_url }}" title="How Healthcare Claims Become Straw Men | Logical Fallacies 998914 Political Speech Fal" aria-label="Read more about How Healthcare Claims Become Straw Men | Logical Fallacies 998914 Political Speech Fal">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'straw-man-3a18b7/' | relative_url }}" title="How Healthcare Claims Become Straw Men | How Public Arguments Go Off Track | Logical Fallacies" aria-label="Read more about How Healthcare Claims Become Straw Men | How Public Arguments Go Off Track | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3379,7 +3379,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'deregulation/' | relative_url }}" title="The Missing Middle in Deregulation Debates | Logical Fallacies 998914 Political Speech Fal" aria-label="Read more about The Missing Middle in Deregulation Debates | Logical Fallacies 998914 Political Speech Fal">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'deregulation/' | relative_url }}" title="The Missing Middle in Deregulation Debates | How Public Arguments Go Off Track | Logical Fallacies" aria-label="Read more about The Missing Middle in Deregulation Debates | How Public Arguments Go Off Track | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3399,7 +3399,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'popularity-f296de/' | relative_url }}" title="When Majority Support Becomes Fake Proof | Logical Fallacies 998914 Political Speech Fal" aria-label="Read more about When Majority Support Becomes Fake Proof | Logical Fallacies 998914 Political Speech Fal">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'popularity-f296de/' | relative_url }}" title="When Majority Support Becomes Fake Proof | How Public Arguments Go Off Track | Logical Fallacies" aria-label="Read more about When Majority Support Becomes Fake Proof | How Public Arguments Go Off Track | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3419,7 +3419,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-hominem-bd3aff/' | relative_url }}" title="When Personal Attacks Hide the Policy Question | Logical Fallacies 998914 Political Speech Fal" aria-label="Read more about When Personal Attacks Hide the Policy Question | Logical Fallacies 998914 Political Speech Fal">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-hominem-bd3aff/' | relative_url }}" title="When Personal Attacks Hide the Policy Question | How Public Arguments Go Off Track | Logical Fallacies" aria-label="Read more about When Personal Attacks Hide the Policy Question | How Public Arguments Go Off Track | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3463,7 +3463,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-reviews/' | relative_url }}" title="Can Popular Reviews Be Trusted? | Logical Fallacies 998914 Appeal To Popularity" aria-label="Read more about Can Popular Reviews Be Trusted? | Logical Fallacies 998914 Appeal To Popularity">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-reviews/' | relative_url }}" title="Can Popular Reviews Be Trusted? | Does Belief Make a Claim True? | Logical Fallacies" aria-label="Read more about Can Popular Reviews Be Trusted? | Does Belief Make a Claim True? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3483,7 +3483,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cascades/' | relative_url }}" title="How Bandwagons Grow From Thin Evidence | Logical Fallacies 998914 Appeal To Popularity" aria-label="Read more about How Bandwagons Grow From Thin Evidence | Logical Fallacies 998914 Appeal To Popularity">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cascades/' | relative_url }}" title="How Bandwagons Grow From Thin Evidence | Does Belief Make a Claim True? | Logical Fallacies" aria-label="Read more about How Bandwagons Grow From Thin Evidence | Does Belief Make a Claim True? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3503,7 +3503,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'social-proof/' | relative_url }}" title="When Social Proof Stops Being Evidence | Logical Fallacies 998914 Appeal To Popularity" aria-label="Read more about When Social Proof Stops Being Evidence | Logical Fallacies 998914 Appeal To Popularity">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'social-proof/' | relative_url }}" title="When Social Proof Stops Being Evidence | Does Belief Make a Claim True? | Logical Fallacies" aria-label="Read more about When Social Proof Stops Being Evidence | Does Belief Make a Claim True? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3523,7 +3523,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'the-asch-conformity-experiments/' | relative_url }}" title="Why Obvious Answers Can Bend Under Pressure | Logical Fallacies 998914 Appeal To Popularity" aria-label="Read more about Why Obvious Answers Can Bend Under Pressure | Logical Fallacies 998914 Appeal To Popularity">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'the-asch-conformity-experiments/' | relative_url }}" title="Why Obvious Answers Can Bend Under Pressure | Does Belief Make a Claim True? | Logical Fallacies" aria-label="Read more about Why Obvious Answers Can Bend Under Pressure | Does Belief Make a Claim True? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3543,7 +3543,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'popularity-bias/' | relative_url }}" title="Why Trending Lists Can Distort Judgment | Logical Fallacies 998914 Appeal To Popularity" aria-label="Read more about Why Trending Lists Can Distort Judgment | Logical Fallacies 998914 Appeal To Popularity">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'popularity-bias/' | relative_url }}" title="Why Trending Lists Can Distort Judgment | Does Belief Make a Claim True? | Logical Fallacies" aria-label="Read more about Why Trending Lists Can Distort Judgment | Does Belief Make a Claim True? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3587,7 +3587,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'context-test/' | relative_url }}" title="Is It Context or a Dodge? | Logical Fallacies 998914 Red Herrings" aria-label="Read more about Is It Context or a Dodge? | Logical Fallacies 998914 Red Herrings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'context-test/' | relative_url }}" title="Is It Context or a Dodge? | Is This Point Actually Relevant? | Logical Fallacies" aria-label="Read more about Is It Context or a Dodge? | Is This Point Actually Relevant? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3607,7 +3607,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'straw-man-585401/' | relative_url }}" title="Straw Man or Red Herring? | Logical Fallacies 998914 Red Herrings" aria-label="Read more about Straw Man or Red Herring? | Logical Fallacies 998914 Red Herrings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'straw-man-585401/' | relative_url }}" title="Straw Man or Red Herring? | Is This Point Actually Relevant? | Logical Fallacies" aria-label="Read more about Straw Man or Red Herring? | Is This Point Actually Relevant? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3627,7 +3627,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'detail-flood/' | relative_url }}" title="When Details Become a Smokescreen | Logical Fallacies 998914 Red Herrings" aria-label="Read more about When Details Become a Smokescreen | Logical Fallacies 998914 Red Herrings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'detail-flood/' | relative_url }}" title="When Details Become a Smokescreen | Is This Point Actually Relevant? | Logical Fallacies" aria-label="Read more about When Details Become a Smokescreen | Is This Point Actually Relevant? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3647,7 +3647,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'whataboutism/' | relative_url }}" title="When Whataboutism Becomes a Dodge | Logical Fallacies 998914 Red Herrings" aria-label="Read more about When Whataboutism Becomes a Dodge | Logical Fallacies 998914 Red Herrings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'whataboutism/' | relative_url }}" title="When Whataboutism Becomes a Dodge | Is This Point Actually Relevant? | Logical Fallacies" aria-label="Read more about When Whataboutism Becomes a Dodge | Is This Point Actually Relevant? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3667,7 +3667,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dead-cat/' | relative_url }}" title="Why Shocking Distractions Work | Logical Fallacies 998914 Red Herrings" aria-label="Read more about Why Shocking Distractions Work | Logical Fallacies 998914 Red Herrings">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dead-cat/' | relative_url }}" title="Why Shocking Distractions Work | Is This Point Actually Relevant? | Logical Fallacies" aria-label="Read more about Why Shocking Distractions Work | Is This Point Actually Relevant? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3711,7 +3711,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'popularity-1baf18/' | relative_url }}" title="Does Popular Belief Make a Claim True? | Logical Fallacies 998914 Relevance Tests" aria-label="Read more about Does Popular Belief Make a Claim True? | Logical Fallacies 998914 Relevance Tests">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'popularity-1baf18/' | relative_url }}" title="Does Popular Belief Make a Claim True? | Does This Reason Actually Matter? | Logical Fallacies" aria-label="Read more about Does Popular Belief Make a Claim True? | Does This Reason Actually Matter? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3731,7 +3731,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'warrants/' | relative_url }}" title="The Missing Bridge Between Evidence and Claim | Logical Fallacies 998914 Relevance Tests" aria-label="Read more about The Missing Bridge Between Evidence and Claim | Logical Fallacies 998914 Relevance Tests">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'warrants/' | relative_url }}" title="The Missing Bridge Between Evidence and Claim | Does This Reason Actually Matter? | Logical Fallacies" aria-label="Read more about The Missing Bridge Between Evidence and Claim | Does This Reason Actually Matter? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3751,7 +3751,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-hominem-e77826/' | relative_url }}" title="When Character Attacks Are Actually Relevant | Logical Fallacies 998914 Relevance Tests" aria-label="Read more about When Character Attacks Are Actually Relevant | Logical Fallacies 998914 Relevance Tests">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-hominem-e77826/' | relative_url }}" title="When Character Attacks Are Actually Relevant | Does This Reason Actually Matter? | Logical Fallacies" aria-label="Read more about When Character Attacks Are Actually Relevant | Does This Reason Actually Matter? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3771,7 +3771,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pity-appeals/' | relative_url }}" title="When Sympathy Does Not Prove the Claim | Logical Fallacies 998914 Relevance Tests" aria-label="Read more about When Sympathy Does Not Prove the Claim | Logical Fallacies 998914 Relevance Tests">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pity-appeals/' | relative_url }}" title="When Sympathy Does Not Prove the Claim | Does This Reason Actually Matter? | Logical Fallacies" aria-label="Read more about When Sympathy Does Not Prove the Claim | Does This Reason Actually Matter? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3791,7 +3791,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'red-herrings/' | relative_url }}" title="When True Concerns Pull Arguments Off Track | Logical Fallacies 998914 Relevance Tests" aria-label="Read more about When True Concerns Pull Arguments Off Track | Logical Fallacies 998914 Relevance Tests">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'red-herrings/' | relative_url }}" title="When True Concerns Pull Arguments Off Track | Does This Reason Actually Matter? | Logical Fallacies" aria-label="Read more about When True Concerns Pull Arguments Off Track | Does This Reason Actually Matter? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3835,7 +3835,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-red-flags/' | relative_url }}" title="How miracle cure ads sell belief | Logical Fallacies 998914 Health Claim Fallaci" aria-label="Read more about How miracle cure ads sell belief | Logical Fallacies 998914 Health Claim Fallaci">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-red-flags/' | relative_url }}" title="How miracle cure ads sell belief | Do Popular Remedies Prove Themselves? | Logical Fallacies" aria-label="Read more about How miracle cure ads sell belief | Do Popular Remedies Prove Themselves? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3855,7 +3855,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'interactions/' | relative_url }}" title="Natural does not always mean safe | Logical Fallacies 998914 Health Claim Fallaci" aria-label="Read more about Natural does not always mean safe | Logical Fallacies 998914 Health Claim Fallaci">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'interactions/' | relative_url }}" title="Natural does not always mean safe | Do Popular Remedies Prove Themselves? | Logical Fallacies" aria-label="Read more about Natural does not always mean safe | Do Popular Remedies Prove Themselves? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3875,7 +3875,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fda-warnings/' | relative_url }}" title="What warning databases reveal about remedies | Logical Fallacies 998914 Health Claim Fallaci" aria-label="Read more about What warning databases reveal about remedies | Logical Fallacies 998914 Health Claim Fallaci">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fda-warnings/' | relative_url }}" title="What warning databases reveal about remedies | Do Popular Remedies Prove Themselves? | Logical Fallacies" aria-label="Read more about What warning databases reveal about remedies | Do Popular Remedies Prove Themselves? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3895,7 +3895,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'testimonials/' | relative_url }}" title="When recovery stories are not evidence | Logical Fallacies 998914 Health Claim Fallaci" aria-label="Read more about When recovery stories are not evidence | Logical Fallacies 998914 Health Claim Fallaci">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'testimonials/' | relative_url }}" title="When recovery stories are not evidence | Do Popular Remedies Prove Themselves? | Logical Fallacies" aria-label="Read more about When recovery stories are not evidence | Do Popular Remedies Prove Themselves? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3915,7 +3915,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'popularity-e421fe/' | relative_url }}" title="Why bestsellers can still mislead | Logical Fallacies 998914 Health Claim Fallaci" aria-label="Read more about Why bestsellers can still mislead | Logical Fallacies 998914 Health Claim Fallaci">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'popularity-e421fe/' | relative_url }}" title="Why bestsellers can still mislead | Do Popular Remedies Prove Themselves? | Logical Fallacies" aria-label="Read more about Why bestsellers can still mislead | Do Popular Remedies Prove Themselves? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3959,7 +3959,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-cause-11cf12/' | relative_url }}" title="Did that really cause this? | Logical Fallacies 998914 Rumour Fallacies" aria-label="Read more about Did that really cause this? | Logical Fallacies 998914 Rumour Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-cause-11cf12/' | relative_url }}" title="Did that really cause this? | Why Rumours Feel Like Evidence | Logical Fallacies" aria-label="Read more about Did that really cause this? | Why Rumours Feel Like Evidence | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3979,7 +3979,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'health-harm/' | relative_url }}" title="When health rumours become dangerous | Logical Fallacies 998914 Rumour Fallacies" aria-label="Read more about When health rumours become dangerous | Logical Fallacies 998914 Rumour Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'health-harm/' | relative_url }}" title="When health rumours become dangerous | Why Rumours Feel Like Evidence | Logical Fallacies" aria-label="Read more about When health rumours become dangerous | Why Rumours Feel Like Evidence | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -3999,7 +3999,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'viral-proof/' | relative_url }}" title="When sharing looks like evidence | Logical Fallacies 998914 Rumour Fallacies" aria-label="Read more about When sharing looks like evidence | Logical Fallacies 998914 Rumour Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'viral-proof/' | relative_url }}" title="When sharing looks like evidence | Why Rumours Feel Like Evidence | Logical Fallacies" aria-label="Read more about When sharing looks like evidence | Why Rumours Feel Like Evidence | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4019,7 +4019,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'foaf-claims/' | relative_url }}" title="Who actually said the warning? | Logical Fallacies 998914 Rumour Fallacies" aria-label="Read more about Who actually said the warning? | Logical Fallacies 998914 Rumour Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'foaf-claims/' | relative_url }}" title="Who actually said the warning? | Why Rumours Feel Like Evidence | Logical Fallacies" aria-label="Read more about Who actually said the warning? | Why Rumours Feel Like Evidence | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4039,7 +4039,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'no-disproof/' | relative_url }}" title="Why no disproof is not proof | Logical Fallacies 998914 Rumour Fallacies" aria-label="Read more about Why no disproof is not proof | Logical Fallacies 998914 Rumour Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'no-disproof/' | relative_url }}" title="Why no disproof is not proof | Why Rumours Feel Like Evidence | Logical Fallacies" aria-label="Read more about Why no disproof is not proof | Why Rumours Feel Like Evidence | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4083,7 +4083,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'scale-claims/' | relative_url }}" title="Can Big Numbers Hide a Serious Hazard? | Logical Fallacies 998914 Product Safety Red" aria-label="Read more about Can Big Numbers Hide a Serious Hazard? | Logical Fallacies 998914 Product Safety Red">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'scale-claims/' | relative_url }}" title="Can Big Numbers Hide a Serious Hazard? | Did the Answer Address Safety? | Logical Fallacies" aria-label="Read more about Can Big Numbers Hide a Serious Hazard? | Did the Answer Address Safety? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4103,7 +4103,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tread-case/' | relative_url }}" title="Did Warnings Answer the Tread+ Risk? | Logical Fallacies 998914 Product Safety Red" aria-label="Read more about Did Warnings Answer the Tread+ Risk? | Logical Fallacies 998914 Product Safety Red">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tread-case/' | relative_url }}" title="Did Warnings Answer the Tread+ Risk? | Did the Answer Address Safety? | Logical Fallacies" aria-label="Read more about Did Warnings Answer the Tread+ Risk? | Did the Answer Address Safety? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4123,7 +4123,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'safety-pledges/' | relative_url }}" title="When &#x27;We Care About Safety&#x27; Is Not an Answer | Logical Fallacies 998914 Product Safety Red" aria-label="Read more about When &#x27;We Care About Safety&#x27; Is Not an Answer | Logical Fallacies 998914 Product Safety Red">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'safety-pledges/' | relative_url }}" title="When 'We Care About Safety' Is Not an Answer | Did the Answer Address Safety? | Logical Fallacies" aria-label="Read more about When 'We Care About Safety' Is Not an Answer | Did the Answer Address Safety? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4143,7 +4143,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-stats/' | relative_url }}" title="When Safety Statistics Compare the Wrong Things | Logical Fallacies 998914 Product Safety Red" aria-label="Read more about When Safety Statistics Compare the Wrong Things | Logical Fallacies 998914 Product Safety Red">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crash-stats/' | relative_url }}" title="When Safety Statistics Compare the Wrong Things | Did the Answer Address Safety? | Logical Fallacies" aria-label="Read more about When Safety Statistics Compare the Wrong Things | Did the Answer Address Safety? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4163,7 +4163,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cpsc-reporting/' | relative_url }}" title="Why Regulators Want Hazard Facts Fast | Logical Fallacies 998914 Product Safety Red" aria-label="Read more about Why Regulators Want Hazard Facts Fast | Logical Fallacies 998914 Product Safety Red">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cpsc-reporting/' | relative_url }}" title="Why Regulators Want Hazard Facts Fast | Did the Answer Address Safety? | Logical Fallacies" aria-label="Read more about Why Regulators Want Hazard Facts Fast | Did the Answer Address Safety? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4207,7 +4207,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'safeguards/' | relative_url }}" title="Can the Slide Be Stopped in Time? | Logical Fallacies 998914 Slippery Slope" aria-label="Read more about Can the Slide Be Stopped in Time? | Logical Fallacies 998914 Slippery Slope">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'safeguards/' | relative_url }}" title="Can the Slide Be Stopped in Time? | Will One Step Really Lead There? | Logical Fallacies" aria-label="Read more about Can the Slide Be Stopped in Time? | Will One Step Really Lead There? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4227,7 +4227,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'boundaries/' | relative_url }}" title="Does a Blurry Line Mean No Line? | Logical Fallacies 998914 Slippery Slope" aria-label="Read more about Does a Blurry Line Mean No Line? | Logical Fallacies 998914 Slippery Slope">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'boundaries/' | relative_url }}" title="Does a Blurry Line Mean No Line? | Will One Step Really Lead There? | Logical Fallacies" aria-label="Read more about Does a Blurry Line Mean No Line? | Will One Step Really Lead There? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4247,7 +4247,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'precedent/' | relative_url }}" title="Does One Exception Really Rewrite the Rule? | Logical Fallacies 998914 Slippery Slope" aria-label="Read more about Does One Exception Really Rewrite the Rule? | Logical Fallacies 998914 Slippery Slope">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'precedent/' | relative_url }}" title="Does One Exception Really Rewrite the Rule? | Will One Step Really Lead There? | Logical Fallacies" aria-label="Read more about Does One Exception Really Rewrite the Rule? | Will One Step Really Lead There? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4267,7 +4267,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mechanisms/' | relative_url }}" title="What Actually Makes the Slope Slippery? | Logical Fallacies 998914 Slippery Slope" aria-label="Read more about What Actually Makes the Slope Slippery? | Logical Fallacies 998914 Slippery Slope">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mechanisms/' | relative_url }}" title="What Actually Makes the Slope Slippery? | Will One Step Really Lead There? | Logical Fallacies" aria-label="Read more about What Actually Makes the Slope Slippery? | Will One Step Really Lead There? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4287,7 +4287,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-middle/' | relative_url }}" title="Where Did the Middle of the Slope Go? | Logical Fallacies 998914 Slippery Slope" aria-label="Read more about Where Did the Middle of the Slope Go? | Logical Fallacies 998914 Slippery Slope">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-middle/' | relative_url }}" title="Where Did the Middle of the Slope Go? | Will One Step Really Lead There? | Logical Fallacies" aria-label="Read more about Where Did the Middle of the Slope Go? | Will One Step Really Lead There? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4331,7 +4331,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'outrage/' | relative_url }}" title="Does Outrage Make Bad Arguments Spread? | Logical Fallacies 998914 Social Media Fallaci" aria-label="Read more about Does Outrage Make Bad Arguments Spread? | Logical Fallacies 998914 Social Media Fallaci">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'outrage/' | relative_url }}" title="Does Outrage Make Bad Arguments Spread? | Why Bad Arguments Spread Fast Online | Logical Fallacies" aria-label="Read more about Does Outrage Make Bad Arguments Spread? | Why Bad Arguments Spread Fast Online | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4351,7 +4351,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pile-ons-220fa0/' | relative_url }}" title="When Personal Attacks Pretend To Prove A Point | Logical Fallacies 998914 Social Media Fallaci" aria-label="Read more about When Personal Attacks Pretend To Prove A Point | Logical Fallacies 998914 Social Media Fallaci">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pile-ons-220fa0/' | relative_url }}" title="When Personal Attacks Pretend To Prove A Point | Why Bad Arguments Spread Fast Online | Logical Fallacies" aria-label="Read more about When Personal Attacks Pretend To Prove A Point | Why Bad Arguments Spread Fast Online | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4371,7 +4371,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-choices-ce4c3c/' | relative_url }}" title="When Viral Posts Force False Choices | Logical Fallacies 998914 Social Media Fallaci" aria-label="Read more about When Viral Posts Force False Choices | Logical Fallacies 998914 Social Media Fallaci">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-choices-ce4c3c/' | relative_url }}" title="When Viral Posts Force False Choices | Why Bad Arguments Spread Fast Online | Logical Fallacies" aria-label="Read more about When Viral Posts Force False Choices | Why Bad Arguments Spread Fast Online | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4391,7 +4391,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-news/' | relative_url }}" title="Why False Claims Outrun Careful Corrections | Logical Fallacies 998914 Social Media Fallaci" aria-label="Read more about Why False Claims Outrun Careful Corrections | Logical Fallacies 998914 Social Media Fallaci">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-news/' | relative_url }}" title="Why False Claims Outrun Careful Corrections | Why Bad Arguments Spread Fast Online | Logical Fallacies" aria-label="Read more about Why False Claims Outrun Careful Corrections | Why Bad Arguments Spread Fast Online | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4411,7 +4411,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'screenshots/' | relative_url }}" title="Why Screenshots Are Not Always Evidence | Logical Fallacies 998914 Social Media Fallaci" aria-label="Read more about Why Screenshots Are Not Always Evidence | Logical Fallacies 998914 Social Media Fallaci">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'screenshots/' | relative_url }}" title="Why Screenshots Are Not Always Evidence | Why Bad Arguments Spread Fast Online | Logical Fallacies" aria-label="Read more about Why Screenshots Are Not Always Evidence | Why Bad Arguments Spread Fast Online | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4455,7 +4455,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'post-hoc/' | relative_url }}" title="Did the Logo Really Cause the Losing Streak? | Logical Fallacies 998914 Sports False Cause" aria-label="Read more about Did the Logo Really Cause the Losing Streak? | Logical Fallacies 998914 Sports False Cause">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'post-hoc/' | relative_url }}" title="Did the Logo Really Cause the Losing Streak? | Did the Logo Cause the Losing Streak? | Logical Fallacies" aria-label="Read more about Did the Logo Really Cause the Losing Streak? | Did the Logo Cause the Losing Streak? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4475,7 +4475,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-checks/' | relative_url }}" title="How to Test a Sports Logo Curse | Logical Fallacies 998914 Sports False Cause" aria-label="Read more about How to Test a Sports Logo Curse | Logical Fallacies 998914 Sports False Cause">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-checks/' | relative_url }}" title="How to Test a Sports Logo Curse | Did the Logo Cause the Losing Streak? | Logical Fallacies" aria-label="Read more about How to Test a Sports Logo Curse | Did the Logo Cause the Losing Streak? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4495,7 +4495,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'logo-rules/' | relative_url }}" title="Respect Ritual or Real Sports Curse? | Logical Fallacies 998914 Sports False Cause" aria-label="Read more about Respect Ritual or Real Sports Curse? | Logical Fallacies 998914 Sports False Cause">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'logo-rules/' | relative_url }}" title="Respect Ritual or Real Sports Curse? | Did the Logo Cause the Losing Streak? | Logical Fallacies" aria-label="Read more about Respect Ritual or Real Sports Curse? | Did the Logo Cause the Losing Streak? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4515,7 +4515,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lucky-hits/' | relative_url }}" title="Why Logo Superstitions Survive Bad Evidence | Logical Fallacies 998914 Sports False Cause" aria-label="Read more about Why Logo Superstitions Survive Bad Evidence | Logical Fallacies 998914 Sports False Cause">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lucky-hits/' | relative_url }}" title="Why Logo Superstitions Survive Bad Evidence | Did the Logo Cause the Losing Streak? | Logical Fallacies" aria-label="Read more about Why Logo Superstitions Survive Bad Evidence | Did the Logo Cause the Losing Streak? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4535,7 +4535,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-backlash/' | relative_url }}" title="Why New Sports Logos Make Fans Angry | Logical Fallacies 998914 Sports False Cause" aria-label="Read more about Why New Sports Logos Make Fans Angry | Logical Fallacies 998914 Sports False Cause">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-backlash/' | relative_url }}" title="Why New Sports Logos Make Fans Angry | Did the Logo Cause the Losing Streak? | Logical Fallacies" aria-label="Read more about Why New Sports Logos Make Fans Angry | Did the Logo Cause the Losing Streak? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4579,7 +4579,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'quote-mining/' | relative_url }}" title="How Quotes Lose Their Meaning | Logical Fallacies 998914 Straw Man Arguments" aria-label="Read more about How Quotes Lose Their Meaning | Logical Fallacies 998914 Straw Man Arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'quote-mining/' | relative_url }}" title="How Quotes Lose Their Meaning | Are You Answering the Real Argument? | Logical Fallacies" aria-label="Read more about How Quotes Lose Their Meaning | Are You Answering the Real Argument? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4599,7 +4599,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'corrections/' | relative_url }}" title="How to Answer a Straw Man | Logical Fallacies 998914 Straw Man Arguments" aria-label="Read more about How to Answer a Straw Man | Logical Fallacies 998914 Straw Man Arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'corrections/' | relative_url }}" title="How to Answer a Straw Man | Are You Answering the Real Argument? | Logical Fallacies" aria-label="Read more about How to Answer a Straw Man | Are You Answering the Real Argument? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4619,7 +4619,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'exaggeration/' | relative_url }}" title="When Moderate Claims Become Easy Targets | Logical Fallacies 998914 Straw Man Arguments" aria-label="Read more about When Moderate Claims Become Easy Targets | Logical Fallacies 998914 Straw Man Arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'exaggeration/' | relative_url }}" title="When Moderate Claims Become Easy Targets | Are You Answering the Real Argument? | Logical Fallacies" aria-label="Read more about When Moderate Claims Become Easy Targets | Are You Answering the Real Argument? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4639,7 +4639,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'weak-manning/' | relative_url }}" title="When the Weakest Example Stands In | Logical Fallacies 998914 Straw Man Arguments" aria-label="Read more about When the Weakest Example Stands In | Logical Fallacies 998914 Straw Man Arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'weak-manning/' | relative_url }}" title="When the Weakest Example Stands In | Are You Answering the Real Argument? | Logical Fallacies" aria-label="Read more about When the Weakest Example Stands In | Are You Answering the Real Argument? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4659,7 +4659,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hollow-men/' | relative_url }}" title="Who Actually Holds That View? | Logical Fallacies 998914 Straw Man Arguments" aria-label="Read more about Who Actually Holds That View? | Logical Fallacies 998914 Straw Man Arguments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hollow-men/' | relative_url }}" title="Who Actually Holds That View? | Are You Answering the Real Argument? | Logical Fallacies" aria-label="Read more about Who Actually Holds That View? | Are You Answering the Real Argument? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4703,7 +4703,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'anger/' | relative_url }}" title="Can an angry argument still be logical? | Logical Fallacies 998914 Tone Vs Logic" aria-label="Read more about Can an angry argument still be logical? | Logical Fallacies 998914 Tone Vs Logic">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'anger/' | relative_url }}" title="Can an angry argument still be logical? | Is Tone the Same as Logic? | Logical Fallacies" aria-label="Read more about Can an angry argument still be logical? | Is Tone the Same as Logic? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4723,7 +4723,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'four-tests/' | relative_url }}" title="The four tests every argument faces | Logical Fallacies 998914 Tone Vs Logic" aria-label="Read more about The four tests every argument faces | Logical Fallacies 998914 Tone Vs Logic">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'four-tests/' | relative_url }}" title="The four tests every argument faces | Is Tone the Same as Logic? | Logical Fallacies" aria-label="Read more about The four tests every argument faces | Is Tone the Same as Logic? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4743,7 +4743,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tone-policing/' | relative_url }}" title="When does tone policing become a fallacy? | Logical Fallacies 998914 Tone Vs Logic" aria-label="Read more about When does tone policing become a fallacy? | Logical Fallacies 998914 Tone Vs Logic">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tone-policing/' | relative_url }}" title="When does tone policing become a fallacy? | Is Tone the Same as Logic? | Logical Fallacies" aria-label="Read more about When does tone policing become a fallacy? | Is Tone the Same as Logic? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4763,7 +4763,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-a8ea40/' | relative_url }}" title="When is a personal criticism relevant? | Logical Fallacies 998914 Tone Vs Logic" aria-label="Read more about When is a personal criticism relevant? | Logical Fallacies 998914 Tone Vs Logic">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility-a8ea40/' | relative_url }}" title="When is a personal criticism relevant? | Is Tone the Same as Logic? | Logical Fallacies" aria-label="Read more about When is a personal criticism relevant? | Is Tone the Same as Logic? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4783,7 +4783,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'polite-weakness/' | relative_url }}" title="Why polite arguments can still be bad | Logical Fallacies 998914 Tone Vs Logic" aria-label="Read more about Why polite arguments can still be bad | Logical Fallacies 998914 Tone Vs Logic">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'polite-weakness/' | relative_url }}" title="Why polite arguments can still be bad | Is Tone the Same as Logic? | Logical Fallacies" aria-label="Read more about Why polite arguments can still be bad | Is Tone the Same as Logic? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4827,7 +4827,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'traditional-roles/' | relative_url }}" title="Does Tradition Make Roles Fair? | Logical Fallacies 998914 Appeal To Tradition" aria-label="Read more about Does Tradition Make Roles Fair? | Logical Fallacies 998914 Appeal To Tradition">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'traditional-roles/' | relative_url }}" title="Does Tradition Make Roles Fair? | Is Old the Same as Right? | Logical Fallacies" aria-label="Read more about Does Tradition Make Roles Fair? | Is Old the Same as Right? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4847,7 +4847,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'time-tested/' | relative_url }}" title="What Has Time Really Tested? | Logical Fallacies 998914 Appeal To Tradition" aria-label="Read more about What Has Time Really Tested? | Logical Fallacies 998914 Appeal To Tradition">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'time-tested/' | relative_url }}" title="What Has Time Really Tested? | Is Old the Same as Right? | Logical Fallacies" aria-label="Read more about What Has Time Really Tested? | Is Old the Same as Right? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4867,7 +4867,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'semmelweis/' | relative_url }}" title="When Medical Tradition Cost Lives | Logical Fallacies 998914 Appeal To Tradition" aria-label="Read more about When Medical Tradition Cost Lives | Logical Fallacies 998914 Appeal To Tradition">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'semmelweis/' | relative_url }}" title="When Medical Tradition Cost Lives | Is Old the Same as Right? | Logical Fallacies" aria-label="Read more about When Medical Tradition Cost Lives | Is Old the Same as Right? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4887,7 +4887,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'old-rules/' | relative_url }}" title="When Should Old Rules Stay? | Logical Fallacies 998914 Appeal To Tradition" aria-label="Read more about When Should Old Rules Stay? | Logical Fallacies 998914 Appeal To Tradition">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'old-rules/' | relative_url }}" title="When Should Old Rules Stay? | Is Old the Same as Right? | Logical Fallacies" aria-label="Read more about When Should Old Rules Stay? | Is Old the Same as Right? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4907,7 +4907,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'status-quo/' | relative_url }}" title="Why Familiar Choices Feel Safer | Logical Fallacies 998914 Appeal To Tradition" aria-label="Read more about Why Familiar Choices Feel Safer | Logical Fallacies 998914 Appeal To Tradition">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'status-quo/' | relative_url }}" title="Why Familiar Choices Feel Safer | Is Old the Same as Right? | Logical Fallacies" aria-label="Read more about Why Familiar Choices Feel Safer | Is Old the Same as Right? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4951,7 +4951,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'smoking-doctor/' | relative_url }}" title="Can a Hypocrite Still Give Good Advice? | Logical Fallacies 998914 Tu Quoque" aria-label="Read more about Can a Hypocrite Still Give Good Advice? | Logical Fallacies 998914 Tu Quoque">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'smoking-doctor/' | relative_url }}" title="Can a Hypocrite Still Give Good Advice? | Does Hypocrisy Refute the Claim? | Logical Fallacies" aria-label="Read more about Can a Hypocrite Still Give Good Advice? | Does Hypocrisy Refute the Claim? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4971,7 +4971,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'feasibility/' | relative_url }}" title="Does Hypocrisy Reveal Hidden Costs? | Logical Fallacies 998914 Tu Quoque" aria-label="Read more about Does Hypocrisy Reveal Hidden Costs? | Logical Fallacies 998914 Tu Quoque">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'feasibility/' | relative_url }}" title="Does Hypocrisy Reveal Hidden Costs? | Does Hypocrisy Refute the Claim? | Logical Fallacies" aria-label="Read more about Does Hypocrisy Reveal Hidden Costs? | Does Hypocrisy Refute the Claim? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -4991,7 +4991,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'double-standards/' | relative_url }}" title="When Double Standards Are the Point | Logical Fallacies 998914 Tu Quoque" aria-label="Read more about When Double Standards Are the Point | Logical Fallacies 998914 Tu Quoque">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'double-standards/' | relative_url }}" title="When Double Standards Are the Point | Does Hypocrisy Refute the Claim? | Logical Fallacies" aria-label="Read more about When Double Standards Are the Point | Does Hypocrisy Refute the Claim? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -5011,7 +5011,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility/' | relative_url }}" title="When Hypocrisy Really Hurts Credibility | Logical Fallacies 998914 Tu Quoque" aria-label="Read more about When Hypocrisy Really Hurts Credibility | Logical Fallacies 998914 Tu Quoque">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'credibility/' | relative_url }}" title="When Hypocrisy Really Hurts Credibility | Does Hypocrisy Refute the Claim? | Logical Fallacies" aria-label="Read more about When Hypocrisy Really Hurts Credibility | Does Hypocrisy Refute the Claim? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -5031,7 +5031,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'whataboutism-82b621/' | relative_url }}" title="When Whataboutism Dodges the Real Issue | Logical Fallacies 998914 Tu Quoque" aria-label="Read more about When Whataboutism Dodges the Real Issue | Logical Fallacies 998914 Tu Quoque">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'whataboutism-82b621/' | relative_url }}" title="When Whataboutism Dodges the Real Issue | Does Hypocrisy Refute the Claim? | Logical Fallacies" aria-label="Read more about When Whataboutism Dodges the Real Issue | Does Hypocrisy Refute the Claim? | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -5075,7 +5075,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'driver-example/' | relative_url }}" title="Does No Accident Prove Good Driving? | Logical Fallacies 998914 Affirming Consequent" aria-label="Read more about Does No Accident Prove Good Driving? | Logical Fallacies 998914 Affirming Consequent">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'driver-example/' | relative_url }}" title="Does No Accident Prove Good Driving? | Why One Explanation Is Not Enough | Logical Fallacies" aria-label="Read more about Does No Accident Prove Good Driving? | Why One Explanation Is Not Enough | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -5095,7 +5095,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'truth-table/' | relative_url }}" title="The Truth Table That Breaks the Rain Claim | Logical Fallacies 998914 Affirming Consequent" aria-label="Read more about The Truth Table That Breaks the Rain Claim | Logical Fallacies 998914 Affirming Consequent">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'truth-table/' | relative_url }}" title="The Truth Table That Breaks the Rain Claim | Why One Explanation Is Not Enough | Logical Fallacies" aria-label="Read more about The Truth Table That Breaks the Rain Claim | Why One Explanation Is Not Enough | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -5115,7 +5115,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'other-causes-a0566c/' | relative_url }}" title="What Else Could Make Pavement Wet? | Logical Fallacies 998914 Affirming Consequent" aria-label="Read more about What Else Could Make Pavement Wet? | Logical Fallacies 998914 Affirming Consequent">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'other-causes-a0566c/' | relative_url }}" title="What Else Could Make Pavement Wet? | Why One Explanation Is Not Enough | Logical Fallacies" aria-label="Read more about What Else Could Make Pavement Wet? | Why One Explanation Is Not Enough | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -5135,7 +5135,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'smoke-and-fire/' | relative_url }}" title="When Bad Logic Still Feels Sensible | Logical Fallacies 998914 Affirming Consequent" aria-label="Read more about When Bad Logic Still Feels Sensible | Logical Fallacies 998914 Affirming Consequent">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'smoke-and-fire/' | relative_url }}" title="When Bad Logic Still Feels Sensible | Why One Explanation Is Not Enough | Logical Fallacies" aria-label="Read more about When Bad Logic Still Feels Sensible | Why One Explanation Is Not Enough | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>
@@ -5155,7 +5155,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'one-way-logic/' | relative_url }}" title="Why If P Then Q Does Not Reverse | Logical Fallacies 998914 Affirming Consequent" aria-label="Read more about Why If P Then Q Does Not Reverse | Logical Fallacies 998914 Affirming Consequent">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'one-way-logic/' | relative_url }}" title="Why If P Then Q Does Not Reverse | Why One Explanation Is Not Enough | Logical Fallacies" aria-label="Read more about Why If P Then Q Does Not Reverse | Why One Explanation Is Not Enough | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>

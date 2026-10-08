@@ -228,6 +228,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:22:58'
+last_modified_at: '2026-06-03 10:22:58'
 child_links:
 - basename: logical_fallacies_998914_ad_hominem_32e1c3
   title: Ad Hominem | Logical Fallacies

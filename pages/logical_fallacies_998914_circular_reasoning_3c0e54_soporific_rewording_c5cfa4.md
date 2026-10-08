@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 14:43:21'
+last_modified_at: '2026-06-03 14:43:21'
 parent_title: Is the Argument Proving Itself?
 parent_permalink: /circularity/
 parent_nav_short_title: Circularity

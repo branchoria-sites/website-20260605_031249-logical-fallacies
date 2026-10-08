@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 17:23:32'
+last_modified_at: '2026-06-03 17:23:32'
 parent_title: When Should You Trust an Expert?
 parent_permalink: /authority/
 parent_nav_short_title: Authority

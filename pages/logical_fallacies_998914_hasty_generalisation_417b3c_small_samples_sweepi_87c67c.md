@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 13:30:38'
+last_modified_at: '2026-06-03 13:30:38'
 parent_title: How Much Evidence Is Enough?
 parent_permalink: /bad-samples/
 parent_nav_short_title: Bad Samples

@@ -249,7 +249,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-logical-fallacies-998914-ad-hominem-32e1c3-tu-quoque-hypocrisy-9f6a14" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'tu-quoque-hypocrisy-9-f6-a14/' | relative_url }}" title="Tu Quoque Hypocrisy 9 F6 A14 | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Open page: Tu Quoque Hypocrisy 9 F6 A14 | When Personal Attacks Replace Reasons | Logical Fallacies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tu-quoque-hypocrisy-9-f6-a14/' | relative_url }}" title="Tu Quoque Hypocrisy | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Open page: Tu Quoque Hypocrisy | When Personal Attacks Replace Reasons | Logical Fallacies">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-1.webp' | relative_url }}" alt="Overview image for Tu Quoque Hypocrisy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -259,7 +259,7 @@ site_image_description: A desk with debate notes, highlighted argument cards, a 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tu-quoque-hypocrisy-9-f6-a14/' | relative_url }}" title="Tu Quoque Hypocrisy 9 F6 A14 | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Read more about Tu Quoque Hypocrisy 9 F6 A14 | When Personal Attacks Replace Reasons | Logical Fallacies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tu-quoque-hypocrisy-9-f6-a14/' | relative_url }}" title="Tu Quoque Hypocrisy | When Personal Attacks Replace Reasons | Logical Fallacies" aria-label="Read more about Tu Quoque Hypocrisy | When Personal Attacks Replace Reasons | Logical Fallacies">Read more</a>
 </div>
 </div>
 </div>

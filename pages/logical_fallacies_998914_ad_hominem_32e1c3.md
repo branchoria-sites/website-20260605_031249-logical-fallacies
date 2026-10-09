@@ -473,9 +473,9 @@ child_links:
   short_title: Science Effects
   heading_title: Can attacking a scientist change beliefs?
 - basename: logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14
-  title: Tu Quoque Hypocrisy 9 F6 A14 | Ad Hominem
+  title: Tu Quoque Hypocrisy | Ad Hominem
   permalink: /tu-quoque-hypocrisy-9-f6-a14/
-  short_title: Tu Quoque Hypocrisy 9 F6 A14
+  short_title: Tu Quoque Hypocrisy
 up_link:
   basename: logical_fallacies_998914
   title: Fallacy Lab

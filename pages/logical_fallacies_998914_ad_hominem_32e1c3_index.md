@@ -22,4 +22,4 @@ The following pages expand on the main **[Ad Hominem]({{ '/ad-hominem/' | relati
 - [Pile ons]({{ '/pile-ons/' | relative_url }})
 - [Credibility]({{ '/credibility-840c81/' | relative_url }})
 - [Science Effects]({{ '/science-effects/' | relative_url }})
-- [Tu Quoque Hypocrisy 9 F6 A14]({{ '/tu-quoque-hypocrisy-9-f6-a14/' | relative_url }})
+- [Tu Quoque Hypocrisy]({{ '/tu-quoque-hypocrisy-9-f6-a14/' | relative_url }})

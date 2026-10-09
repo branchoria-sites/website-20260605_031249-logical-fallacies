@@ -245,9 +245,9 @@ sibling_links:
   short_title: Pile ons
   heading_title: Why online insults spread so fast
 - basename: logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14
-  title: Tu Quoque Hypocrisy 9 F6 A14 | Ad Hominem
+  title: Tu Quoque Hypocrisy | Ad Hominem
   permalink: /tu-quoque-hypocrisy-9-f6-a14/
-  short_title: Tu Quoque Hypocrisy 9 F6 A14
+  short_title: Tu Quoque Hypocrisy
 up_link:
   basename: logical_fallacies_998914_ad_hominem_32e1c3
   title: Ad Hominem | Logical Fallacies
@@ -262,9 +262,9 @@ prev_link:
   heading_title: Why online insults spread so fast
 next_link:
   basename: logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14
-  title: Tu Quoque Hypocrisy 9 F6 A14 | Ad Hominem
+  title: Tu Quoque Hypocrisy | Ad Hominem
   permalink: /tu-quoque-hypocrisy-9-f6-a14/
-  short_title: Tu Quoque Hypocrisy 9 F6 A14
+  short_title: Tu Quoque Hypocrisy
 header:
   og_image: /assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-1.webp

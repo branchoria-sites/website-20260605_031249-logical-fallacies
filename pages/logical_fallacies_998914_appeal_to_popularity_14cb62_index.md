@@ -4,7 +4,7 @@ title_full: Popularity Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /logical-fallacies-998914-appeal-to/
+permalink: /logical-fallacies-998914-appeal-to-popularity/
 description: Focused pages that expand on Popularity.
 date: '2026'
 layout: default

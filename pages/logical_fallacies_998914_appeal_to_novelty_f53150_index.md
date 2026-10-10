@@ -4,7 +4,7 @@ title_full: Novelty Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /logical-fallacies-998914-appeal-to/
+permalink: /logical-fallacies-998914-appeal-to-novelty/
 description: Focused pages that expand on Novelty.
 date: '2026'
 layout: default

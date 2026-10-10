@@ -4,7 +4,7 @@ title_full: Emotion Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /logical-fallacies-998914-appeal-to/
+permalink: /logical-fallacies-998914-appeal-to-emotion/
 description: Focused pages that expand on Emotion.
 date: '2026'
 layout: default

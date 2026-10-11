@@ -26,8 +26,8 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 - /context/
 nav_short_title: Expert Shortcuts
-title: When Should You Trust an Expert?
-title_full: When Should You Trust an Expert?
+title: "When Should You Trust an Expert? (expert shortcuts)"
+title_full: "When Should You Trust an Expert? (expert shortcuts)"
 display_title_short: Expert Shortcuts
 display_title: Expert Shortcuts
 heading_title: When Should You Trust an Expert?

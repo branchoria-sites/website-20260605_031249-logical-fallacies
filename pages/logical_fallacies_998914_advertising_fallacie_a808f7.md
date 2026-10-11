@@ -1081,7 +1081,7 @@ For the reader, the key habit is to notice the gap between a cue and a claim. A 
 8.<a id="endnote-8"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 9.<a id="endnote-9"></a>
    Source: ecfr.gov  

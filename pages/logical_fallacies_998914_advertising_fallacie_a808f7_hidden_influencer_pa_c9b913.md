@@ -768,12 +768,12 @@ For that reason, disclosure functions as a governance tool aimed at preserving i
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingIf you criticize a competitor of a brand that you are paid to end...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 3.<a id="endnote-3"></a>
    Source: hoganlovells.com  
@@ -834,7 +834,7 @@ For that reason, disclosure functions as a governance tool aimed at preserving i
 13.<a id="endnote-13"></a>
    Source: ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>This brochure from FTC staff gives tips on when and how to make good disclosures.Read more...</p></details>
 
 14.<a id="endnote-14"></a>

@@ -64,8 +64,8 @@ permalink: /authority/
 sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Authority
-title: When Should You Trust an Expert?
-title_full: When Should You Trust an Expert?
+title: "When Should You Trust an Expert? (authority)"
+title_full: "When Should You Trust an Expert? (authority)"
 display_title_short: Authority
 display_title: Authority
 heading_title: When Should You Trust an Expert?

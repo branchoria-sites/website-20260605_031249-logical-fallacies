@@ -766,7 +766,6 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
 3.<a id="endnote-3"></a>
    Source: butte.edu  
    Title: Glenn Community College Fallacies and Propaganda  
-   Link:https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</p></details>
 
 4.<a id="endnote-4"></a>
@@ -824,7 +823,6 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
 
 14.<a id="endnote-14"></a>
    Source: encyclopedia.com  
-   Link:https://www.encyclopedia.com/[politics  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt By AssociationThe United States Supreme Court frequently proclaims that guilt by association has no place in our constitutional sys...</p></details>
 
 15.<a id="endnote-15"></a>

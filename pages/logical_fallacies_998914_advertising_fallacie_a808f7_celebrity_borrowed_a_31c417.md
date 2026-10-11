@@ -857,12 +857,10 @@ Fame can communicate aspiration, identity and emotional appeal. It cannot, by it
 10.<a id="endnote-10"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 12.<a id="endnote-12"></a>
    Source: ftc.gov  

@@ -884,7 +884,6 @@ A reliable appeal to authority requires more than authority. The authority must 
 
 19.<a id="endnote-19"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 20.<a id="endnote-20"></a>
    Source: federalregister.gov  
